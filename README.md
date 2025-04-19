@@ -1,5 +1,39 @@
-# Informe Aplicaciones Web - Proyecto "Eventify"
+<div align="center">
 
-En el presente repositorio, se elaborará de forma colaborativa el informe del proyecto propuesto para el curso de Aplicaciones Web, titulado Eventify.
+# Universidad Peruana de Ciencias Aplicadas
+![upc-logo](./assets/cover/upc-logo.png)
 
-Durante el ciclo de vida de este proyecto se realizarán actualizaciones al informe mediante commits, para mantener un registro de las colaboraciones que brinden cada integrante de la organización.
+## Ingeniería de Software
+## 1ASI0730 - Aplicaciones Web
+### NRC: 4368
+### Docente: Angel Augusto Velasquez Nuñez
+
+## "Informe de Trabajo Final"
+### Startup: AngelDevs
+### Producto: Eventify
+
+|            **Alumno**            | **Codigo** |
+|:--------------------------------:|:----------:|
+| Fabrizio Alexander Cutiri Agüero | U201914181 |
+| Omar Christian Berrocal Ramirez  | U20201B529 |
+|  Deybbi Anderson Crisanto Calle  | U202120569 |
+|   July Zelmira Paico Calderon    | U20211D760 |
+|     Jean Pierr Aldave Aldave     | U202120005 |
+
+### Abril, 2025
+## 2025-10
+</div>
+
+-----
+
+## Registro de Versiones del Informe
+
+
+| **Version** | **Fecha** | **Autor** | **Descripción de modificación** |
+|:-----------:|:---------:|:---------:|:-------------------------------:|
+|             |           |           |                                 |
+
+## Project Report Collaboration Insights
+
+
+------
