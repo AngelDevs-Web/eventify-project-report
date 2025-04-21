@@ -7,13 +7,13 @@
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-|       | Integrante | Descripción | Conocimientos |
- |-------|------------|-------------|---------------|
-|       |            |             |               |
-|       |            |             |               |
-|       |            |             |               |
-|       |            |             |               |
-|       |            |             |               |
+| Integrante                                                                                       | Descripción                                                                                                                                                                                                                                                                                                                                      | Conocimientos                                                        |
+|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+|                                                                                                  |                                                                                                                                                                                                                                                                                                                                                  |                                                                      |
+|                                                                                                  |                                                                                                                                                                                                                                                                                                                                                  |                                                                      |
+|                                                                                                  |                                                                                                                                                                                                                                                                                                                                                  |                                                                      |
+| ![Foto de Fabrizio](../assets/chapter-I/foto_Fabrizio.png) <br> Fabrizio Alexander Cutiri Agüero | Soy estudiante de 7mo ciclo de la carrera de Ingeniería de Software. Me considero una persona responsable, puntual y capaz de adaptarse a diferentes situaciones. Elegí esta carrera porque me apasiona la tecnología y disfruto diseñar y desarrollar aplicaciones innovadoras que ayuden a las personas y empresas a solucionar sus problemas. | HTML, CSS, Javascript, Python, Java, C#, Bases de datos SQL y No SQL |
+|                                                                                                  |                                                                                                                                                                                                                                                                                                                                                  |                                                                      |
 
 ## 1.2. Solution Profile
 
