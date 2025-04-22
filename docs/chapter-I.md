@@ -86,6 +86,36 @@ Este problema puede generar pérdidas económicas significativas para ambas part
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+<div style="text-align: justify">
+
+**Problem Statement - Organizadores de Eventos**
+
+El estado actual de la organización de eventos sociales no masivos (como bodas, cumpleaños y quinceañeros) se ha centrado principalmente en procesos manuales realizados por organizadores que trabajan de forma independiente o con herramientas generales como hojas de cálculo.
+
+Lo que los productos o servicios existentes no abordan es la necesidad de una solución especializada que les permita gestionar múltiples eventos simultáneamente sin perder control ni calidad en la planificación.
+
+Nuestro servicio abordará esta brecha mediante una plataforma que centralice y simplifique la gestión de eventos, mediante herramientas clave como calendarios interactivos, panel para seguimiento de tareas, entre otras.
+
+Nuestro enfoque inicial será organizadores con experiencia que actualmente manejan entre 2 y 5 eventos al mes de forma manual.
+
+Sabremos que tenemos éxito cuando observemos una mayor capacidad para manejar más eventos por mes y una mejora en la satisfacción de sus clientes.
+
+<br><br>
+
+**Problem Statement - Anfitriones de Eventos**
+
+El estado actual de la contratación de organizadores para eventos sociales no masivos se ha centrado principalmente en recomendaciones, redes sociales y contactos directos, lo cual obliga a los anfitriones a buscar, comparar y negociar manualmente con cada proveedor.
+
+Lo que los servicios existentes no abordan es una forma centralizada, clara y confiable de comparar opciones y tomar decisiones rápidas y acertadas.
+
+Nuestro servicio abordará esta brecha mediante una plataforma que permita a los anfitriones buscar, comparar y contactar a organizadores de eventos desde un solo lugar, con información clara y precisa.
+
+Nuestro enfoque inicial serán anfitriones que organizan su primer evento significativo (boda, cumpleaños especial, etc.) y no tienen experiencia previa contratando estos servicios.
+
+Sabremos que tenemos éxito cuando observemos un aumento en la cantidad de contrataciones mensuales a través de la plataforma y el aumento de reseñas de satisfacción post-eventos.
+
+<br> 
+</div>
 
 #### 1.2.2.2. Lean UX Assumptions
 
