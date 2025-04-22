@@ -261,6 +261,17 @@ A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resu
 
 ### 2.3.1. User Personas
 
+En esta sección se presentarán los User Personas de cada segmento objetivo. Estos artefactos fueron diseñados a partir de la información obtenida en las entrevistas.
+<br>
+
+**Segmento Objetivo: Organizadores de eventos sociales no masivos**
+
+![User Persona 1](../assets/chapter-II/user-persona-organizador.png)
+
+ <br>
+
+**Segmento Objetivo: Anfitriones de eventos**
+![User Persona 2](../assets/chapter-II/user-persona-anfitrion.png)
 
 ### 2.3.2. User Task Matrix
 
