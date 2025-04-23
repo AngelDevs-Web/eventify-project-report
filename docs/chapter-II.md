@@ -297,7 +297,44 @@ En cuanto al pago, se estableció un adelanto del 30% y el resto a cancelar el d
 
 A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resultado final. Consideró que el evento cumplió sus expectativas y que el organizador logró plasmar su visión. Asimismo, afirmó que no habría pagado más por un servicio de mayor calidad, ya que lo recibido le pareció adecuado. Finalmente, mencionó que recomendaría al organizador por haber cumplido con lo prometido.
 
+**Entrevista 2: [nombre]**
 
+**Entrevista 3: [nombre]**
+
+**Segmento Objetivo 2: Organizadores de Evento**
+<br><br>
+
+**Entrevista 1: Teodoro Paico Sernaqué**
+
+![Organizador-1](../assets/chapter-II/entrevista-organizador-1.png)
+
+**Datos del entrevistado:**
+* **Nombre:** Teodoro Paico Sernaqué
+* **Edad:** 54 años
+* **Estado civil:** Conviviente
+* **Ocupación:** Organizador de eventos.
+* **Distrito de Residencia:** La Unión - Piura
+
+* **Duración de la entrevista:** 24:19
+* **Minuto de de la entrevista:** [ - ]
+
+**Resumen de la entrevista:**
+
+El entrevistado es un organizador de eventos con una empresa formalmente constituida y con razón social, respaldado por 12 años de experiencia en el rubro. Se describe como una persona responsable, entusiasta y apasionada por su trabajo. Su navegador web de preferencia es Google Chrome.
+
+Durante la entrevista, compartió cómo ha sido su desarrollo profesional en el ámbito de la organización de eventos. Todo comenzó en el año 2012, cuando ofrecía servicios de alquiler de equipos de sonido. Al notar que el negocio era rentable y contribuía significativamente a su economía familiar, decidió expandirse y dedicarse de lleno al rubro de eventos.
+
+Actualmente, mantiene comunicación con sus clientes principalmente a través de redes sociales como WhatsApp y Messenger, así como por llamadas telefónicas. Señaló que la publicidad por radio ha sido de gran ayuda para generar interacción con nuevos clientes.
+
+Dentro de los eventos que organiza con mayor frecuencia destacan las bodas y los bautizos, aunque también presta servicios para fiestas infantiles, quinceañeros, baby showers, serenatas públicas y aniversarios. Ofrece distintos tipos de paquetes, los cuales varían según los servicios incluidos y los recursos requeridos. Desde el momento en que un cliente lo contacta, comienza a organizar su agenda de acuerdo a los requerimientos solicitados. A lo largo del proceso, mantiene una comunicación constante con el cliente para asegurar que todos los detalles se cumplan hasta el día del evento.
+
+En cuanto a la gestión de pagos, indicó que trabaja bajo contrato: solicita un abono del 50% por adelantado y el saldo restante al finalizar el evento. Los medios de pago más utilizados son transferencias bancarias y efectivo.
+
+Un aspecto que considera importante mejorar es la automatización del control y gestión de materiales e insumos. A pesar de los desafíos, se siente orgulloso de poder cumplir con las expectativas de sus clientes y brindarles una experiencia satisfactoria. Sin embargo, también ha enfrentado dificultades, como clientes que no cumplen con los pagos a tiempo o que solicitan más servicios de los previamente acordados. Ante estas situaciones, procura mantener una actitud positiva y aprender de cada experiencia para seguir mejorando en su labor.
+
+**Entrevista 2: [nombre]**
+
+**Entrevista 3: [nombre]**
 
 ### 2.2.3. Análisis de entrevistas
 
