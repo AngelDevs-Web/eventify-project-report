@@ -366,5 +366,16 @@ En esta sección se presentarán los User Personas de cada segmento objetivo. Es
 
 ### 2.3.5. As-is Scenario Mapping
 
+**Segmento Organizadores**
+
+Para realizar el *As-is scenario mapping* de este segmento se han identificado los principales pasos que siguen los organizadores de eventos sociales no masivos al momento de gestionar un evento. Este mapa ilustra el proceso actual de nuestro user persona, Francisco Mendoza, destacando las interacciones con los clientes y los desafíos que enfrentan en cada etapa.
+![As-is Scenario Map 1](../assets/chapter-II/as-is-scenario-organizador.png)
+
+
+**Segmento Anfitriones**
+
+En el As-is scenario mapping de este segmento se han identificado los principales pasos que siguen los anfitriones de eventos al momento de gestionar un evento. Este mapa ilustra el proceso actual de nuestro user persona, Laura Gómez, destacando las interacciones con los organizadores y los desafíos que enfrentan en cada etapa.
+
+![As-is Scenario Map 2](../assets/chapter-II/as-is-scenario-anfitrion.png)
 
 ## 2.4. Ubiquitous Language
