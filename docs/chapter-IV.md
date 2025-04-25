@@ -135,7 +135,47 @@ En esta sección se descompone el sistema en sus contenedores principales, ilust
 ![container-diagram](/assets/chapter-IV/container-diagram-eventify.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
+Finalmente, en esta sección se detallan los componentes internos de la Single Page Application (SPA), la cual está dividida en diferentes bounded contexts que encapsulan funcionalidades específicas del dominio. Cada bounded context agrupa componentes que colaboran entre sí para cumplir con responsabilidades concretas, lo que facilita la escalabilidad, el mantenimiento y la alineación con los procesos del negocio.
 
+**Bounded Context Event Management**
+
+![bounded-context-event-management](/assets/chapter-IV/component-diagram-event-management.png)
+
+**Bounded Context Quote Management**
+
+![bounded-context-quote-management](/assets/chapter-IV/component-diagram-quote-management.png)
+
+**Bounded Context Searching Event Planning Service**
+
+![bounded-context-searching-event-planning-service](/assets/chapter-IV/component-diagram-searching-event-planning-service.png)
+
+**Bounded Context Reviews and Ratings**
+
+![bounded-context-reviews-and-ratings](/assets/chapter-IV/component-diagram-reviews-and-ratings.png)
+
+**Bounded Context User Authentication**
+
+![bounded-context-user-authentication](/assets/chapter-IV/component-diagram-authentication.png)
+
+**Bounded Context Profile Management**
+
+![bounded-context-profile-management](/assets/chapter-IV/component-diagram-profile-management.png)
+
+**Bounded Context Payments and Suscriptions**
+
+![bounded-context-payments-and-suscription](/assets/chapter-IV/component-diagram-payments-and-suscriptions.png)
+
+**Bounded Context Direct Communication**
+
+![bounded-context-direct-communication](/assets/chapter-IV/component-diagram-direct-communication.png)
+
+**Bounded Context Notifications**
+
+![bounded-context-notifications](/assets/chapter-IV/component-diagram-notifications.png)
+
+**Bounded Context Shared**
+
+![bounded-context-shared](/assets/chapter-IV/component-diagram-shared.png)
 
 ## 4.7. Software Object-Oriented Design
 
