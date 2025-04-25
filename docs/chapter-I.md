@@ -1,9 +1,23 @@
 # Chapter I: Introducción
 
 ## 1.1. Startup Profile
-
+En esta sección se encuentra la descripción de nuestra Startup
 ### 1.1.1. Descripción de la Startup
+<div style="text-align: justify">
 
+**AngelDevs** es una startup de tecnologia que se especializa en desarrollar soluciones digitales e innovadoras que transformen la industria tradicional en el sector de eventos con su aplicativo web **Eventify**. Este aplicativo web conecta eficientemente a organizadores de eventos profesionales o freelance con clientes que necesitan sus servicios ya sea para bodas, fiestas, cumpleaños, etc. Eventify facilitaria la búsqueda, contratación y coordinación entre ambas partes, ofreciendoles a los clientes herramientas para encontrar organizadores de eventos según sus necesidades específicas, mientras que a los profesionales se les proporcionan sistemas de gestión de eventos, comunicación directa, cotizaciones, contrataciones, calendario y notas personalizadas. Con una cultura basada en metodologías ágiles y centrada en la experiencia del usuario, **AngelDevs** aspira a expandirse regionalmente , posicionándose como modelo en el desarrollo de productos tecnológicos con propósito.
+
+**Misión:**
+
+Construir soluciones digitales innovadoras que transformen la industria tradicionale en el sector de eventos, mediante el desarrollo de plataformas centradas en la experiencia del usuario, la eficiencia operativa y el crecimiento colaborativo.
+Nos apasiona conectar personas, resolver problemas reales y crear productos que generen impacto.
+
+**Visión:**
+
+Ser una startup referente en el desarrollo de productos tecnológicos con propósito, escalando nuestras soluciones a nivel regional, mientras fomentamos una cultura de trabajo ágil, creativa y centrada en la mejora continua.
+Aspiramos a liderar con innovación, empatía y compromiso con nuestros usuarios y la sociedad.
+
+</div>
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
