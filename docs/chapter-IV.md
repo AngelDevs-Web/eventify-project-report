@@ -130,7 +130,9 @@ En esta sección se muestra una visión general del sistema en su entorno, ident
 ![context-diagram](/assets/chapter-IV/context-diagram-eventify.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
+En esta sección se descompone el sistema en sus contenedores principales, ilustrando las tecnologías utilizadas, las responsabilidades de cada uno y cómo se comunican entre sí.
 
+![container-diagram](/assets/chapter-IV/container-diagram-eventify.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
