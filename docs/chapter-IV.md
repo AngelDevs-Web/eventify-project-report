@@ -125,7 +125,9 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram
+En esta sección se muestra una visión general del sistema en su entorno, identificando los actores externos, sistemas relacionados y las principales interacciones que definen sus límites funcionales.
 
+![context-diagram](/assets/chapter-IV/context-diagram-eventify.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
