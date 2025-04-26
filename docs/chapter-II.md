@@ -280,8 +280,8 @@ A continuación, se presentará un resumen de cada entrevista realizada a los se
 * **Ocupación:** Comerciante
 * **Distrito de Residencia:** Chorrillos
 
-* **Duración de la entrevista:**
-* **Video de las entrevistas:** [Needfinding - Interviews]()
+* **Duración de la entrevista:** [00:00:08 - 00:16:12]
+* **Video de las entrevistas:** [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EXks3gNtzrFPh8mlpqOnP4oBJkIS1VjexgiBtpRkFu_wow)
 
 **Resumen de la entrevista:**
 
@@ -297,7 +297,7 @@ En cuanto al pago, se estableció un adelanto del 30% y el resto a cancelar el d
 
 A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resultado final. Consideró que el evento cumplió sus expectativas y que el organizador logró plasmar su visión. Asimismo, afirmó que no habría pagado más por un servicio de mayor calidad, ya que lo recibido le pareció adecuado. Finalmente, mencionó que recomendaría al organizador por haber cumplido con lo prometido.
 
-**Entrevista 2: [nombre]**
+
 
 **Entrevista 2: Cenith Luque García**
 
@@ -310,8 +310,8 @@ A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resu
 * **Ocupación:** Militar del ejército peruano
 * **Distrito de Residencia:** Lima - Chorrillos
 
-* **Duración de la entrevista:** 5:35
-* **Minuto de la entrevista:**
+* **Duración de la entrevista:** [00:16:14 - 00:21:49]
+* **Video de las entrevistas:** [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EXks3gNtzrFPh8mlpqOnP4oBJkIS1VjexgiBtpRkFu_wow)
 
 **Resumen de la entrevista:**
 
@@ -337,8 +337,8 @@ Finalmente, la entrevistada afirmó que recomendaría al organizador del evento,
 * **Ocupación:** Estudiante de Medicina veterinaria
 * **Distrito de Residencia:** Lima - Santiago de Surco
 
-* **Duración de la entrevista:** 8:25
-* **Minuto de la entrevista:** 0:20
+* **Duración de la entrevista:** [00:21:50 - 00:30:15]
+* **Video de las entrevistas:** [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EXks3gNtzrFPh8mlpqOnP4oBJkIS1VjexgiBtpRkFu_wow)
 
 **Resumen de la entrevista:**
 
@@ -367,8 +367,8 @@ Lo más frustrante para ella fue la falta de respuesta por parte del organizador
 * **Ocupación:** Organizador de eventos.
 * **Distrito de Residencia:** La Unión - Piura
 
-* **Duración de la entrevista:** 24:19
-* **Minuto de de la entrevista:** [ - ]
+* **Duración de la entrevista:** [00:30:16 - 00:54:35]
+* **Video de las entrevistas:** [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EXks3gNtzrFPh8mlpqOnP4oBJkIS1VjexgiBtpRkFu_wow)
 
 **Resumen de la entrevista:**
 
@@ -395,8 +395,8 @@ Un aspecto que considera importante mejorar es la automatización del control y 
 * **Ocupación:** Organizador de eventos.
 * **Distrito de Residencia:** Villa el Salvador 
 
-* **Duración de la entrevista:** 18:56
-* **Minuto de de la entrevista:** [-]
+* **Duración de la entrevista:** [00:54:36 - 01:13:31]
+* **Video de las entrevistas:** [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EXks3gNtzrFPh8mlpqOnP4oBJkIS1VjexgiBtpRkFu_wow)
 
 **Resumen de la entrevista:**
 
@@ -424,8 +424,8 @@ Considera que un aspecto para automatizar es la organización de los contactos o
 * **Ocupación:** Organizador de eventos.
 * **Distrito de Residencia:** Surco
 
-* **Duración de la entrevista:**
-* **Minuto de de la entrevista:**
+* **Duración de la entrevista:** [1:13:32 - 1:35:23]
+* **Video de las entrevistas:** [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EXks3gNtzrFPh8mlpqOnP4oBJkIS1VjexgiBtpRkFu_wow)
 
 **Resumen de la entrevista:**
 
