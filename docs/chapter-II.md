@@ -444,6 +444,87 @@ Finalmente, Sara reconoce que no está del todo satisfecha con su flujo actual d
 ### 2.2.3. Análisis de entrevistas
 
 
+En esta sección, se presenta el análisis de las entrevistas realizadas, según los segmentos obejtivos. La finalidad es identificar las principales necesidades, preferencias y desafíos del mercado.
+
+A través de gráficos estadísticos, se muestran los resultados más relevantes, que servirán como base para definir las funcionalidades y características de la plataforma.
+
+- Segmento Objetivo 1: Anfitriones de Eventos
+
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_1.png" alt="Grafico_Anfitriones_1" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_2.png" alt="Grafico_Anfitriones_2" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_3.png" alt="Grafico_Anfitriones_3" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_4.png" alt="Grafico_Anfitriones_4" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_5.png" alt="Grafico_Anfitriones_5" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_6.png" alt="Grafico_Anfitriones_6" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_7.png" alt="Grafico_Anfitriones_7" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_8.png" alt="Grafico_Anfitriones_8" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_9.png" alt="Grafico_Anfitriones_9" width="60%">
+</p><p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_10.png" alt="Grafico_Anfitriones_10" width="60%">
+</p>
+
+- Segmento Objetivo 2: Oreganizadores de Eventos
+
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_1.png" alt="Grafico_Excel_Organizadores_1" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_2.png" alt="Grafico_Excel_Organizadores_2" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_3.png" alt="Grafico_Excel_Organizadores_3" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_4.png" alt="Grafico_Excel_Organizadores_4" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_5.png" alt="Grafico_Excel_Organizadores_5" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_6.png" alt="Grafico_Excel_Organizadores_6" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_7.png" alt="Grafico_Excel_Organizadores_7" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_8.png" alt="Grafico_Excel_Organizadores_8" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_9.png" alt="Grafico_Excel_Organizadores_9" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_10.png" alt="Grafico_Excel_Organizadores_10" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_11.png" alt="Grafico_Excel_Organizadores_11" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_12.png" alt="Grafico_Excel_Organizadores_12" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_13.png" alt="Grafico_Excel_Organizadores_13" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-II/Grafico_Excel_Organizadores_14.png" alt="Grafico_Excel_Organizadores_14" width="60%">
+</p>
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
