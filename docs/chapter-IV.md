@@ -74,7 +74,7 @@ En el desarrollo de Eventify, la optimización para motores de búsqueda (SEO) j
 
 En este apartado, exploraremos los diferentes tipos de meta tags y SEO tags implementados en Eventify, cómo se utilizan para optimizar la indexación de nuestras páginas y las mejores prácticas que siguen los motores de búsqueda más utilizados.
 
-#### 🌐 Landing Page (Sitio Web Estático)
+#### Landing Page (Sitio Web Estático)
 
 - **Title Tag: <br>**
   El title tag es uno de los factores más importantes en SEO, ya que determina el título que aparece en los resultados de búsqueda. Por eso decidimos que sea breve, relevante y que contenenga las palabras clave para mejorar una mejor visibilidad.
@@ -208,7 +208,22 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 
 
 ### 4.4.3. Web Applications Mock-ups
+En esta sección se muestran los mock-ups del Web Applications, que sirven como una representación visual de alta fidelidad para anticipar cómo se verá y funcionará la interfaz final. [Mock Ups - Eventify](https://www.figma.com/design/uPtLATLNkVL8P5xY7wBOc2/Eventify---Landing-page?node-id=160-2)
+<br>
 
+Segmento Organizadores de Eventos
+
+
+![form-login.png](../assets/chapter-IV/form-login.png)
+![form-register.png](../assets/chapter-IV/form-register.png)
+![form-register-host.png](../assets/chapter-IV/form-register-host.png)
+![form-register-organizer.png](../assets/chapter-IV/form-register-organizer.png)
+![organizer-dashboard.png](../assets/chapter-IV/organizer-dashboard.png)
+![organizer-dashboard-1.png](../assets/chapter-IV/organizer-dashboard-1.png)
+![event-board.png](../assets/chapter-IV/event-board.png)
+![task-board-update.png](../assets/chapter-IV/task-board-update.png)
+![organizer profile.png](../assets/chapter-IV/organizer%20profile.png)
+![subscription-screen.png](../assets/chapter-IV/subscription-screen.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
