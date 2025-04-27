@@ -29,9 +29,17 @@
 ## Registro de Versiones del Informe
 
 
-| **Version** | **Fecha** | **Autor** | **Descripción de modificación** |
-|:-----------:|:---------:|:---------:|:-------------------------------:|
-|             |           |           |                                 |
+| **Version** | **Fecha**  |            **Autor**             |                                       **Descripción de modificación**                                        |
+|:-----------:|:----------:|:--------------------------------:|:------------------------------------------------------------------------------------------------------------:|
+|     1.0     | 19/04/2024 | Fabrizio Alexander Cutiri Agüero |                                    Se presento la estructura del Informe                                     |
+|     1.1     | 24/04/2024 | Fabrizio Alexander Cutiri Agüero |                  Se agrego Startup Profile, Antecedentes y Problematica, Segmentos Objetivo                  |
+|     1.2     | 25/04/2024 | Fabrizio Alexander Cutiri Agüero |                             Se agregarón todas las secciones del Lean UX Process                             |
+|     1.3     | 25/04/2024 | Fabrizio Alexander Cutiri Agüero | Se agregaron las secciones respecto a las entrevistas, analisis de competidores y Artefactos del Needfinding |
+|     1.4     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |                 Se agregó el To Be Scenary Map, las Epics, User Stories y Technical Stories.                 |
+|     1.5     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |            Se agregaron los Style Guidelines generales y Web. Ademas del Information Architecture            |
+|     1.6     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |         Se agregarón wireframes, mockups del landing page y la aplicación web. Además del Prototipo.         |
+|     1.7     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |                            Se agregó el c4 model y el diagrama de base de datos.                             |
+|     1.8     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |                       Se realizó el Sprint plannig 1 y el despliegue del Landing Page                        |
 
 ## Project Report Collaboration Insights
 
