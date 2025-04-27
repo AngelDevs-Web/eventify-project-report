@@ -215,6 +215,15 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 
 ## 4.5. Web Applications Prototyping
 
+El prototipo de Eventify ha sido diseñado en Figma con el objetivo de representar de forma visual e interactiva la experiencia de usuario tanto para anfitriones como para organizadores de eventos. Cada tipo de usuario cuenta con funcionalidades específicas adaptadas a sus necesidades: los anfitriones pueden buscar organizadores, enviar mensajes, gestionar eventos y recibir cotizaciones; mientras que los organizadores pueden administrar solicitudes, enviar formularios, cotizar servicios y gestionar sus eventos activos.
+
+A continuación, se presenta el enlace al prototipo web que refleja las principales interfaces y flujos de navegación de la aplicación.
+
+Link Figma:  [https://www.figma.com/design/9vW0oXnpuqYjmlFnWRPQhP/Untitled?node-id=1-2571&t=VfAsE0ff28QeXJpO-1](https://www.figma.com/design/9vW0oXnpuqYjmlFnWRPQhP/Untitled?node-id=1-2571&t=VfAsE0ff28QeXJpO-1)
+
+![Prototyping_Image](../assets/chapter-IV/prototyping_image.PNG)
+
+Link Presentación del prototipo:  [https://www.figma.com/proto/9vW0oXnpuqYjmlFnWRPQhP/Untitled?node-id=1-2571&t=VfAsE0ff28QeXJpO-1](https://www.figma.com/proto/9vW0oXnpuqYjmlFnWRPQhP/Untitled?node-id=1-2571&t=VfAsE0ff28QeXJpO-1)
 
 ## 4.6. Domain-Driven Software Architecture
 
