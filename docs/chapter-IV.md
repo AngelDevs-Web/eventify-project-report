@@ -400,8 +400,10 @@ En esta sección se presentan las representaciones **(wireframes)** de la aplica
 ![wireframe-4.png](../assets/chapter-IV/wireframe-4.png)
 
 
-
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+En esta sección se presentan los diagramas de flujo de la aplicación web, que ilustran las interacciones y el flujo de navegación entre las diferentes pantallas y funcionalidades. Estos diagramas ayudan a comprender cómo los usuarios interactuarán con la plataforma y cómo se moverán a través de las distintas secciones.
+
 
 
 ### 4.4.3. Web Applications Mock-ups
@@ -420,7 +422,28 @@ Segmento Organizadores de Eventos
 ![event-board.png](../assets/chapter-IV/event-board.png)
 ![task-board-update.png](../assets/chapter-IV/task-board-update.png)
 ![organizer profile.png](../assets/chapter-IV/organizer%20profile.png)
-![subscription-screen.png](../assets/chapter-IV/subscription-screen.png)
+![subscription-screen.png](../assets/chapter-IV/subscription-screen.png) 
+
+Segmento Anfitriones de Eventos
+
+![host-profile.png](../assets/chapter-IV/host-profile.png)
+
+![host-privacy-settings.png](../assets/chapter-IV/host-privacy-settings.png) 
+
+![host-notifications-config.png](../assets/chapter-IV/host-notifications-config.png) 
+
+![host-my-events-svg 1.png](../assets/chapter-IV/host-my-events-svg%201.png) 
+
+![host-messages-1.png](../assets/chapter-IV/host-messages-1.png) 
+
+![host-messages.png](../assets/chapter-IV/host-messages.png)
+
+![host-quote-details.png](../assets/chapter-IV/host-quote-details.png) 
+
+![host-reviews-fixed.png](../assets/chapter-IV/host-reviews-fixed.png) 
+
+![host-settings.png](../assets/chapter-IV/host-settings.png) 
+
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
