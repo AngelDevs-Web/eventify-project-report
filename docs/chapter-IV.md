@@ -61,6 +61,83 @@ Para organizar el contenido se utilizó el patrón en Z, un esquema visual que g
 
 ## 4.2. Information Architecture
 
+# Sistemas de Etiquetado en Eventify
+
+En este apartado se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **Eventify**.  
+El etiquetado está diseñado para facilitar la navegación y mejorar la experiencia del usuario, asegurando que cada sección y funcionalidad sea fácilmente reconocible y accesible.
+
+---
+
+## Etiquetas de Encabezados (Headings)
+
+Las etiquetas de encabezado en **Eventify** se utilizan para definir claramente las secciones principales de la página y la aplicación.  
+Esto permite a los usuarios identificar rápidamente el contenido de cada sección:
+
+- **Inicio / Home:**  
+  Este encabezado se utiliza en la página principal para dar la bienvenida a los usuarios y proporcionar una introducción general a la plataforma.  
+  Incluye un banner con la propuesta de valor de Eventify y botones de acceso rápido para registro de organizadores e inscripción de asistentes.
+
+- **Eventos / Events:**  
+  Sección que describe los eventos disponibles, sus categorías (conciertos, conferencias, talleres, ferias, etc.), y permite a los usuarios explorar y registrarse.
+
+- **Planes y Precios / Pricing Plans:**  
+  Encabezado que detalla las opciones de suscripción para organizadores de eventos, incluyendo características y beneficios de cada plan.
+
+- **Contáctanos / Contact Us:**  
+  Proporciona información de contacto, formulario de consulta, y enlaces para asistencia personalizada a organizadores y asistentes.
+
+- **Sobre Nosotros / About Us:**  
+  Ofrece información sobre la misión de Eventify, su visión de conectar experiencias, y el equipo detrás de la plataforma.
+
+---
+
+## Etiquetas Textuales (Text Labels)
+
+Las etiquetas textuales son utilizadas para identificar categorías específicas o acciones dentro de la plataforma.  
+Estas etiquetas ayudan a los usuarios a navegar de manera efectiva y realizar acciones específicas:
+
+- **Buscar Eventos / Find Events:**  
+  Utilizada en la barra de búsqueda, permite a los usuarios explorar eventos disponibles según ubicación, fecha o categoría.
+
+- **Registrarse / Register:**  
+  Botón que permite a los usuarios inscribirse como asistentes o creadores de eventos.
+
+- **Mis Eventos / My Events:**  
+  Sección donde los usuarios pueden gestionar los eventos a los que están inscritos o que están organizando.
+
+- **Historial / History:**  
+  Permite a los usuarios revisar los eventos pasados a los que asistieron o que organizaron.
+
+- **Configuraciones / Settings:**  
+  Permite acceder a las preferencias de cuenta, métodos de pago, notificaciones y ajustes generales.
+
+---
+
+## Etiquetas Icónicas (Iconic Labels)
+
+Las etiquetas icónicas se basan en imágenes o iconos que transmiten significado visualmente.  
+Estas etiquetas son intuitivas y ayudan a los usuarios a comprender rápidamente las funcionalidades sin necesidad de texto:
+
+- **Icono de Búsqueda (Lupa):**  
+  Representa la función de buscar eventos dentro de la plataforma.
+
+- **Icono de Calendario:**  
+  Utilizado para mostrar fechas relevantes de los eventos y gestionar la programación personal.
+
+- **Icono de Estrella:**  
+  Permite marcar eventos como favoritos para recibir recordatorios o guardarlos para futuras decisiones.
+
+- **Icono de Ticket:**  
+  Representa el acceso a las entradas de los eventos, tanto para la compra como para su visualización.
+
+- **Icono de Notificación:**  
+  Indica actualizaciones importantes, como cambios en la programación, nuevos eventos sugeridos o recordatorios de inscripción.
+
+---
+
+Estas etiquetas están distribuidas estratégicamente en la **Landing Page** y la **Aplicación Web** de **Eventify**, guiando a los usuarios de manera intuitiva y mejorando significativamente la experiencia de gestión y participación en eventos.
+
+
 ### 4.2.1. Organization Systems
 
 # Arquitectura de la Información de Eventify
@@ -125,6 +202,68 @@ La Aplicación Web de **Eventify** está diseñada para ofrecer una experiencia 
 
 
 ### 4.2.2. Labeling Systems
+
+# Sistemas de Etiquetado en Eventify ( Web Application PrimeVue)
+
+En este apartado se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **Eventify**, desarrollada con **PrimeVue**.  
+El etiquetado está diseñado para facilitar la navegación mediante componentes UI preconstruidos, mejorando la experiencia del usuario.
+
+---
+
+## Etiquetas de Encabezados (Headings)
+
+Las etiquetas de encabezado se implementan utilizando componentes de PrimeVue como `<Card>`, `<Panel>` y `<Toolbar>`, facilitando la organización del contenido:
+
+- **Inicio / Home:**  
+  Banner de bienvenida utilizando `<Hero>`, botones `<Button>` de acceso rápido para registro e inicio de sesión.
+
+- **Eventos / Events:**  
+  Listado dinámico de eventos mediante `<DataTable>` o `<Listbox>`, mostrando detalles de cada evento.
+
+- **Planes y Precios / Pricing Plans:**  
+  Sección mostrada en `<Card>` para cada plan disponible, con botones de acción de registro rápido.
+
+- **Contáctanos / Contact Us:**  
+  Formulario de contacto con componentes `<InputText>`, `<Textarea>` y `<Button>` de envío.
+
+- **Sobre Nosotros / About Us:**  
+  Sección descriptiva presentada con `<Panel>` o `<Accordion>` para expandir información de misión y visión.
+
+---
+
+## Etiquetas Textuales (Text Labels)
+
+Las etiquetas textuales aparecen como propiedades `label` en botones y campos de entrada:
+
+- **Buscar Eventos / Find Events:**  
+  Barra de búsqueda implementada con `<InputText>` y botón `<Button label="Buscar">`.
+
+- **Registrarse / Register:**  
+  Botón de acción destacado usando `<Button>`.
+
+- **Mis Eventos / My Events:**  
+  Sección de eventos propios utilizando `<TabView>` para organizar eventos activos y pasados.
+
+- **Historial / History:**  
+  Listado de eventos anteriores con `<DataTable>` y opciones de filtrado.
+
+- **Configuraciones / Settings:**  
+  Acceso mediante `<Menu>` lateral o `<Sidebar>` a las preferencias del usuario.
+
+---
+
+## Etiquetas Icónicas (Iconic Labels)
+
+Se utilizan componentes `<Button>` con íconos embebidos (`icon="pi pi-search"`, `icon="pi pi-calendar"`, etc.):
+
+- **Icono de Búsqueda (Lupa):** `pi pi-search`
+- **Icono de Calendario:** `pi pi-calendar`
+- **Icono de Estrella:** `pi pi-star`
+- **Icono de Ticket:** `pi pi-ticket`
+- **Icono de Notificación:** `pi pi-bell`
+
+---
+
 
 
 ### 4.2.3. SEO Tags and Meta Tags
