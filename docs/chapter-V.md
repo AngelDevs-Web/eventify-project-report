@@ -234,6 +234,44 @@ export default {
 - No debe exceder las 80 columnas por línea. Si ese fuera el caso, deberemos de dividir la linea del código para una mejor claridad y limpieza.
 
 ### 5.1.4. Software Deployment Configuration
+En esta sección se detalla la configuración necesaria para el despliegue de la solución eventify, incluyendo los pasos clave para lograr la publicación satisfactoria de la **landing page** utilizando github pages para visualizar cada commit de la **landing page**.
+
+A continuación, se describen los pasos para realizar el despliegue de la **landing page** del proyecto **Eventify**:
+
+##### 1. Actualización de ramas
+
+Asegúrese de que todas las ramas del repositorio estén actualizadas. luego, ingresa a github y dirígete al repositorio del proyecto **Eventify**.
+
+![url.png](../assets/chapter-V/url.png)
+
+##### 2. Acceso a las configuraciones
+
+Una vez dentro del repositorio, haz clic en la pestaña **settings** en la parte superior del repositorio.
+
+![settings.png](../assets/chapter-V/settings.png)
+
+##### 3. Selección de github pages
+
+Dentro de la sección **settings**, en el menú lateral, busca la opción llamada **pages**. esta opción permite configurar el despliegue de la página desde una rama específica del repositorio.
+
+![pages.png](../assets/chapter-V/pages.png)
+
+##### 4. Configuración de la rama principal
+
+En la opción **pages**, selecciona la rama principal (generalmente llamada **main** o **master**). luego, haz clic en el botón **save** para iniciar el proceso de deploy de la página.
+<br>
+![configuration-root.png](../assets/chapter-V/configuration-root.png)
+<br>
+##### 5. Confirmación del deploy
+
+Una vez que github complete el proceso de deploy, en la parte superior de la sección **pages** se mostrará un mensaje de confirmación junto con el enlace generado para acceder a la **landing page** del proyecto. <br>
+
+##### 6. Acceso a la página
+
+Finalmente, podrás acceder a la **landing page** desde el enlace que se generó al finalizar el deploy. aquí está un ejemplo de enlace:  
+`https://angeldevs-web.github.io/eventify-landing-page/`
+
+![landing-displayed.png](../assets/chapter-V/landing-displayed.png)
 
 
 ## 5.2. Landing Page, Services & Applications Implementation
