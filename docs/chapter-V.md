@@ -30,8 +30,8 @@ Para el desarrollo del software del Landing Page, se adoptaron los siguientes pr
 
 En la gestión de proyectos y colaboración del equipo se utilizaron:
 
-- Trello: Utilizado para la planificación y seguimiento de tareas, distribuidas en listas de "por hacer", "en progreso" y "hecho". Trello- Git (Instalación local): Empleado para gestionar los cambios de código de manera local mediante commits y ramas. [https://git-scm.com/](https://git-scm.com/)
-- WhatsApp: Medio de comunicación instantánea para coordinar avances, resolver dudas rápidas y hacer recordatorios.[https://web.whatsapp.com/](https://web.whatsapp.com/)
+- Trello: Utilizado para la planificación y seguimiento de tareas, distribuidas en listas de "por hacer", "en progreso" y "hecho". 
+- WhatsApp: Medio de comunicación instantánea para coordinar avances, resolver dudas rápidas y hacer recordatorios. [https://web.whatsapp.com/](https://web.whatsapp.com/)
 - Discord: Utilizado como plataforma de comunicación por voz y chat, facilitando reuniones rápidas y discusiones técnicas en equipo. [https://discord.com/](https://discord.com/)
 - Zoom: Herramienta utilizada para realizar reuniones virtuales más formales, presentaciones de avances y coordinación general del equipo. [https://www.zoom.com/es](https://www.zoom.com/es)
 
@@ -39,7 +39,7 @@ En la gestión de proyectos y colaboración del equipo se utilizaron:
 
 Para la documentación del proyecto se emplearon las siguientes herramientas:
 
-- Vertabelo: Herramienta utilizada para el diseño, creación y documentación colaborativa de bases de datos. Vertabelo- WhatsApp (SaaS): Medio de comunicación instantánea para coordinar avances, resolver dudas rápidas y hacer recordatorios.[https://vertabelo.com/](https://vertabelo.com/)
+- Vertabelo: Herramienta utilizada para el diseño, creación y documentación colaborativa de bases de datos. [https://vertabelo.com/](https://vertabelo.com/) 
 - Lucidchart: Utilizada para la creación de diagramas UML, wireflows y user flows que ayudan en la planificación y visualización del sistema. [https://www.lucidchart.com/pages](https://www.lucidchart.com/pages)
 - Structurizr: Herramienta usada para modelar la arquitectura de software mediante diagramas C4. [https://structurizr.com/](https://structurizr.com/)
 
