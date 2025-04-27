@@ -52,6 +52,59 @@ En cuanto a la validación del software:
 
 ### 5.1.2. Source Code Management
 
+La gestión del código fuente es una parte fundamental en el desarrollo colaborativo de software, ya que permite un control eficiente sobre las modificaciones realizadas en el proyecto a lo largo de su ciclo de vida. En este apartado, se describe el sistema de control de versiones implementado en el proyecto Eventify, utilizando GitHub como plataforma principal. Además, se detallan las convenciones de trabajo adoptadas por el equipo, como el modelo GitFlow, el versionado semántico (Semantic Versioning) y las convenciones de commit mediante Conventional Commits. Estas prácticas aseguran un desarrollo ordenado y una integración continua efectiva entre los miembros del equipo.
+
+**URL de los Repositorios:**
+- Organización: [https://github.com/AngelDevs-Web](https://github.com/AngelDevs-Web)
+- Reporte: [https://github.com/AngelDevs-Web/eventify-project-report](https://github.com/AngelDevs-Web/eventify-project-report)
+- Landing Page: FALTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+**Estructura de Ramas:**
+
+Para mantener un flujo organizado en el desarrollo y facilitar la colaboración, se ha implementado el modelo GitFlow, creando las siguientes ramas:
+
+- Master Branch: Rama principal (main) que contiene las versiones estables del proyecto. Todas las demás ramas derivan de esta.
+- Develop: Rama secundaria donde se integran todas las características nuevas antes de fusionarse a la rama main.
+- Feature Branches (Chapter I,II,III,IV,V): Para esta primera entrega son ramas dedicadas a cada capítulo del informe, permitiendo que cada miembro trabaje de manera independiente sin afectar el desarrollo principal.
+- Release Branche: Rama creada cuando el equipo decide que la rama develop está lista para ser convertida en una nueva versión estable.
+- Cover: Rama destinada a los elementos de la portada del informe.
+- Student-outcome: Rama dedicada a los resultados de cada uno de los integrantes en relacion con el proyecto.
+- Bibliography: Rama cuya funcionalidad es realizar la bibliografia del informe del proyecto.
+- Annexes: Rama destinada a enumarar los anexos de cada entrega del informe.
+
+**Convenciones de commits:**
+
+Para la escritura de commits en el proyecto Eventify, se sigue la convencion 'Conventional Commits', el cual cuenta con un formato estándar para facilitar la lectura y entendimiento del historial de cambios dentro del proyecto.
+```
+    <type>[optional scope]: <description>
+    
+    [optional body]
+    
+    [optional footer(s)]
+```
+- Type:
+  - feat: Añadir una nueva característica.
+  - fix: Correción de errores.
+  - docs: Modificaciones en la documentación.
+  - style: Cambios que no afectan la lógica del código.
+  - refactor: Modificaciones que no añaden características y/o errores.
+  - test: Adición/Modificación de pruebas.
+ 
+
+- Scope: Brinda información extra acerca del área del codigo afectado.
+```
+   feat(auth): add register functionality.
+```
+**Ejemplos básicos de commits:**
+```
+   feat(login): add organizer authentication module.
+```
+```
+   fix(payment): resolve payment security issue.
+```
+```
+   docs(README): update index instructions.
+```
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
