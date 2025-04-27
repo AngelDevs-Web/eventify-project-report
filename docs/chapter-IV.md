@@ -66,7 +66,6 @@ Para organizar el contenido se utilizó el patrón en Z, un esquema visual que g
 En este apartado se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **Eventify**.  
 El etiquetado está diseñado para facilitar la navegación y mejorar la experiencia del usuario, asegurando que cada sección y funcionalidad sea fácilmente reconocible y accesible.
 
----
 
 ## Etiquetas de Encabezados (Headings)
 
@@ -89,7 +88,6 @@ Esto permite a los usuarios identificar rápidamente el contenido de cada secci�
 - **Sobre Nosotros / About Us:**  
   Ofrece información sobre la misión de Eventify, su visión de conectar experiencias, y el equipo detrás de la plataforma.
 
----
 
 ## Etiquetas Textuales (Text Labels)
 
@@ -111,7 +109,6 @@ Estas etiquetas ayudan a los usuarios a navegar de manera efectiva y realizar ac
 - **Configuraciones / Settings:**  
   Permite acceder a las preferencias de cuenta, métodos de pago, notificaciones y ajustes generales.
 
----
 
 ## Etiquetas Icónicas (Iconic Labels)
 
@@ -133,11 +130,8 @@ Estas etiquetas son intuitivas y ayudan a los usuarios a comprender rápidamente
 - **Icono de Notificación:**  
   Indica actualizaciones importantes, como cambios en la programación, nuevos eventos sugeridos o recordatorios de inscripción.
 
----
 
-Estas etiquetas están distribuidas estratégicamente en la **Landing Page** y la **Aplicación Web** de **Eventify**, guiando a los usuarios de manera intuitiva y mejorando significativamente la experiencia de gestión y participación en eventos.
-
-
+  
 ### 4.2.1. Organization Systems
 
 # Arquitectura de la Información de Eventify
@@ -167,7 +161,6 @@ Situada en la parte superior de la página, proporciona accesos rápidos a las s
 
 Incluye enlaces a secciones importantes como políticas de privacidad, términos de servicio, contacto y enlaces a redes sociales. El footer proporciona una navegación adicional para usuarios que desean explorar más sobre Eventify.
 
----
 
 ## Aplicación Web
 
@@ -208,7 +201,6 @@ La Aplicación Web de **Eventify** está diseñada para ofrecer una experiencia 
 En este apartado se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **Eventify**, desarrollada con **PrimeVue**.  
 El etiquetado está diseñado para facilitar la navegación mediante componentes UI preconstruidos, mejorando la experiencia del usuario.
 
----
 
 ## Etiquetas de Encabezados (Headings)
 
@@ -229,7 +221,6 @@ Las etiquetas de encabezado se implementan utilizando componentes de PrimeVue co
 - **Sobre Nosotros / About Us:**  
   Sección descriptiva presentada con `<Panel>` o `<Accordion>` para expandir información de misión y visión.
 
----
 
 ## Etiquetas Textuales (Text Labels)
 
@@ -250,7 +241,6 @@ Las etiquetas textuales aparecen como propiedades `label` en botones y campos de
 - **Configuraciones / Settings:**  
   Acceso mediante `<Menu>` lateral o `<Sidebar>` a las preferencias del usuario.
 
----
 
 ## Etiquetas Icónicas (Iconic Labels)
 
@@ -261,9 +251,6 @@ Se utilizan componentes `<Button>` con íconos embebidos (`icon="pi pi-search"`,
 - **Icono de Estrella:** `pi pi-star`
 - **Icono de Ticket:** `pi pi-ticket`
 - **Icono de Notificación:** `pi pi-bell`
-
----
-
 
 
 ### 4.2.3. SEO Tags and Meta Tags
@@ -401,6 +388,17 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
+
+En esta sección se presentan las representaciones **(wireframes)** de la aplicación web, diseñadas para dispositivos móviles y de escritorio.
+
+![wireframe-1.png](../assets/chapter-IV/wireframe-1.png) 
+
+![wireframe-2.png](../assets/chapter-IV/wireframe-2.png) 
+
+![wireframe-3.png](../assets/chapter-IV/wireframe-3.png) 
+
+![wireframe-4.png](../assets/chapter-IV/wireframe-4.png)
+
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
