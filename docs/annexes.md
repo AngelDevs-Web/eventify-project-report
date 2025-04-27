@@ -1,0 +1,5 @@
+# Anexos
+
+| Sección                    | Caracteristicas del video                                                                                                                                      | Enlace                                                                                                                 |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| **Needfinding Interviews** | **Cantidad de videos:** 1 <br> **Nomenclatura:** <br> upc-pre-202510-1asi0730-4368-startup-angeldevs-sprint-1 <br> **Formato:** mp4 <br> **Duración:** 1:35:23 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EXks3gNtzrFPh8mlpqOnP4oBJkIS1VjexgiBtpRkFu_wow |
