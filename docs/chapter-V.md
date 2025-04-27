@@ -57,7 +57,7 @@ La gestión del código fuente es una parte fundamental en el desarrollo colabor
 **URL de los Repositorios:**
 - Organización: [https://github.com/AngelDevs-Web](https://github.com/AngelDevs-Web)
 - Reporte: [https://github.com/AngelDevs-Web/eventify-project-report](https://github.com/AngelDevs-Web/eventify-project-report)
-- Landing Page: FALTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+- Landing Page: [https://github.com/AngelDevs-Web/eventify-landing-page](https://github.com/AngelDevs-Web/eventify-landing-page)
 
 **Estructura de Ramas:**
 
@@ -418,6 +418,99 @@ Enlance: https://trello.com/b/iDs1MVOZ/eventify-sprint-backlog-1
 
 
 #### 5.2.1.4. Development Evidence for Sprint Review
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center">https://github.com/AngelDevs-Web/eventify-landing-page </td>
+    <td align="center"> main</td>
+    <td align="center"> 49af8ee3c41cd1cc6c6b8100d9683e7d1f7d5039</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/04/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/funcionalities</td>
+    <td align="center" > 2333d01bd172e5a66b6c26ef3a6fcfcdf586c4c2</td>
+    <td align="center"> style(functionalities): add styles for functionalities section.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/04/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/header</td>
+    <td align="center">bf85dfcef5397066db23464b27b0233109bceca5</td>
+    <td align="center"> style(header): add style for header section.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/04/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/about-us</td>
+    <td align="center"> 71db5f1a488d4cc2deef8c59bde6a5e5bf30ab66</td>
+    <td align="center"> feat(about-us): add styles for about us section.</td>
+    <td align="center"> ---</td>
+    <td align="center">27/04/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/about-the-product</td>
+    <td align="center"> d1fb4d081f3268dc114567764953121c301a0bf7</td>
+    <td align="center"> styles(about-the-product): add styles for about-the-product section.</td>
+    <td align="center"> ---</td>
+    <td align="center">27/04/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/hero</td>
+    <td align="center"> 8832894d2e3d77a61a75f5d40f653a2cc4fc0b9b</td>
+    <td align="center">feat(hero): add image for hero section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/04/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/plans</td>
+    <td align="center"> 2445181612acd68863fc1cbc8dce4ef994db49f6</td>
+    <td align="center"> style(plans-Section): add style for plans section.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/04/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/footer</td>
+    <td align="center"> e391a75775bb26e6c62653e010cfa5f2643a87a3</td>
+    <td align="center"> style(footer): add styles for footer section.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/04/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/benefits</td>
+    <td align="center">feb7e5df1b9e0787c810e73946550c7df645dcf3</td>
+    <td align="center"> feat(benefits): add styles for header section.</td>
+    <td align="center"> ---</td>
+    <td align="center">27/04/2025</td>
+  </tr>
+
+
+  <tr>
+    <td align="center"> develop</td>
+    <td align="center">0301074494c9960f0135232d9aa3e020ec634043</td>
+    <td align="center">fix(interactive-design): fix source for image of loader spinner.</td>
+    <td align="center"> ---</td>
+    <td align="center">27/04/2025</td>
+  </tr>
+</table>
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
