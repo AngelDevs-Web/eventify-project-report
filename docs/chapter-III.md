@@ -64,5 +64,14 @@ En esta sección del informe se presentarán las épicas (EP), user stories (US)
 
 ## 3.3. Impact Mapping
 
+El Impact Map es una herramienta que se utiliza en la planificación de proyectos, productos o iniciativas, donde su objetivo es alinear las actividades de un equipo con los objetivos de negocio. Para ello tomaremos algunas de las User Stories y como estos ayudan a los usuarios que usarán nuestra plataforma.
+
+***Segmento: Anfitriones***
+
+![impact-map-anfitrion](/assets/chapter-III/Impact-map-anfitrion.png)
+
+***Segmento: Organizador***
+
+![impact-map-organizador](/assets/chapter-III/Impact-map-organizador.png)
 
 ## 3.4. Product Backlog
