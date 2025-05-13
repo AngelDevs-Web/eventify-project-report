@@ -75,3 +75,35 @@ El Impact Map es una herramienta que se utiliza en la planificación de proyecto
 ![impact-map-organizador](/assets/chapter-III/Impact-map-organizador.png)
 
 ## 3.4. Product Backlog
+
+En este segmento del informe otorgaremos a las historias de usuario un peso basándonos en la complejidad, riesgo y esfuerzo. Utilizaremos este método para darle la relevancia adecuada a cada historia de usuario. <b>Enlace a Trello: </b>https://trello.com/b/QbhtNSHA/eventify-product-backlog
+
+| Orden | User Story Id | Título                                  | Descripción breve                                                                                                        | StoryPoints |
+|-------|----------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|-------------|
+| 1     | US01           | Navegación sencilla                      | Como visitante quiero que la landing page me permita navegar fácilmente entre secciones.                                | 2           |
+| 2     | US02           | Propuesta de valor clara                 | Como visitante quiero entender rápidamente qué ofrece la aplicación.                                                     | 2           |
+| 3     | US03           | Información segmentada                   | Como visitante quiero ver información según mi rol.                                                                      | 2           |
+| 4     | US04           | Funcionalidades de la aplicación         | Como visitante quiero ver una lista de funcionalidades para saber si cubre mis necesidades.                              | 2           |
+| 5     | US06           | Visualización de tutorial de la aplicación | Como visitante quiero ver cómo funciona la app visualmente.                                                              | 2           |
+| 6     | US07           | Confianza y seguridad                    | Como visitante quiero saber quién desarrolló la app para confiar en ella.                                                | 2           |
+| 7     | US09           | Visualización de precios                 | Como visitante quiero ver claramente los planes ofrecidos.                                                               | 2           |
+| 8     | US05           | Llamada a la acción                      | Como visitante quiero tener un acceso directo a la app desde la landing page.                                            | 1           |
+| 9     | US10           | Diseño responsive                        | Como visitante quiero que la landing page funcione bien en cualquier dispositivo.                                        | 3           |
+| 10    | US08           | Velocidad de carga                       | Como visitante quiero que la landing page cargue rápidamente.                                                            | 1           |
+| 11    | US17           | Registro de nuevo evento                 | Como organizador quiero registrar un nuevo evento con sus detalles básicos.                                              | 5           |
+| 12    | US18           | Lista de tareas del evento               | Como organizador o anfitrión quiero seguir una lista de tareas para cada evento.                                         | 5           |
+| 13    | US24           | Solicitar cotización a un organizador    | Como anfitrión quiero solicitar cotizaciones a diferentes organizadores.                                                 | 3           |
+| 14    | US19           | Gestión de presupuesto del evento        | Como organizador quiero definir presupuesto y registrar gastos.                                                          | 5           |
+| 15    | US21           | Vista de cronograma del evento           | Como organizador o anfitrión quiero visualizar un cronograma con las actividades programadas.                            | 5           |
+| 16    | US20           | Asignación de roles dentro del evento    | Como organizador quiero asignar tareas a otros colaboradores.                                                            | 5           |
+| 17    | US11           | Chat integrado en la plataforma          | Como usuario quiero acceder a un chat dentro de la plataforma.                                                           | 8           |
+| 18    | US13           | Notificaciones de nuevos mensajes        | Como usuario quiero recibir notificaciones de mensajes nuevos.                                                           | 5           |
+| 19    | US16           | Notificación por email si no estoy conectado | Como organizador o anfitrión quiero recibir notificaciones por email cuando no estoy conectado.                     | 5           |
+| 20    | US12           | Historial de mensajes                    | Como usuario quiero revisar conversaciones anteriores.                                                                    | 8           |
+| 21    | US15           | Estado del mensaje (enviado, recibido, leído) | Como organizador o anfitrión quiero saber si mis mensajes fueron leídos.                                             | 8           |
+| 22    | US14           | Envío de archivos                        | Como organizador o anfitrión quiero enviar y recibir archivos dentro del chat.                                           | 8           |
+| 23    | US23           | Visualizar perfiles de organizadores     | Como anfitrión quiero ver perfiles detallados de los organizadores.                                                      | 3           |
+| 24    | US25           | Contratar organizador                    | Como anfitrión quiero contratar a un organizador desde la plataforma.                                                    | 3           |
+| 25    | US22           | Visualización de resumen del evento      | Como organizador o anfitrión quiero tener acceso a un resumen del evento.                                                | 3           |
+| 26    | US26           | Calificar organizador tras evento        | Como anfitrión quiero calificar al organizador después del evento.                                                       | 3           |
+| 27    | US27           | Editar reseña publicada                  | Como anfitrión quiero poder editar una reseña ya publicada.                                                              | 3           |
