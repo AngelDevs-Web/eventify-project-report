@@ -542,87 +542,55 @@ En esta sección se presentarán los User Personas de cada segmento objetivo. Es
 ![User Persona 2](../assets/chapter-II/user-persona-anfitrion.png)
 
 ### 2.3.2. User Task Matrix
-En el User Task Matrix hemos identificado las actividades que realizan nuestros dos segmentos y hemos evaluado la importancia de cada una de estas tareas para cada segmento.
 
-### Indicadores de Importancia:
+En este análisis, estamos considerando dos segmentos de usuarios: Organizadores de eventos sociales no masivos y Anfitriones de eventos.
+
+## Indicadores de Importancia y Frecuencia
+
+**Indicadores de Importancia:**
 - ALTA
 - MEDIA
 - BAJA
 
-### Indicadores de Frecuencia:
+**Indicadores de Frecuencia:**
 - ALTA
 - MEDIA
 - BAJA
 
-### **Organizadores de eventos sociales no masivos**
+## Tabla de Matriz de Tareas de Usuario
 
-| **Tarea**                       | **Frecuencia** | **Importancia** |
- |----------------------------------|----------------|-----------------|
-| Planificación del evento         | Alta           | Alta            |
-| Coordinación con proveedores     | Alta           | Alta            |
-| Gestión de invitados             | Alta           | Alta            |
-| Promoción del evento             | Media          | Alta            |
-| Supervisión durante el evento    | Alta           | Alta            |
-| Post-evento                      | Media          | Media           |
+| Tareas | Organizadores de eventos sociales no masivos | | Anfitriones de eventos | |
+|-------|---------------------|------------|-------------|------------|
+| | **Frecuencia** | **Importancia** | **Frecuencia** | **Importancia** |
+| Planificación del evento | Alta | Alta | Alta | Alta |
+| Coordinación con proveedores | Alta | Alta | Media | Alta |
+| Gestión de invitados | Alta | Alta | Alta | Alta |
+| Promoción del evento | Media | Alta | Baja | Baja |
+| Supervisión durante el evento | Alta | Alta | Alta | Alta |
+| Post-evento | Media | Media | Alta | Media |
 
-### **Anfitriones de eventos**
+## Análisis de Tareas
 
-| **Tarea**                       | **Frecuencia** | **Importancia** |
- |----------------------------------|----------------|-----------------|
-| Planificación del evento         | Alta           | Alta            |
-| Coordinación con proveedores     | Media          | Alta            |
-| Gestión de invitados             | Alta           | Alta            |
-| Promoción del evento             | Baja           | Baja            |
-| Supervisión durante el evento    | Alta           | Alta            |
-| Post-evento                      | Alta           | Media           |
+### Tareas con mayor frecuencia e importancia:
 
-### Organizadores de Eventos Sociales No Masivos:
+Ambos segmentos de usuarios muestran alta frecuencia e importancia para **Planificación del evento** y **Gestión de invitados**. Para los Organizadores de eventos sociales no masivos, la **Coordinación con proveedores** también tiene alta frecuencia e importancia, mientras que para los Anfitriones de eventos esta tarea tiene frecuencia media pero alta importancia.
 
-#### Tareas con mayor frecuencia:
-1. **Planificar el cronograma del evento.**
-2. **Gestionar la contratación de proveedores (catering, decoración, etc.).**
-3. **Coordinar la logística de los asistentes (registro, entradas, transportes).**
+### Principales diferencias entre segmentos de usuarios:
 
-**Explicación de la tarea con mayor frecuencia:**
-Para los organizadores de eventos sociales no masivos, la tarea de **planificar el cronograma del evento** es la más frecuente porque implica coordinar todos los aspectos del evento, desde la programación de actividades hasta la asignación de tiempos para cada proveedor. Esta tarea es fundamental porque asegura que el evento siga un flujo organizado y se realicen todas las actividades sin inconvenientes.
+1. **Promoción del evento**: Para los Organizadores, esto tiene frecuencia media y alta importancia, mientras que para los Anfitriones tiene baja frecuencia e importancia.
+2. **Post-evento**: Los Anfitriones de eventos realizan esto con alta frecuencia, mientras que los Organizadores lo hacen con frecuencia media. Ambos segmentos lo consideran de importancia media.
 
-#### Tareas con mayor importancia:
-1. **Garantizar la seguridad y el bienestar de los asistentes.**
-2. **Supervisar la calidad de los servicios de proveedores (catering, audiovisuales).**
-3. **Realizar la gestión de presupuestos y costos del evento.**
+### Principales similitudes:
 
-**Explicación de la tarea con mayor importancia:**
-La tarea de **garantizar la seguridad y el bienestar de los asistentes** es clave porque asegura que el evento sea exitoso no solo en términos logísticos, sino también en la experiencia que viven los participantes. Si los asistentes se sienten seguros y cómodos, el evento tiene más probabilidades de cumplir sus objetivos y generar satisfacción.
- 
----
+Ambos segmentos coinciden en la alta frecuencia e importancia de la **Planificación del evento**, **Gestión de invitados** y **Supervisión durante el evento**.
 
-### Anfitriones de Eventos:
+### Enfoques de los segmentos:
 
-#### Tareas con mayor frecuencia:
-1. **Gestionar la lista de invitados y las confirmaciones de asistencia.**
-2. **Coordinar la llegada de los invitados y su acomodo en el evento.**
-3. **Atender a los invitados durante el evento (responder dudas, ofrecer ayuda).**
+Los Organizadores de eventos sociales no masivos se concentran principalmente en la **planificación y logística** del evento, garantizando que todo funcione correctamente y según lo esperado. Su enfoque está más relacionado con la ejecución técnica y la coordinación de recursos.
 
-Para los anfitriones de eventos, la tarea más frecuente es **gestionar la lista de invitados y las confirmaciones de asistencia**, ya que es esencial para asegurarse de que todos los invitados estén presentes y organizados. Esta tarea implica coordinar las respuestas de los invitados y asegurarse de que los asistentes se encuentren en el lugar adecuado a la hora indicada.
+Los Anfitriones de eventos se centran en la **experiencia de los invitados** y en la **gestión del ambiente** durante el evento, asegurándose de que los asistentes se sientan cómodos, atendidos y disfruten del evento.
 
-#### Tareas con mayor importancia:
-1. **Asegurarse de que la experiencia de los invitados sea agradable y fluida.**
-2. **Coordinar la interacción entre los proveedores y los invitados.**
-3. **Asegurar la puntualidad y el cumplimiento de la programación del evento.**
-
-La tarea de **asegurarse de que la experiencia de los invitados sea agradable y fluida** es la más importante porque, como anfitrión, el éxito del evento depende directamente de cómo se sientan los invitados. Si los anfitriones logran ofrecer un ambiente cómodo, bien organizado y cordial, los asistentes disfrutarán del evento, lo que contribuirá a su éxito general.
- 
----
-
-### Diferencias entre los segmentos:
-
-Al analizar ambos segmentos, se observa que los **organizadores de eventos sociales no masivos** se concentran principalmente en la **planificación y logística** del evento, garantizando que todo funcione correctamente y según lo esperado. Su enfoque está más relacionado con la ejecución técnica y la coordinación de recursos.
-
-Por otro lado, los **anfitriones de eventos** se centran en la **experiencia de los invitados** y en la **gestión del ambiente** durante el evento, asegurándose de que los asistentes se sientan cómodos, atendidos y disfruten del evento.
-
-Aunque las tareas varían, ambos segmentos coinciden en la importancia de la **organización eficiente** y el **bienestar de los participantes**. Sin embargo, los **organizadores** tienen un enfoque más técnico y operativo, mientras que los **anfitriones** se enfocan en la interacción social y la satisfacción personal de los invitados.
-
-
+Aunque las tareas varían, ambos segmentos coinciden en la importancia de la **organización eficiente** y el **bienestar de los participantes**. Sin embargo, los Organizadores tienen un enfoque más técnico y operativo, mientras que los Anfitriones se enfocan en la interacción social y la satisfacción personal de los invitados.
 ### 2.3.3. User Journey Mapping
 
 En esta sección se presentan los User Journey Maps, que ilustran el end-to-end journey que experimentan nuestros segmentos objetivo sin la intervención de nuestra solución propuesta.
@@ -681,59 +649,60 @@ En el As-is scenario mapping de este segmento se han identificado los principale
 
 ![As-is Scenario Map 2](../assets/chapter-II/as-is-scenario-anfitrion.png)
 
-## 2.4. Ubiquitous Language
-**Aforo**: capacidad de un espacio en número de personas.
+# 2.4. Ubiquitous Language
 
-**Asistentes**: personas que asistirán y participarán en un evento.
+**Capacity**: number of people a space can hold.
 
-**Azafato o azafata de eventos**: personal que apoya en el registro, atención y otras tareas logísticas.
+**Attendees**: people who will attend and participate in an event.
 
-**Break / Coffee break**: receso donde se sirven café y bocaditos.
+**Event usher**: staff who supports with registration, service, and other logistical tasks.
 
-**Catering**: servicio de suministro de comidas y bebidas en un evento.
+**break**: recess where coffee and snacks are served.
 
-**Ceremonia**: acto formal dentro del evento.
+**Catering**: service providing food and beverages at an event.
 
-**Check-list**: lista para hacer comprobaciones sistemáticas de actividades o recursos.
+**Ceremony**: formal act within the event.
 
-**Cliente**: persona que contrata al organizador para realizar un evento.
+**Check-list**: list for systematic verification of activities or resources.
 
-**Concierto**: presentación musical en vivo.
+**Host**: person who hires the organizer to conduct an event.
 
-**Conferencia**: reunión donde se exponen temas ante un público.
+**Concert**: live musical performance.
 
-**Cronograma / Timing**: planificación detallada de las actividades del evento.
+**Conference**: meeting where topics are presented to an audience.
 
-**Decoración**: elementos visuales que ambientan el evento.
+**Timing**: detailed planning of event activities.
 
-**Equipo de producción**: grupo de personas que trabajan en conjunto para producir un evento como técnicos, ayudantes y cualquier otra persona adicional al staff base que esté involucrada en el evento.
+**Decoration**: visual elements that set the atmosphere for the event.
 
-**Evento**: actividad planificada con fecha, hora y lugar específico.
+**Production team**: group of people working together to produce an event, such as technicians, assistants, and any other person additional to the base staff who is involved in the event.
 
-**Event Planner**: persona que se encarga de planificar todo el evento.
+**Event**: planned activity with a specific date, time, and place.
 
-**Expositor**: persona o empresa que presenta productos o ideas en el evento.
+**Event Planner**: person in charge of planning the entire event.
 
-**Factura pro-forma**: un tipo de factura emitida por proveedores que es necesario pagar previo a la ejecución del evento.
+**Exhibitor**: person or company presenting products or ideas at the event.
 
-**Keynote**: discurso inicial de una presentación o serie de conferencias que apunta al tema general del que se hablará y que es diseñado para motivar a la audiencia.
+**Pro-forma invoice**: a type of invoice issued by suppliers that must be paid prior to the execution of the event.
 
-**Local**: lugar físico donde se realiza el evento.
+**Keynote**: initial speech of a presentation or series of conferences that points to the general topic to be discussed and is designed to motivate the audience.
 
-**Mampara**: pared móvil para adaptar y ambientar los espacios de acuerdo con las necesidades del evento.
+**Venue**: physical location where the event takes place.
 
-**Organizador**: persona o empresa responsable de planificar y ejecutar el evento.
+**Partition**: movable wall to adapt and set up spaces according to the needs of the event.
 
-**Patrocinador**: empresa o persona que apoya o financia el evento.
+**Organizer**: person or company responsible for planning and executing the event.
 
-**Plano del evento**: documento que muestra el espacio del salón de eventos designado para la exposición. También muestra en detalle el espacio que puede ocupar cada stand, el área de registro, las entradas y salidas, etc.
+**Sponsor**: company or person who supports or finances the event.
 
-**Programación**: agenda de actividades del evento.
+**Event floor plan**: document that shows the space of the event hall designated for the exhibition. It also shows in detail the space that each stand can occupy, the registration area, entrances and exits, etc.
 
-**Protocolo**: conjunto de normas, costumbres y tradiciones mediante las cuales se organiza cualquier acto, evento público, privado u oficial.
+**Program**: agenda of event activities.
 
-**Staff**: personal que forma parte de la organización del evento.
+**Protocol**: set of norms, customs, and traditions through which any act, public, private, or official event is organized.
 
-**Stand**: instalación usada para mostrar productos o brindar información.
+**Staff**: personnel who are part of the event organization.
 
-**Transfer**: traslado de asistentes (ej. del hotel al evento).
+**Stand**: installation used to display products or provide information.
+
+**Transfer**: transportation of attendees (e.g., from hotel to event).
