@@ -715,6 +715,78 @@ En el presente Sprint nos enfocamos en desarrollar la primera versión del front
     <td align="center"> ---</td>
     <td align="center">13/05/2025</td>
   </tr>
+
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">e0cd5ab7b01728e98e0970074778ae7f8e47b946</td>
+      <td align="center"> feat(task): create task service api.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">4431b8d3813c931938917855a7ce4f101adb07b1</td>
+      <td align="center"> feat(task): create task entity..</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+<tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">13effac1e4b0455aa5d1fc57e33157375a2351f3</td>
+      <td align="center"> feat(task): create task board entity..</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">f52f09b7048df3fe51b7f685c7f91b540fea8325</td>
+      <td align="center"> feat(task): create task column entity.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">39f3e84c917dda16ed616a6e14cf952eb8334dd3</td>
+      <td align="center"> feat(task): create task item component.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">88754c76756f12c5bd36e41042f5e12a6fad3b05</td>
+      <td align="center"> feat(task): create task column component.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">0ab86a0a1f65532e60d549266237722a880c1d97</td>
+      <td align="center"> feat(task): create task board component.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">a978e0a08754ae83eb9d1167ddc04d181deeb4b0</td>
+      <td align="center"> feat(task): create task management component page.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">c3ae6b7501544e324e03b0e66f6501b08b31aed2</td>
+      <td align="center"> feat(task): update data task.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">c98af691595bc30d49a9169765d1bbd21425ca0c</td>
+      <td align="center"> feat(task): add language review for button add task.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
 </table>
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
