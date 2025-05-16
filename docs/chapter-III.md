@@ -63,6 +63,14 @@ En esta sección del informe se presentarán las épicas (EP), user stories (US)
 | TS08          | Eliminar registro de usuario                  | **Como** desarrollador,<br>**Quiero**  implementar el endpoint DELETE para eliminar registros de usuario, <br> **Para** permitir a los administradores eliminar cuentas de usuario del sistema.                                      | **Escenario 01:  Eliminación exitosa de un registro de usuario** <br> **Dado**  que el endpoint /api/v1/user/{id} está disponible, <br> **Cuando** se envía una solicitud DELETE con un id válido,<br> **Entonces**  se recibe una respuesta con estado 200, <br> **Y**  se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de usuario eliminado con éxito." <br><br> **Escenario 02: Eliminación de un registro de usuario inexistente** <br> **Dado** que el endpoint /api/v1/users/{id} está disponible <br> **Cuando** se envía una solicitud DELETE con un id inválido, <br> **Entonces** se recibe una respuesta con el estado 404, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de usuario no encontrado para eliminar."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | EP06                      |
 
 ## 3.3. Impact Mapping
+El Impact Map es una herramienta que se utiliza en la planificación de proyectos, productos o iniciativas, donde su objetivo es alinear las actividades de un equipo con los objetivos de negocio. Para ello tomaremos algunas de las User Stories y como estos ayudan a los usuarios que usarán nuestra plataforma.
 
+***Segmento: Anfitriones***
+
+![impact-map-anfitrion](/assets/chapter-III/Impact-map-anfitrion.png)
+
+***Segmento: Organizador***
+
+![impact-map-organizador](/assets/chapter-III/Impact-map-organizador.png)
 
 ## 3.4. Product Backlog
