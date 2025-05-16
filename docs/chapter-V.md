@@ -792,6 +792,6 @@ En esta imagen se refleja el nivel de modificaciones realizadas por los commits 
 
 ![gitflow-1](../assets/chapter-V/gitflow-feature-branch.png)
 
-![gitflow-1](../assets/chapter-V/gitflow-feature-branch-2.png)
+![gitflow-2](../assets/chapter-V/gitflow-feature-branch-2.png)
 
 Finalmente en estas imagenes se pueden apreciar las ramas con las que se ha trabajado durante el desarrollo del FrontEnd
