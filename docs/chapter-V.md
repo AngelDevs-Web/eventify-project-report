@@ -281,7 +281,7 @@ Finalmente, podrás acceder a la **landing page** desde el enlace que se generó
 En el Sprint 1, nos enfocamos en diseñar y desarrollar la Landing Page de Eventify, con el objetivo de presentar de forma clara y atractiva los beneficios de la plataforma para organizadores y anfitriones de eventos. Durante este sprint, trabajamos en una estructura de navegación intuitiva y una disposición visual que permitiera resaltar las características principales del servicio. Nos organizamos como equipo para dividir las tareas y lograr un diseño completamente responsivo, asegurando que la página se visualice correctamente en distintos tamaños de pantalla.
 
 
-#### 5.2.1.1. Sprint Planning 1
+#### 5.2.1.1. Sprint Planning 
 
 |             Sprint #             |                                                                                                                                                                                                                                                                                                                                                                                                                                                 Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |:--------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -298,16 +298,32 @@ En el Sprint 1, nos enfocamos en diseñar y desarrollar la Landing Page de Event
 |        Sprint 1 Velocity         |                                                                                                                                                                                                                                                                                                                                                                                                                                     Velocidad de 18 - Primer Sprint                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |       Sum of Story Points        |                                                                                                                                                                                                                                                                                                                                                                                                                                        Sprint 1 - 18 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
+|             Sprint #             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|:--------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  **Sprint Planning Background**  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|               Date               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      16/05/25                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|               Time               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     23:40 horas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|             Location             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Reunión virtual - Zoom/Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|           Prepared By            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Fabrizio Alexander Cutiri Agüero                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|            Attendees             |                                                                                                                                                                                                                                                                                                                                                                                                                - Aldave Aldave Jean Pierr <br> - Omar Christian Berrocal Ramirez  <br> - Deybbi Anderson Crisanto Calle  <br> - Fabrizio Alexander Cutiri Agüero  <br> - July Zelmira Paico Calderon                                                                                                                                                                                                                                                                                                                                                                                                                |
+|    Sprint n-1 Review Summary     |                                                                                                                                                                                                                                                                                                                                                                                               Se logró documentar y diseñar la estructura inicial del Landing Page, definiendo secciones clave e identificando los componentes necesarios. Se establecieron las tecnologías base del proyecto: Vue, Vite y PrimeVue.                                                                                                                                                                                                                                                                                                                                                                                                |
+| Sprint n-1 Retrospective Summary |                                                                                                                                                                                                                                                                                                                                                                      Durante el Sprint 1 se acordó que el enfoque visual y estructural era fundamental para atraer a nuevos usuarios. También se identificó la necesidad de establecer estándares de componentes reutilizables y convenciones claras de código desde el inicio del desarrollo.                                                                                                                                                                                                                                                                                                                                                                      |
+|  **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|          Sprint 2 Goal           | Nuestro enfoque en este sprint es construir la primera versión funcional del Landing Page de Eventify con Vue + Vite + PrimeVue, incorporando componentes reutilizables, diseño responsive y navegación fluida.Nos centraremos en desarrollar las secciones previamente definidas (Inicio, Beneficios, Funcionalidades, Planes, Quiénes Somos y About the Product) utilizando código limpio y modular, aplicando PrimeVue para los componentes visuales y PrimeFlex para la estructura responsiva. Buscamos entregar una versión navegable que los usuarios puedan ver y usar desde diferentes dispositivos. Esto nos permitirá realizar pruebas tempranas de usabilidad y validar si la interfaz cumple con los objetivos de claridad, atractivo visual y navegación intuitiva. Este trabajo será validado mediante una demo funcional desplegada localmente y/o en hosting temporal (como Netlify o Vercel), que permita recibir feedback interno antes de pasar a etapas más avanzadas de integración o backend. |
+|        Sprint 2 Velocity         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Velocidad de 26 - Primer Sprint                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|       Sum of Story Points        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Sprint 2 - 32 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
 
-|            Team Member            | GitHub Username |    Header    | Footer | Inicio | Beneficios | Funcionalidades | Planes | About Us | About the product |
-|:---------------------------------:|:---------------:|:------------:|:------:|:------:|:----------:|:---------------:|:------:|:--------:|:-----------------:|
-|     Aldave Aldave, Jean Pierr     |   Jean Pierr    |      L       |   C    |   C    |     C      |        C        |   L    |    C     |         C         |
-| Berrocal Ramirez, Omar Christian  |      OmBRz      |      C       |   C    |   C    |     C      |        L        |   C    |    C     |         C         |
-|  Crisanto Calle, Deybbi Anderson  |     Dacc03      |      C       |   L    |   C    |     C      |        C        |   C    |    C     |         C         |
-| Cutiri Agüero, Fabrizio Alexander |    Fabrizio     |      C       |   C    |   L    |     C      |        C        |   C    |    L     |         C         |
-|   Paico Calderon, July Zelmira    |      JulyP      |      C       |   C    |   C    |     L      |        C        |   C    |    C     |         L         |
+|            Team Member            | GitHub Username | TaskManagement | ProfileManagement | QuoteManagement | Event Management | Calendar | 
+|:---------------------------------:|:---------------:|:--------------:|:-----------------:|:---------------:|:----------------:|:--------:| 
+|     Aldave Aldave, Jean Pierr     |   Jean Pierr    |       L        |         C         |        C        |        C         |    C     |  
+| Berrocal Ramirez, Omar Christian  |      OmBRz      |       C        |         C         |        C        |        C         |    L     |   
+|  Crisanto Calle, Deybbi Anderson  |     Dacc03      |       C        |         L         |        C        |        C         |    C     |   
+| Cutiri Agüero, Fabrizio Alexander |    Fabrizio     |       C        |         C         |        L        |        C         |    C     |    
+|   Paico Calderon, July Zelmira    |      JulyP      |       C        |         C         |        C        |        L         |    C     |  
 
 #### 5.2.1.3. Sprint Backlog 1
 
@@ -623,3 +639,280 @@ En esta imagen se refleja la el nivel de modificaciones realizadas por los commi
 
 ![Network-landing](/assets/chapter-V/network-landing.png)
 En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron, así como se aplicó gitflow para su desarrollo.
+
+
+### 5.2.2. Sprint 2
+En el presente Sprint nos enfocamos en desarrollar la primera versión del frontend de nuestra aplicación web Eventify. Para ello definimos en el sprint backlog, tareas relacionadas a las principales funcionalidades que presenta nuestro proyecto como la creación de cotizaciones para los eventos, la creación de tareas que se realizarán durante la planeación del evento, entre otros.
+
+#### 5.2.2.1.Sprint Planning 2.
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+#### 5.2.2.3.Sprint Backlog 2.
+#### 5.2.2.4.Development Evidence for Sprint Review.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-Web/eventify-front-end </td>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> d3f8a9e117f42cefd1104005ed776154be81daf5</td>
+    <td align="center"> feat(quote-order): add quote order entity</td>
+    <td align="center"> ---</td>
+    <td align="center"> 12/05/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/quote-management</td>
+    <td align="center" > 194c00ca1ffe3bd87dbdde22d785d2351fba44fc</td>
+    <td align="center"> feat(service-item): add service item entity</td>
+    <td align="center"> ---</td>
+    <td align="center"> 12/05/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center">14aa6ac6c2c55b214989f1e87ce14e544740a218</td>
+    <td align="center"> feat(environment): add endpoint paths for quotes and their services</td>
+    <td align="center"> ---</td>
+    <td align="center"> 12/05/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> 80acef7e183df20f242b98647bd2b6d5d47f89bc</td>
+    <td align="center"> feat(main): add components of primevue</td>
+    <td align="center"> ---</td>
+    <td align="center">12/05/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> a26ff111891ee19aacff3fc1b5a31d79ae518572</td>
+    <td align="center"> feat(services): add services for quote orders</td>
+    <td align="center"> ---</td>
+    <td align="center">12/05/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> 3b0267c8d5451249a53462dd403c86adf4660ed1</td>
+    <td align="center">feat(quote): add dialog component to create and edit services of a quote order</td>
+    <td align="center"> ---</td>
+    <td align="center"> 12/05/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> 6ff58c36ae0fd398e9d7929ae143b46675de6469</td>
+    <td align="center"> feat(quote): add dialog component to create and edit quote orders</td>
+    <td align="center"> ---</td>
+    <td align="center"> 12/05/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> 1599df1cb9beb096a2bda1008993e624a378901c</td>
+    <td align="center"> feat(quote): implement quote management component</td>
+    <td align="center"> ---</td>
+    <td align="center"> 12/05/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center">17cd59d784361edeb29dc54149b3d7f0d3434613</td>
+    <td align="center"> feat(quote): implement methods to update and delete quote orders and services</td>
+    <td align="center"> ---</td>
+    <td align="center">13/05/2025</td>
+  </tr>
+
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">e0cd5ab7b01728e98e0970074778ae7f8e47b946</td>
+      <td align="center"> feat(task): create task service api.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">4431b8d3813c931938917855a7ce4f101adb07b1</td>
+      <td align="center"> feat(task): create task entity..</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+<tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">13effac1e4b0455aa5d1fc57e33157375a2351f3</td>
+      <td align="center"> feat(task): create task board entity..</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">f52f09b7048df3fe51b7f685c7f91b540fea8325</td>
+      <td align="center"> feat(task): create task column entity.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">39f3e84c917dda16ed616a6e14cf952eb8334dd3</td>
+      <td align="center"> feat(task): create task item component.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">88754c76756f12c5bd36e41042f5e12a6fad3b05</td>
+      <td align="center"> feat(task): create task column component.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">0ab86a0a1f65532e60d549266237722a880c1d97</td>
+      <td align="center"> feat(task): create task board component.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">a978e0a08754ae83eb9d1167ddc04d181deeb4b0</td>
+      <td align="center"> feat(task): create task management component page.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">c3ae6b7501544e324e03b0e66f6501b08b31aed2</td>
+      <td align="center"> feat(task): update data task.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/task-management</td>
+      <td align="center">c98af691595bc30d49a9169765d1bbd21425ca0c</td>
+      <td align="center"> feat(task): add language review for button add task.</td>
+      <td align="center"> ---</td>
+      <td align="center">16/05/2025</td>
+  </tr>
+</table>
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+**Bounded Context Quote Management**
+
+**Quote Management**
+
+Esta es la página donde se gestionan todas las cotizaciones. Se puede crear cotizaciones nuevas, asi como actualizar los datos de cotizaciones anteriormente registradas, si en caso el organizador necesite definir cambios de último momento.
+
+![quote-management-page](../assets/chapter-V/quote-management.png)
+
+**Quote Order Form Component**
+
+Este es el formulario donde se define información relevante respecto al posible evento que se vaya a realizar. El organizador podrá definir el tipo de evento que se planeará, la cantidad de invitados, asi como la fecha que se celebraria. Además se podrá agregar los servicios que incluirá en la planeación.
+
+![quote-order-create-and-edit](../assets/chapter-V/quote-order-create-and-edit.png)
+
+Una vez definido la información de la cotización, se registrará en el Fake API y se mostrará en la página **Quote Management**
+![quote-order-created](../assets/chapter-V/quote-order-created.png)
+
+
+
+**Service Item Form Component**
+
+Este es un formulario donde se define la información del servicio a incluir en la cotización, se redacta una breve descripción del servicio, se define la cantidad, el precio unitario y se calcula el precio total. Posteriormente, al crear el servicio, se registra en la tabla de Servicios Incluidos del formulario de cotizaciones
+![service-item-create-and-edit](../assets/chapter-V/service-item-create-and-edit.png)
+
+Una vez definido el servicio, se registrará en el Fake API y se mostrará en el formulario de Quote Order
+![quote-order](../assets/chapter-V/service-added-quote-order.png)
+
+
+**Bounded Context Task Management**
+
+**Task Management**
+
+Esta es la página donde se visualiza el estado actual de la organizacion de las tareas del evento. Se puede crear tareas nuevas y asignarlas a un estado especifico, dependiendo del enfoque del organizador.
+Con el objetivo de mantener al anfitrion de eventos siempre al tanto de las tareas que se están realizando, las que faltan por hacer, por revisar y completadas.
+
+![task-management-page](../assets/chapter-V/task-management.PNG)
+
+**Edit Task Component**
+
+Este es un componente donde se podra editar una tarea, se podra cambiar el titulo, descripcion y columna a la que pertenece.
+
+![task-management-page](../assets/chapter-V/edit-task-management.PNG)
+
+
+**Task Item Component**
+
+Este componente contendra el titulo y descripcion de una tarea unitaria, asi como funciones de eliminar o editar, las cuales se actualizaran en el json.server.
+![task-management-page](../assets/chapter-V/task-item-management.PNG)
+
+**Task Column Component**
+
+En este componente se contendra el listado de tareas unitarias, existiran 4 columnas dependiendo del estado de los item tarea component. Asi como tambien un contador que evidenciara la cantidad de tareas con las que cuenta cada columna.
+![task-management-page](../assets/chapter-V/task-column-management.PNG)
+
+**Task Board Component**
+
+Este componente contendra el listado de columnas, cada columna tendra un nombre y un contador que evidenciara la cantidad de tareas con las que cuenta cada columna. Este componente es el padre de los task column component.
+
+![task-management-page](../assets/chapter-V/task-board-management.PNG)
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+Para este segundo Sprint, hemos realizado la implementación y el despliegue del FrontEnd de nuestra aplicación Web "Eventify"
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://angeldevs-web.github.io/eventify-landing-page/</td>
+    <td> Desplegar Landing Page de Eventify</td>
+  </tr>
+  <tr>
+    <td> https://eventify-webapp-frontend.web.app</td>
+    <td> Desplegar Front End</td>
+  </tr>
+  <tr>
+    <td> https://eventify-frontend.free.beeceptor.com</td>
+    <td> Desplegar Fake API</td>
+  </tr>
+</table>
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+Para el despliegue del FrontEnd utilizamos el servicio de hosting que ofrece Firebase. Para ello, hemos utilizado Firebase CLI para vincular nuestro proyecto con Firebase y mediante lineas de comandos realizar el despliegue.
+
+![firebase-service](../assets/chapter-V/firebase.png)
+![firebase-json](../assets/chapter-V/firebase-json.png)
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+La meta para este Sprint fue la implementación y despliegue de la primera versión del FrontEnd de nuestro proyecto. Para ello, utilizamos diversas herramientas como GitHub, Webstorm, Vue 3, PrimeVue, PrimeFlex, Primeicons, entre otros.
+Como evidencia de que se trabajo de forma colaborativa se presentan los insights del repositorio en Github donde se desarrollo el proyecto.
+
+![collaboration-insights](../assets/chapter-V/collaboration-insights.png)
+
+En esta imagen se muestran el total de commits que hizo cada integrante durante el desarrollo del Frontend
+
+![contributors-frontend](../assets/chapter-V/Contributors.png)
+
+En esta imagen se refleja el nivel de modificaciones realizadas por los commits de cada integrante en el repositorio del FrontEnd.
+
+![gitflow-1](../assets/chapter-V/gitflow-feature-branch.png)
+
+![gitflow-2](../assets/chapter-V/gitflow-feature-branch-2.png)
+
+Finalmente en estas imagenes se pueden apreciar las ramas con las que se ha trabajado durante el desarrollo del FrontEnd
