@@ -632,6 +632,91 @@ En el presente Sprint nos enfocamos en desarrollar la primera versión del front
 #### 5.2.2.2. Aspect Leaders and Collaborators.
 #### 5.2.2.3.Sprint Backlog 2.
 #### 5.2.2.4.Development Evidence for Sprint Review.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-Web/eventify-front-end </td>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> d3f8a9e117f42cefd1104005ed776154be81daf5</td>
+    <td align="center"> feat(quote-order): add quote order entity</td>
+    <td align="center"> ---</td>
+    <td align="center"> 12/05/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/quote-management</td>
+    <td align="center" > 194c00ca1ffe3bd87dbdde22d785d2351fba44fc</td>
+    <td align="center"> feat(service-item): add service item entity</td>
+    <td align="center"> ---</td>
+    <td align="center"> 12/05/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center">14aa6ac6c2c55b214989f1e87ce14e544740a218</td>
+    <td align="center"> feat(environment): add endpoint paths for quotes and their services</td>
+    <td align="center"> ---</td>
+    <td align="center"> 12/05/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> 80acef7e183df20f242b98647bd2b6d5d47f89bc</td>
+    <td align="center"> feat(main): add components of primevue</td>
+    <td align="center"> ---</td>
+    <td align="center">12/05/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> a26ff111891ee19aacff3fc1b5a31d79ae518572</td>
+    <td align="center"> feat(services): add services for quote orders</td>
+    <td align="center"> ---</td>
+    <td align="center">12/05/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> 3b0267c8d5451249a53462dd403c86adf4660ed1</td>
+    <td align="center">feat(quote): add dialog component to create and edit services of a quote order</td>
+    <td align="center"> ---</td>
+    <td align="center"> 12/05/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> 6ff58c36ae0fd398e9d7929ae143b46675de6469</td>
+    <td align="center"> feat(quote): add dialog component to create and edit quote orders</td>
+    <td align="center"> ---</td>
+    <td align="center"> 12/05/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> 1599df1cb9beb096a2bda1008993e624a378901c</td>
+    <td align="center"> feat(quote): implement quote management component</td>
+    <td align="center"> ---</td>
+    <td align="center"> 12/05/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center">17cd59d784361edeb29dc54149b3d7f0d3434613</td>
+    <td align="center"> feat(quote): implement methods to update and delete quote orders and services</td>
+    <td align="center"> ---</td>
+    <td align="center">13/05/2025</td>
+  </tr>
+</table>
+
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
