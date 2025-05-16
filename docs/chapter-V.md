@@ -748,6 +748,12 @@ Una vez definido el servicio, se registrará en el Fake API y se mostrará en el
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+Para el despliegue del FrontEnd utilizamos el servicio de hosting que ofrece Firebase. Para ello, hemos utilizado Firebase CLI para vincular nuestro proyecto con Firebase y mediante lineas de comandos realizar el despliegue.
+
+![firebase-service](../assets/chapter-V/firebase.png)
+![firebase-json](../assets/chapter-V/firebase-json.png)
+
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
 La meta para este Sprint fue la implementación y despliegue de la primera versión del FrontEnd de nuestro proyecto. Para ello, utilizamos diversas herramientas como GitHub, Webstorm, Vue 3, PrimeVue, PrimeFlex, Primeicons, entre otros.
