@@ -818,6 +818,39 @@ Este es un formulario donde se define la información del servicio a incluir en 
 Una vez definido el servicio, se registrará en el Fake API y se mostrará en el formulario de Quote Order
 ![quote-order](../assets/chapter-V/service-added-quote-order.png)
 
+
+**Bounded Context Task Management**
+
+**Task Management**
+
+Esta es la página donde se visualiza el estado actual de la organizacion de las tareas del evento. Se puede crear tareas nuevas y asignarlas a un estado especifico, dependiendo del enfoque del organizador.
+Con el objetivo de mantener al anfitrion de eventos siempre al tanto de las tareas que se están realizando, las que faltan por hacer, por revisar y completadas.
+
+![task-management-page](../assets/chapter-V/task-management.PNG)
+
+**Edit Task Component**
+
+Este es un componente donde se podra editar una tarea, se podra cambiar el titulo, descripcion y columna a la que pertenece.
+
+![task-management-page](../assets/chapter-V/edit-task-management.PNG)
+
+
+**Task Item Component**
+
+Este componente contendra el titulo y descripcion de una tarea unitaria, asi como funciones de eliminar o editar, las cuales se actualizaran en el json.server.
+![task-management-page](../assets/chapter-V/task-item-management.PNG)
+
+**Task Column Component**
+
+En este componente se contendra el listado de tareas unitarias, existiran 4 columnas dependiendo del estado de los item tarea component. Asi como tambien un contador que evidenciara la cantidad de tareas con las que cuenta cada columna.
+![task-management-page](../assets/chapter-V/task-column-management.PNG)
+
+**Task Board Component**
+
+Este componente contendra el listado de columnas, cada columna tendra un nombre y un contador que evidenciara la cantidad de tareas con las que cuenta cada columna. Este componente es el padre de los task column component.
+
+![task-management-page](../assets/chapter-V/task-board-management.PNG)
+
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
 Para este segundo Sprint, hemos realizado la implementación y el despliegue del FrontEnd de nuestra aplicación Web "Eventify"
