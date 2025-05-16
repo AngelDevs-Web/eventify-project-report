@@ -819,7 +819,36 @@ Una vez definido el servicio, se registrará en el Fake API y se mostrará en el
 ![quote-order](../assets/chapter-V/service-added-quote-order.png)
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+Para este segundo Sprint, hemos realizado la implementación y el despliegue del FrontEnd de nuestra aplicación Web "Eventify"
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://angeldevs-web.github.io/eventify-landing-page/</td>
+    <td> Desplegar Landing Page de Eventify</td>
+  </tr>
+  <tr>
+    <td> https://eventify-webapp-frontend.web.app</td>
+    <td> Desplegar Front End</td>
+  </tr>
+  <tr>
+    <td> https://eventify-frontend.free.beeceptor.com</td>
+    <td> Desplegar Fake API</td>
+  </tr>
+</table>
+
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+Para el despliegue del FrontEnd utilizamos el servicio de hosting que ofrece Firebase. Para ello, hemos utilizado Firebase CLI para vincular nuestro proyecto con Firebase y mediante lineas de comandos realizar el despliegue.
+
+![firebase-service](../assets/chapter-V/firebase.png)
+![firebase-json](../assets/chapter-V/firebase-json.png)
+
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
 La meta para este Sprint fue la implementación y despliegue de la primera versión del FrontEnd de nuestro proyecto. Para ello, utilizamos diversas herramientas como GitHub, Webstorm, Vue 3, PrimeVue, PrimeFlex, Primeicons, entre otros.
@@ -834,6 +863,7 @@ En esta imagen se muestran el total de commits que hizo cada integrante durante 
 En esta imagen se refleja el nivel de modificaciones realizadas por los commits de cada integrante en el repositorio del FrontEnd.
 
 ![gitflow-1](../assets/chapter-V/gitflow-feature-branch.png)
-![gitflow-1](../assets/chapter-V/gitflow-feature-branch-2.png)
+
+![gitflow-2](../assets/chapter-V/gitflow-feature-branch-2.png)
 
 Finalmente en estas imagenes se pueden apreciar las ramas con las que se ha trabajado durante el desarrollo del FrontEnd
