@@ -718,6 +718,34 @@ En el presente Sprint nos enfocamos en desarrollar la primera versión del front
 </table>
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
+
+**Bounded Context Quote Management**
+
+**Quote Management**
+
+Esta es la página donde se gestionan todas las cotizaciones. Se puede crear cotizaciones nuevas, asi como actualizar los datos de cotizaciones anteriormente registradas, si en caso el organizador necesite definir cambios de último momento.
+
+![quote-management-page](../assets/chapter-V/quote-management.png)
+
+**Quote Order Form Component**
+
+Este es el formulario donde se define información relevante respecto al posible evento que se vaya a realizar. El organizador podrá definir el tipo de evento que se planeará, la cantidad de invitados, asi como la fecha que se celebraria. Además se podrá agregar los servicios que incluirá en la planeación.
+
+![quote-order-create-and-edit](../assets/chapter-V/quote-order-create-and-edit.png)
+
+Una vez definido la información de la cotización, se registrará en el Fake API y se mostrará en la página **Quote Management**
+![quote-order-created](../assets/chapter-V/quote-order-created.png)
+
+
+
+**Service Item Form Component**
+
+Este es un formulario donde se define la información del servicio a incluir en la cotización, se redacta una breve descripción del servicio, se define la cantidad, el precio unitario y se calcula el precio total. Posteriormente, al crear el servicio, se registra en la tabla de Servicios Incluidos del formulario de cotizaciones
+![service-item-create-and-edit](../assets/chapter-V/service-item-create-and-edit.png)
+
+Una vez definido el servicio, se registrará en el Fake API y se mostrará en el formulario de Quote Order
+![quote-order](../assets/chapter-V/service-added-quote-order.png)
+
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
