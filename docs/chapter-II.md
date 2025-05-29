@@ -342,16 +342,23 @@ Finalmente, la entrevistada afirmó que recomendaría al organizador del evento,
 
 **Resumen de la entrevista:**
 
-La entrevistada se llama Anacristina Reymundo Mamani. Es una joven de 22 años que se define como empática, responsable y proactiva. Es estudiante de Medicina Veterinaria y se encuentra soltera. Durante la entrevista, compartió su experiencia al organizar un evento familiar para celebrar los 80 años de su abuela. Aunque fue su familia quien contrató al organizador de eventos, Anacristina fue la encargada de mantener contacto con él. Lo conoció inicialmente a través de TikTok, y los factores que consideró para elegirlo fueron su creatividad y responsabilidad. Consultó con otros organizadores antes de decidirse, pero finalmente optó por él.
+La entrevistada se llama Anacristina Reymundo Mamani, una joven de 22 años, género femenino, soltera, que reside en el distrito de Surco, Lima, Perú. 
 
-La planificación del evento tomó aproximadamente dos meses y medio. Sin embargo, Anacristina mencionó que le costó entender por qué algunos organizadores cobraban más que otros por aparentemente los mismos servicios. La comunicación con el organizador fue calificada como regular, ya que, aunque se mantuvieron en contacto mayormente por WhatsApp y en ocasiones por llamadas, él no siempre respondía de manera oportuna. Uno de los aspectos que le hubiera gustado mejorar fue el posicionamiento de las mesas, que quedaron demasiado juntas, algo que no se discutió adecuadamente durante la planificación.
+Es estudiante de Medicina Veterinaria, cursando actualmente el 5to ciclo de su carrera, sin ocupación laboral adicional. Se define a sí misma con tres adjetivos principales: empática, responsable y proactiva. 
 
-En cuanto a los aspectos financieros, el proceso de cotización incluyó un adelanto del 25% al inicio y el pago del 75% restante al finalizar el evento, todo realizado mediante transferencias bancarias. Este sistema le permitió hacer seguimiento de los pagos fácilmente. Sin embargo, surgieron gastos inesperados debido a que algunos invitados rompieron vasos y copas durante la celebración.
+Anacristina utiliza un dispositivo móvil con sistema operativo Android como su principal herramienta tecnológica y para navegación web emplea Google Chrome como navegador predeterminado, no contando con otros dispositivos como laptop, PC o tablet. Durante la entrevista, compartió su experiencia organizando un evento familiar para celebrar los 80 años de su abuela.
 
-Anacristina afirmó que no recomendaría contratar nuevamente al mismo organizador debido a su falta de experiencia y a una comunicación deficiente, lo cual afectó la ejecución del evento. Aunque valoró no tener que preocuparse por la planificación, pues el organizador se encargaba de ello, sintió que su idea general del evento no fue bien comprendida. Además, consideró que el precio del evento no fue adecuado, ya que cree que otros organizadores habrían podido hacerlo mejor.
+Aunque la familia fue quien contrató al organizador, Anacristina asumió el rol de contacto principal y coordinación. Descubrió al organizador de eventos a través de TikTok, estableciendo el contacto inicial por la misma plataforma social y posteriormente migrando la comunicación a WhatsApp para el seguimiento del proyecto. Los factores determinantes para elegir al organizador fueron su creatividad y aparente responsabilidad demostrada en sus contenidos de TikTok. 
 
-Lo más frustrante para ella fue la falta de respuesta por parte del organizador, quien no era lo suficientemente comunicativo. A pesar de estos inconvenientes, destacó que la gestión de pagos fue sencilla gracias al uso exclusivo de transferencias bancarias.
+Realizó un proceso de comparación consultando con otros organizadores antes de tomar la decisión final, aunque mencionó dificultades para entender las diferencias de precios entre proveedores que ofrecían servicios aparentemente similares. 
 
+La planificación del evento se extendió aproximadamente dos meses y medio. La comunicación con el organizador fue calificada como regular, manteniéndose principalmente a través de WhatsApp y ocasionalmente por llamadas telefónicas. Sin embargo, experimentó frustración debido a la falta de respuestas oportunas del organizador, quien no era lo suficientemente comunicativo para sus expectativas. 
+
+El esquema de pagos incluyó un adelanto del 25% al inicio del proyecto y el 75% restante al finalizar el evento, realizando todas las transacciones mediante transferencias bancarias. Este método le facilitó el seguimiento de pagos, aunque surgieron gastos inesperados por daños (vasos y copas rotos) durante la celebración. 
+
+Anacristina no recomendaría contratar nuevamente al mismo organizador debido a su inexperiencia y comunicación deficiente, factores que afectaron la ejecución del evento. Aunque valoró no tener que preocuparse por la planificación general, sintió que su visión del evento no fue adecuadamente comprendida ni ejecutada. Consideró que el precio no fue proporcional a la calidad recibida y que otros organizadores habrían ofrecido mejores resultados. 
+
+Los aspectos más frustrantes fueron la falta de comunicación oportuna y algunos detalles de ejecución como el posicionamiento inadecuado de las mesas, tema que no se discutió suficientemente durante la planificación.
 
 **Segmento Objetivo 2: Organizadores de Evento**
 <br><br>
