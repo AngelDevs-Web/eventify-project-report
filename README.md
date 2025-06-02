@@ -29,17 +29,26 @@
 ## Registro de Versiones del Informe
 
 
-| **Version** | **Fecha**  |            **Autor**             |                                       **Descripción de modificación**                                        |
-|:-----------:|:----------:|:--------------------------------:|:------------------------------------------------------------------------------------------------------------:|
-|     0.1     | 19/04/2024 | Fabrizio Alexander Cutiri Agüero |                                    Se presento la estructura del Informe                                     |
-|     0.2     | 24/04/2024 | Fabrizio Alexander Cutiri Agüero |                  Se agrego Startup Profile, Antecedentes y Problematica, Segmentos Objetivo                  |
-|     0.3     | 25/04/2024 | Fabrizio Alexander Cutiri Agüero |                             Se agregarón todas las secciones del Lean UX Process                             |
-|     0.4     | 25/04/2024 | Fabrizio Alexander Cutiri Agüero | Se agregaron las secciones respecto a las entrevistas, analisis de competidores y Artefactos del Needfinding |
-|     0.5     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |                 Se agregó el To Be Scenary Map, las Epics, User Stories y Technical Stories.                 |
-|     0.6     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |            Se agregaron los Style Guidelines generales y Web. Ademas del Information Architecture            |
-|     0.7     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |         Se agregarón wireframes, mockups del landing page y la aplicación web. Además del Prototipo.         |
-|     0.8     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |                            Se agregó el c4 model y el diagrama de base de datos.                             |
-|     1.0     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |                       Se realizó el Sprint plannig 1 y el despliegue del Landing Page                        |
+| **Version** |      **Fecha**      |            **Autor**             |                                              **Descripción de modificación**                                              |
+|:-----------:|:-------------------:|:--------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+|     0.1     |     19/04/2024      | Fabrizio Alexander Cutiri Agüero |                                           Se presento la estructura del Informe                                           |
+|     0.2     |     24/04/2024      | Fabrizio Alexander Cutiri Agüero |                        Se agrego Startup Profile, Antecedentes y Problematica, Segmentos Objetivo                         |
+|     0.3     |     25/04/2024      | Fabrizio Alexander Cutiri Agüero |                                   Se agregarón todas las secciones del Lean UX Process                                    |
+|     0.4     |     25/04/2024      | Fabrizio Alexander Cutiri Agüero |       Se agregaron las secciones respecto a las entrevistas, analisis de competidores y Artefactos del Needfinding        |
+|     0.5     |     27/04/2024      | Fabrizio Alexander Cutiri Agüero |                       Se agregó el To Be Scenary Map, las Epics, User Stories y Technical Stories.                        |
+|     0.6     |     27/04/2024      | Fabrizio Alexander Cutiri Agüero |                  Se agregaron los Style Guidelines generales y Web. Ademas del Information Architecture                   |
+|     0.7     |     27/04/2024      | Fabrizio Alexander Cutiri Agüero |               Se agregarón wireframes, mockups del landing page y la aplicación web. Además del Prototipo.                |
+|     0.8     |     27/04/2024      | Fabrizio Alexander Cutiri Agüero |                                   Se agregó el c4 model y el diagrama de base de datos.                                   |
+|     1.0     |     27/04/2024      | Fabrizio Alexander Cutiri Agüero |                              Se realizó el Sprint plannig 1 y el despliegue del Landing Page                              |
+|     1.1     |     13/05/2024      | Fabrizio Alexander Cutiri Agüero |                                 Se realizó el Product Backlog e Impact Mapping faltantes                                  |
+|     1.2     |     15/05/2024      | Fabrizio Alexander Cutiri Agüero | Se realizaron las secciones Development Evidence y Execution Evidence de la funcionalidad Quote Management en el Sprint 2 |
+|     1.3     |     16/05/2024      | Fabrizio Alexander Cutiri Agüero |                                              Se agregó el Sprint Planning 2                                               |
+|     1.4     |     16/05/2024      | Fabrizio Alexander Cutiri Agüero | Se realizaron las secciones Development Evidence y Execution Evidence de la funcionalidad Task Management en el Sprint 2  |
+|     1.5     |     16/05/2024      | Fabrizio Alexander Cutiri Agüero |                                 Se agregó la sección Deployment Evidence para el Sprint 2                                 |
+|     1.6     |     16/05/2024      | Fabrizio Alexander Cutiri Agüero |                             Se agregó la sección Team Collaboration Insights para el Sprint 2                             |
+|     1.7     |     16/05/2024      | Fabrizio Alexander Cutiri Agüero |                                        Se corrigió la sección Ubiquitous language                                         |
+|     1.8     |     16/05/2024      | Fabrizio Alexander Cutiri Agüero |                    Se agregarón las secciones faltantes de Diagrama de clases y Diccionario de clases                     |
+|     2.0     |     16/05/2024      | Fabrizio Alexander Cutiri Agüero |                                       Se actulizó el contenido del Student Outcome                                        |
 
 ## Project Report Collaboration Insights
 
