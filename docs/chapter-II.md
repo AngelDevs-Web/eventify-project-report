@@ -539,12 +539,12 @@ En esta sección se presentarán los User Personas de cada segmento objetivo. Es
 
 **Segmento Objetivo: Organizadores de eventos sociales no masivos**
 
-![User Persona 1](../assets/chapter-II/user-persona-organizador.png)
+![user-persona-organizer](../assets/chapter-II/user-persona-organizador.png)
 
  <br>
 
 **Segmento Objetivo: Anfitriones de eventos**
-![User Persona 2](../assets/chapter-II/user-persona-anfitrion.png)
+![user-persona-host](../assets/chapter-II/user-persona-anfitrion.png)
 
 ### 2.3.2. User Task Matrix
 
