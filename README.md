@@ -31,15 +31,15 @@
 
 | **Version** | **Fecha**  |            **Autor**             |                                       **Descripción de modificación**                                        |
 |:-----------:|:----------:|:--------------------------------:|:------------------------------------------------------------------------------------------------------------:|
-|     1.0     | 19/04/2024 | Fabrizio Alexander Cutiri Agüero |                                    Se presento la estructura del Informe                                     |
-|     1.1     | 24/04/2024 | Fabrizio Alexander Cutiri Agüero |                  Se agrego Startup Profile, Antecedentes y Problematica, Segmentos Objetivo                  |
-|     1.2     | 25/04/2024 | Fabrizio Alexander Cutiri Agüero |                             Se agregarón todas las secciones del Lean UX Process                             |
-|     1.3     | 25/04/2024 | Fabrizio Alexander Cutiri Agüero | Se agregaron las secciones respecto a las entrevistas, analisis de competidores y Artefactos del Needfinding |
-|     1.4     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |                 Se agregó el To Be Scenary Map, las Epics, User Stories y Technical Stories.                 |
-|     1.5     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |            Se agregaron los Style Guidelines generales y Web. Ademas del Information Architecture            |
-|     1.6     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |         Se agregarón wireframes, mockups del landing page y la aplicación web. Además del Prototipo.         |
-|     1.7     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |                            Se agregó el c4 model y el diagrama de base de datos.                             |
-|     1.8     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |                       Se realizó el Sprint plannig 1 y el despliegue del Landing Page                        |
+|     0.1     | 19/04/2024 | Fabrizio Alexander Cutiri Agüero |                                    Se presento la estructura del Informe                                     |
+|     0.2     | 24/04/2024 | Fabrizio Alexander Cutiri Agüero |                  Se agrego Startup Profile, Antecedentes y Problematica, Segmentos Objetivo                  |
+|     0.3     | 25/04/2024 | Fabrizio Alexander Cutiri Agüero |                             Se agregarón todas las secciones del Lean UX Process                             |
+|     0.4     | 25/04/2024 | Fabrizio Alexander Cutiri Agüero | Se agregaron las secciones respecto a las entrevistas, analisis de competidores y Artefactos del Needfinding |
+|     0.5     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |                 Se agregó el To Be Scenary Map, las Epics, User Stories y Technical Stories.                 |
+|     0.6     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |            Se agregaron los Style Guidelines generales y Web. Ademas del Information Architecture            |
+|     0.7     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |         Se agregarón wireframes, mockups del landing page y la aplicación web. Además del Prototipo.         |
+|     0.8     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |                            Se agregó el c4 model y el diagrama de base de datos.                             |
+|     1.0     | 27/04/2024 | Fabrizio Alexander Cutiri Agüero |                       Se realizó el Sprint plannig 1 y el despliegue del Landing Page                        |
 
 ## Project Report Collaboration Insights
 
@@ -67,9 +67,29 @@ En el analítico de **Network Graph**, se evidencia que se trabajo con GitFlow p
 ![gitflow-report-tb1-2](./assets/cover/gitflow-report-tb1-app-web-2.png)
 ![gitflow-report-tb1-3](./assets/cover/gitflow-report-tb1-app-web-3.png)
 
+### Reporte de Colaboración para la entrega del TP1
 
+En esta segunda entrega se elaboró la sección correspondiente al Sprint 2 del capítulo V, asi como correcciones de secciones pasadas, tales como el User Task Matrix, Product Backlog, diagrama de clases, diccionario de clases y ubiquitous language. Durante este proceso, se llevaron a cabo reuniones para definir el sprint goal y se distribuyeron las tareas necesarias para la implementación y el despliegue del frontend. Además, en lo que respecta al contenido del Sprint 2, se redactaron el Sprint Planning y las evidencias de desarrollo, ejecución, despliegue y colaboración asociadas a las principales funcionalidades del frontend trabajadas durante este periodo.
 
+Para evidenciar nuestros avances y que todos los miembros del equipo participaron en la redacción del informe, se presenta a continuación, las capturas obtenidas de los analíticos de colaboración en el repositorio de GitHub del Informe:
 
+**Pulse**
+
+En el analítico de **Pulse** se evidencian los commits que realizó cada integrante del equipo durante el periodo definido para esta segunda entrega.
+
+![commits-report-tp1](./assets/cover/commits-report-tp1-app-web.png)
+
+**Contributors**
+
+En el analítico de Contributors, se evidencia las contribuciones que hizo cada integrante del equipo para la redacción del informe. Se puede observar la cantidad de commits que realizó cada integrante, asi como la cantidad de addiciones y eliminaciones que se realizaron en el informe.
+
+![contributors-report-tp1](./assets/cover/contributors-report-tp1-app-web.png)
+
+**Network Graph**
+
+En el analítico de **Network Graph**, se evidencia que se ha trabajado en ramas de capitulos anteriores al Sprint 2, las cuales son correcciones realizadas sobre errores identificados en la entrega anterior. Además de esto, tambien se trabajo en la rama del Capitulo V, para redactar la documentación relacionada a la implementación y despliegue del frontend durante el Sprint 2.
+
+![gitflow-report-tp1](./assets/cover/gitflow-report-tp1-app-web.png)
 
 ------
 
