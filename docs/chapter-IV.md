@@ -396,30 +396,39 @@ En esta sección se presentan las representaciones de bajo nivel **(wireframes)*
 **Mobile Web Browser**
 
 **Header Section**
+
 ![header-section-wireframe-desktop](/assets/chapter-IV/header-section-mobile-wireframe.png)
 
 **Hero Section**
+
 ![hero-section-wireframe-desktop](/assets/chapter-IV/hero-section-mobile-wireframe.png)
 
 **About the product Section**
+
 ![about-product-section-wireframe-desktop](/assets/chapter-IV/about-the-product-section-mobile-wireframe.png)
 
 **Functionalities Section**
+
 ![functionality-section-wireframe-desktop](/assets/chapter-IV/functionality-section-mobile-wireframe.png)
 
 **Benefits Section**
+
 ![benefits-section-wireframe-desktop](/assets/chapter-IV/benefits-section-mobile-wireframe.png)
 
 **Plans Section**
+
 ![plans-section-wireframe-desktop](/assets/chapter-IV/plans-section-mobile-wireframe.png)
 
 **About us Section**
+
 ![about-us-section-wireframe-desktop](/assets/chapter-IV/about-us-section-mobile-wireframe.png)
 
 **About the team Section**
+
 ![about-team-section-wireframe-desktop](/assets/chapter-IV/about-the-team-section-mobile-wireframe.png)
 
 **Footer Section**
+
 ![footer-section-wireframe-desktop](/assets/chapter-IV/footer-section-mobile-wireframe.png)
 
 ### 4.3.2. Landing Page Mock-up
@@ -427,13 +436,72 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 
 **Desktop Web Browser**
 
-![eventify-mockup-desktop](/assets/chapter-IV/eventify-mockup-desktop.jpg)
+**Header Section**
+![header-section-mockup](/assets/chapter-IV/header-section-mockup-desktop.png)
+
+**Hero Section**
+![hero-section-mockup](/assets/chapter-IV/hero-section-mockup-desktop.png)
+
+**About the product Section**
+![about-product-section-mockup](/assets/chapter-IV/about-product-section-mockup-desktop.png)
+
+**Functionalities Section**
+![functionalities-section-mockup](/assets/chapter-IV/functionality-section-mockup-desktop.png)
+
+**Benefits Section**
+![benefits-section-mockup](/assets/chapter-IV/benefits-section-mockup-desktop.png)
+
+**Plans Section**
+![plans-section-mockup](/assets/chapter-IV/plans-section-mockup-desktop.png)
+
+**About us Section**
+![about-us-section-mockup](/assets/chapter-IV/about-us-section-mockup-desktop.png)
+
+**About the team Section**
+![about-team-section-mockup](/assets/chapter-IV/about-team-section-mockup-desktop.png)
+
+**Footer Section**
+![footer-section-mockup](/assets/chapter-IV/footer-section-mockup-desktop.png)
 
  <br>
 
 **Mobile Web Browser**
 
-![eventify-mockup-mobile](/assets/chapter-IV/eventify-mockup-mobile.jpg)
+**Header Section**
+
+![header-section-mockup-mobile](/assets/chapter-IV/header-section-mockup-mobile.png)
+
+**Hero Section**
+
+![hero-section-mockup-mobile](/assets/chapter-IV/hero-section-mockup-mobile.png)
+
+**About the product Section**
+
+![about-product-section-mockup-mobile](/assets/chapter-IV/about-the-product-section-mockup-mobile.png)
+
+**Functionalities Section**
+
+![functionalities-section-mockup-mobile](/assets/chapter-IV/functionalities-section-mockup-mobile.png)
+
+**Benefits Section**
+
+![benefits-section-mockup-mobile](/assets/chapter-IV/benefits-section-mockup-mobile.png)
+
+**Plans Section**
+
+![plans-section-mockup-mobile](/assets/chapter-IV/plans-section-mockup-mobile.png)
+
+**About us Section**
+
+![about-us-section-mockup-mobile](/assets/chapter-IV/about-us-section-mockup-mobile.png)
+
+**About the team Section**
+
+![about-team-section-mockup-mobile](/assets/chapter-IV/about-the-team-section-mockup-mobile.png)
+
+**Footer Section**
+
+![footer-section-mockup-mobile](/assets/chapter-IV/footer-section-mockup-mobile.png)
 
 ## 4.4. Web Applications UX/UI Design
 
