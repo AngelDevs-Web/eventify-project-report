@@ -179,7 +179,7 @@ Para el desarrollo de las entrevistas de los segmentos objetivos definidos, se r
 
 * ¿Cuál es su nombre?
 * ¿Qué edad tiene?
-* ¿Como se definiría usando solo 3 adjetivos?
+* ¿Cómo se definiría usando solo 3 adjetivos?
 * ¿Cuál es su estado civil?
 * ¿A qué se dedica? (freelance o como organización)
 * ¿En qué distrito/provincia reside?
@@ -188,8 +188,8 @@ Para el desarrollo de las entrevistas de los segmentos objetivos definidos, se r
 
 **Preguntas de Hábitos Digitales:**
 
-* Porque medio se comunica con sus clientes con mayor frecuencia (Whatsapp, Instagram, Facebook, correo Hotmail/Gmail)?
-* ¿Con que dispositivo interactúa con mayor frecuencia (Pc, laptop, iPad)?
+* ¿Por qué medio se comunica con sus clientes con mayor frecuencia (Whatsapp, Instagram, Facebook, correo Hotmail/Gmail)?
+* ¿Con qué dispositivo interactúa con mayor frecuencia (Pc, laptop, iPad)?
 * ¿Cuál es el navegador web que con mayor frecuencia usa? (Chrome, Safari, Brave, Opera).
 
 **Preguntas Principales:**
@@ -214,7 +214,7 @@ Para el desarrollo de las entrevistas de los segmentos objetivos definidos, se r
 
 * ¿Qué es lo que más valoran sus clientes en relación a sus servicios según su experiencia?
 * ¿Qué es lo que más le frustra de trabajar como organizador de eventos en el ámbito de planificación? (Contratar servicios de terceros).
-* ¿Ha tenido alguna experiencia mala con alguno cliente? ¿Como las resolvió?
+* ¿Ha tenido alguna experiencia mala con alguno cliente? ¿Cómo las resolvió?
 
  <br/>
 
@@ -247,14 +247,14 @@ Para el desarrollo de las entrevistas de los segmentos objetivos definidos, se r
 * ¿Por qué medios de comunicación fue la interacción con su organizador de eventos? (correo, WhatsApp).
 * ¿Hubo algo que le hubiera gustado que le expliquen mejor?
 * ¿Qué aspecto del evento le hubiera gustado mejorar? (DJ era malo, sillas en mal estado).
-* ¿Como fue el proceso de cotización y pagos? ¿Porque medios fue realizado el pago?
+* ¿Cómo fue el proceso de cotización y pagos? ¿Por qué medios fue realizado el pago?
 * ¿Hubo algún gasto inesperado durante la planificación del evento? (Meseros extras).
 
 **Preguntas Complementarias**
 
 * ¿Recomendaría a otras personas contratar al mismo organizador de eventos?
 * ¿Qué fue lo más satisfactorio de todo el proceso?
-* Que fue lo mas frustrante/estresante de todo el proceso de planificación junto con su organizador?
+* ¿Qué fue lo más frustrante/estresante de todo el proceso de planificación junto con su organizador?
 * ¿Le pareció correcto el costo del evento?
 * ¿Cuánto influye el costo en su decisión de contratación? (Prefiere pagar mas por calidad o busca opciones más económicas).
 * ¿Sintió que entendieron bien su visión del evento con lo que organizaron?
@@ -377,7 +377,7 @@ Los aspectos más frustrantes fueron la falta de comunicación oportuna y alguno
 
 **Resumen de la entrevista:**
 
-El entrevistado es un organizador de eventos con una empresa formalmente constituida y con razón social, respaldado por 12 años de experiencia en el rubro. Se describe como una persona responsable, entusiasta y apasionada por su trabajo. Su navegador web de preferencia es Google Chrome.
+El entrevistado es un organizador de eventos con una empresa formalmente constituida y con razón social, respaldado por 12 años de experiencia en el rubro. Se describe como una persona responsable, entusiasta y apasionada por su trabajo.  El navegador web que menciona ser de su preferencia es Google Chrome y el dispositivo que más utiliza es su celular móvil, ya que mantiene comunicación con sus clientes por redes sociales y necesita sentirse conectado.
 
 Durante la entrevista, compartió cómo ha sido su desarrollo profesional en el ámbito de la organización de eventos. Todo comenzó en el año 2012, cuando ofrecía servicios de alquiler de equipos de sonido. Al notar que el negocio era rentable y contribuía significativamente a su economía familiar, decidió expandirse y dedicarse de lleno al rubro de eventos.
 
