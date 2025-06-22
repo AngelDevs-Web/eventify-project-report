@@ -1079,6 +1079,9 @@ En esta imagen se refleja el nivel de modificaciones realizadas por los commits 
 Finalmente en estas imagenes se pueden apreciar las ramas con las que se ha trabajado durante el desarrollo del FrontEnd
 
 ### 5.2.3. Sprint 3
+
+Durante el Sprint actual nos enfocamos en desarrollar la versión inicial del backend de nuestra aplicación web Eventify. Además, se realizaron mejoras y correcciones tanto en la landing page como en el frontend. Para lograrlo, definimos en el sprint backlog diversas tareas relacionadas con las funcionalidades principales del negocio, como las cotizaciones para eventos y la creación de tareas que se llevarán a cabo durante su planificación.
+
 #### 5.2.3.1.Spring Planning 3.
 #### 5.2.3.2. Aspect Leaders and Collaborators.
 #### 5.2.3.3.Sprint Backlog 3.
