@@ -179,7 +179,7 @@ Para el desarrollo de las entrevistas de los segmentos objetivos definidos, se r
 
 * ¿Cuál es su nombre?
 * ¿Qué edad tiene?
-* ¿Como se definiría usando solo 3 adjetivos?
+* ¿Cómo se definiría usando solo 3 adjetivos?
 * ¿Cuál es su estado civil?
 * ¿A qué se dedica? (freelance o como organización)
 * ¿En qué distrito/provincia reside?
@@ -188,8 +188,8 @@ Para el desarrollo de las entrevistas de los segmentos objetivos definidos, se r
 
 **Preguntas de Hábitos Digitales:**
 
-* Porque medio se comunica con sus clientes con mayor frecuencia (Whatsapp, Instagram, Facebook, correo Hotmail/Gmail)?
-* ¿Con que dispositivo interactúa con mayor frecuencia (Pc, laptop, iPad)?
+* ¿Por qué medio se comunica con sus clientes con mayor frecuencia (Whatsapp, Instagram, Facebook, correo Hotmail/Gmail)?
+* ¿Con qué dispositivo interactúa con mayor frecuencia (Pc, laptop, iPad)?
 * ¿Cuál es el navegador web que con mayor frecuencia usa? (Chrome, Safari, Brave, Opera).
 
 **Preguntas Principales:**
@@ -214,7 +214,7 @@ Para el desarrollo de las entrevistas de los segmentos objetivos definidos, se r
 
 * ¿Qué es lo que más valoran sus clientes en relación a sus servicios según su experiencia?
 * ¿Qué es lo que más le frustra de trabajar como organizador de eventos en el ámbito de planificación? (Contratar servicios de terceros).
-* ¿Ha tenido alguna experiencia mala con alguno cliente? ¿Como las resolvió?
+* ¿Ha tenido alguna experiencia mala con alguno cliente? ¿Cómo las resolvió?
 
  <br/>
 
@@ -247,14 +247,14 @@ Para el desarrollo de las entrevistas de los segmentos objetivos definidos, se r
 * ¿Por qué medios de comunicación fue la interacción con su organizador de eventos? (correo, WhatsApp).
 * ¿Hubo algo que le hubiera gustado que le expliquen mejor?
 * ¿Qué aspecto del evento le hubiera gustado mejorar? (DJ era malo, sillas en mal estado).
-* ¿Como fue el proceso de cotización y pagos? ¿Porque medios fue realizado el pago?
+* ¿Cómo fue el proceso de cotización y pagos? ¿Por qué medios fue realizado el pago?
 * ¿Hubo algún gasto inesperado durante la planificación del evento? (Meseros extras).
 
 **Preguntas Complementarias**
 
 * ¿Recomendaría a otras personas contratar al mismo organizador de eventos?
 * ¿Qué fue lo más satisfactorio de todo el proceso?
-* Que fue lo mas frustrante/estresante de todo el proceso de planificación junto con su organizador?
+* ¿Qué fue lo más frustrante/estresante de todo el proceso de planificación junto con su organizador?
 * ¿Le pareció correcto el costo del evento?
 * ¿Cuánto influye el costo en su decisión de contratación? (Prefiere pagar mas por calidad o busca opciones más económicas).
 * ¿Sintió que entendieron bien su visión del evento con lo que organizaron?
@@ -287,17 +287,15 @@ A continuación, se presentará un resumen de cada entrevista realizada a los se
 
 El entrevistado se llama John Rafael Cutiri Chinchay, es una persona sobria, directa y de pocas palabras. Actualmente se encuentra casado, reside en Chorrillos y trabaja como comerciante. El navegador que utiliza con frecuencia es Google Chrome y su dispositivo preferido es el celular.
 
-Durante la entrevista, el señor John relató su experiencia al contratar a un organizador de eventos para la fiesta de quince años de su hija. La planificación del evento duró aproximadamente 10 meses. El entrevistado contrató a este organizador tras solicitar varias cotizaciones con diferentes proveedores, decidiendo contratar al organizador recomendado por un familiar, ya que le generaba mayor confianza y las propuestas que recibió eran muy similares. Además, se convenció al ver videos de eventos anteriores publicados por este organizador en redes sociales.
+Durante la entrevista, el señor John relató su experiencia al contratar a un organizador de eventos para la fiesta de quince años de su hija. La planificación del evento duró aproximadamente 10 meses. Como anfitrión, demostró pensamiento crítico al solicitar varias cotizaciones con diferentes proveedores antes de tomar una decisión. Finalmente, optó por contratar al organizador recomendado por un familiar, valorando la confianza que este le generaba y considerando que las propuestas recibidas eran similares. Además, evaluó cuidadosamente los videos de eventos anteriores publicados por el organizador en redes sociales, lo cual reforzó su elección.
 
-Durante la planificación, la comunicación con el organizador se limitó a la firma del contrato, pero se intensificó a medida que se acercaba la fecha del evento, utilizando WhatsApp como canal principal. Tambien, comento que lo mas estresante fue este periodo cercano al evento, ya que sentia presión por la posibilidad de que algo pudiera faltar.
+Durante la planificación, aunque la comunicación inicial con el organizador fue limitada, supo adaptarse y mantener una comunicación efectiva a medida que se acercaba la fecha del evento, utilizando WhatsApp como canal principal. Esta disposición muestra su capacidad para colaborar activamente en momentos clave del proceso. También comentó que lo más estresante fue el periodo cercano al evento, ya que sentía presión por la posibilidad de que algo pudiera faltar. Esta preocupación evidencia una actitud empática hacia los invitados y hacia el éxito general del evento.
 
-Respecto al desarrollo del evento, un aspecto que le hubiera gustado que se explicara con mayor claridad fue el tema del volumen de la música. Esto debido a que el local se encontraba en una zona de condominios y no se le permitió aumentar el volumen para evitar molestias a los vecinos. También manifestó cierta insatisfacción con la atención a los invitados, ya que notó que algunas mesas eran atendidas mientras otras no, lo cual evidenciaba una posible falta de personal.
+Respecto al desarrollo del evento, señaló que le hubiera gustado que se explicara con mayor claridad el tema del volumen de la música, debido a las restricciones del local ubicado en una zona de condominios. También expresó cierta insatisfacción con la atención a los invitados, ya que notó que algunas mesas eran atendidas mientras otras no. Estas observaciones reflejan su pensamiento crítico al identificar áreas de mejora y su empatía hacia los asistentes, al preocuparse por su experiencia durante la celebración.
 
-En cuanto al pago, se estableció un adelanto del 30% y el resto a cancelar el día del evento. No obstante, el entrevistado optó por realizar pagos periódicos para facilitar la gestión económica. Todos los pagos se efectuaron mediante transferencia bancaria y no se presentaron gastos imprevistos. Aunque no recibió boletas ni facturas, conservó las capturas de pantalla como comprobantes de pago.
+En cuanto al pago, se estableció un adelanto del 30% y el resto a cancelar el día del evento. No obstante, el entrevistado optó por realizar pagos periódicos, mostrando así iniciativa y colaboración para facilitar la gestión económica. Todos los pagos se efectuaron mediante transferencia bancaria y no se presentaron gastos imprevistos. Aunque no recibió boletas ni facturas, conservó las capturas de pantalla como comprobantes de pago, lo que demuestra una actitud responsable y organizada.
 
 A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resultado final. Consideró que el evento cumplió sus expectativas y que el organizador logró plasmar su visión. Asimismo, afirmó que no habría pagado más por un servicio de mayor calidad, ya que lo recibido le pareció adecuado. Finalmente, mencionó que recomendaría al organizador por haber cumplido con lo prometido.
-
-
 
 **Entrevista 2: Cenith Luque García**
 
@@ -342,16 +340,23 @@ Finalmente, la entrevistada afirmó que recomendaría al organizador del evento,
 
 **Resumen de la entrevista:**
 
-La entrevistada se llama Anacristina Reymundo Mamani. Es una joven de 22 años que se define como empática, responsable y proactiva. Es estudiante de Medicina Veterinaria y se encuentra soltera. Durante la entrevista, compartió su experiencia al organizar un evento familiar para celebrar los 80 años de su abuela. Aunque fue su familia quien contrató al organizador de eventos, Anacristina fue la encargada de mantener contacto con él. Lo conoció inicialmente a través de TikTok, y los factores que consideró para elegirlo fueron su creatividad y responsabilidad. Consultó con otros organizadores antes de decidirse, pero finalmente optó por él.
+La entrevistada se llama Anacristina Reymundo Mamani, una joven de 22 años, género femenino, soltera, que reside en el distrito de Surco, Lima, Perú. 
 
-La planificación del evento tomó aproximadamente dos meses y medio. Sin embargo, Anacristina mencionó que le costó entender por qué algunos organizadores cobraban más que otros por aparentemente los mismos servicios. La comunicación con el organizador fue calificada como regular, ya que, aunque se mantuvieron en contacto mayormente por WhatsApp y en ocasiones por llamadas, él no siempre respondía de manera oportuna. Uno de los aspectos que le hubiera gustado mejorar fue el posicionamiento de las mesas, que quedaron demasiado juntas, algo que no se discutió adecuadamente durante la planificación.
+Es estudiante de Medicina Veterinaria, cursando actualmente el 5to ciclo de su carrera, sin ocupación laboral adicional. Se define a sí misma con tres adjetivos principales: empática, responsable y proactiva. 
 
-En cuanto a los aspectos financieros, el proceso de cotización incluyó un adelanto del 25% al inicio y el pago del 75% restante al finalizar el evento, todo realizado mediante transferencias bancarias. Este sistema le permitió hacer seguimiento de los pagos fácilmente. Sin embargo, surgieron gastos inesperados debido a que algunos invitados rompieron vasos y copas durante la celebración.
+Anacristina utiliza un dispositivo móvil con sistema operativo Android como su principal herramienta tecnológica y para navegación web emplea Google Chrome como navegador predeterminado, no contando con otros dispositivos como laptop, PC o tablet. Durante la entrevista, compartió su experiencia organizando un evento familiar para celebrar los 80 años de su abuela.
 
-Anacristina afirmó que no recomendaría contratar nuevamente al mismo organizador debido a su falta de experiencia y a una comunicación deficiente, lo cual afectó la ejecución del evento. Aunque valoró no tener que preocuparse por la planificación, pues el organizador se encargaba de ello, sintió que su idea general del evento no fue bien comprendida. Además, consideró que el precio del evento no fue adecuado, ya que cree que otros organizadores habrían podido hacerlo mejor.
+Aunque la familia fue quien contrató al organizador, Anacristina asumió el rol de contacto principal y coordinación. Descubrió al organizador de eventos a través de TikTok, estableciendo el contacto inicial por la misma plataforma social y posteriormente migrando la comunicación a WhatsApp para el seguimiento del proyecto. Los factores determinantes para elegir al organizador fueron su creatividad y aparente responsabilidad demostrada en sus contenidos de TikTok. 
 
-Lo más frustrante para ella fue la falta de respuesta por parte del organizador, quien no era lo suficientemente comunicativo. A pesar de estos inconvenientes, destacó que la gestión de pagos fue sencilla gracias al uso exclusivo de transferencias bancarias.
+Realizó un proceso de comparación consultando con otros organizadores antes de tomar la decisión final, aunque mencionó dificultades para entender las diferencias de precios entre proveedores que ofrecían servicios aparentemente similares. 
 
+La planificación del evento se extendió aproximadamente dos meses y medio. La comunicación con el organizador fue calificada como regular, manteniéndose principalmente a través de WhatsApp y ocasionalmente por llamadas telefónicas. Sin embargo, experimentó frustración debido a la falta de respuestas oportunas del organizador, quien no era lo suficientemente comunicativo para sus expectativas. 
+
+El esquema de pagos incluyó un adelanto del 25% al inicio del proyecto y el 75% restante al finalizar el evento, realizando todas las transacciones mediante transferencias bancarias. Este método le facilitó el seguimiento de pagos, aunque surgieron gastos inesperados por daños (vasos y copas rotos) durante la celebración. 
+
+Anacristina no recomendaría contratar nuevamente al mismo organizador debido a su inexperiencia y comunicación deficiente, factores que afectaron la ejecución del evento. Aunque valoró no tener que preocuparse por la planificación general, sintió que su visión del evento no fue adecuadamente comprendida ni ejecutada. Consideró que el precio no fue proporcional a la calidad recibida y que otros organizadores habrían ofrecido mejores resultados. 
+
+Los aspectos más frustrantes fueron la falta de comunicación oportuna y algunos detalles de ejecución como el posicionamiento inadecuado de las mesas, tema que no se discutió suficientemente durante la planificación.
 
 **Segmento Objetivo 2: Organizadores de Evento**
 <br><br>
@@ -372,7 +377,7 @@ Lo más frustrante para ella fue la falta de respuesta por parte del organizador
 
 **Resumen de la entrevista:**
 
-El entrevistado es un organizador de eventos con una empresa formalmente constituida y con razón social, respaldado por 12 años de experiencia en el rubro. Se describe como una persona responsable, entusiasta y apasionada por su trabajo. Su navegador web de preferencia es Google Chrome.
+El entrevistado es un organizador de eventos con una empresa formalmente constituida y con razón social, respaldado por 12 años de experiencia en el rubro. Se describe como una persona responsable, entusiasta y apasionada por su trabajo.  El navegador web que menciona ser de su preferencia es Google Chrome y el dispositivo que más utiliza es su celular móvil, ya que mantiene comunicación con sus clientes por redes sociales y necesita sentirse conectado.
 
 Durante la entrevista, compartió cómo ha sido su desarrollo profesional en el ámbito de la organización de eventos. Todo comenzó en el año 2012, cuando ofrecía servicios de alquiler de equipos de sonido. Al notar que el negocio era rentable y contribuía significativamente a su economía familiar, decidió expandirse y dedicarse de lleno al rubro de eventos.
 
@@ -534,12 +539,12 @@ En esta sección se presentarán los User Personas de cada segmento objetivo. Es
 
 **Segmento Objetivo: Organizadores de eventos sociales no masivos**
 
-![User Persona 1](../assets/chapter-II/user-persona-organizador.png)
+![user-persona-organizer](../assets/chapter-II/user-persona-organizador.png)
 
  <br>
 
 **Segmento Objetivo: Anfitriones de eventos**
-![User Persona 2](../assets/chapter-II/user-persona-anfitrion.png)
+![user-persona-host](../assets/chapter-II/user-persona-anfitrion.png)
 
 ### 2.3.2. User Task Matrix
 
