@@ -100,6 +100,21 @@ En el analítico de **Network Graph**, se evidencia que se ha trabajado en ramas
 
 ![gitflow-report-tp1](./assets/cover/gitflow-report-tp1-app-web.png)
 
+### Reporte de Colaboración para la entrega del TB2
+
+**Pulse**
+
+![pulse-tb2](/assets/cover/pulse-insights.png)
+
+**Contributors**
+
+![contributors-1-tb2](/assets/cover/contributors-insights-1.png)
+![contributors-2-tb2](/assets/cover/contributors-insights-2.png)
+
+**Network Graph**
+
+![gitflow-tb2](/assets/cover/gitflow-insights-2.png)
+
 ------
 
 # Contenido
