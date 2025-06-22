@@ -298,32 +298,16 @@ En el Sprint 1, nos enfocamos en diseñar y desarrollar la Landing Page de Event
 |        Sprint 1 Velocity         |                                                                                                                                                                                                                                                                                                                                                                                                                                     Velocidad de 18 - Primer Sprint                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |       Sum of Story Points        |                                                                                                                                                                                                                                                                                                                                                                                                                                        Sprint 1 - 18 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-|             Sprint #             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|:--------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  **Sprint Planning Background**  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|               Date               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      16/05/25                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|               Time               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     23:40 horas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|             Location             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Reunión virtual - Zoom/Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|           Prepared By            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Fabrizio Alexander Cutiri Agüero                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|            Attendees             |                                                                                                                                                                                                                                                                                                                                                                                                                - Aldave Aldave Jean Pierr <br> - Omar Christian Berrocal Ramirez  <br> - Deybbi Anderson Crisanto Calle  <br> - Fabrizio Alexander Cutiri Agüero  <br> - July Zelmira Paico Calderon                                                                                                                                                                                                                                                                                                                                                                                                                |
-|    Sprint n-1 Review Summary     |                                                                                                                                                                                                                                                                                                                                                                                               Se logró documentar y diseñar la estructura inicial del Landing Page, definiendo secciones clave e identificando los componentes necesarios. Se establecieron las tecnologías base del proyecto: Vue, Vite y PrimeVue.                                                                                                                                                                                                                                                                                                                                                                                                |
-| Sprint n-1 Retrospective Summary |                                                                                                                                                                                                                                                                                                                                                                      Durante el Sprint 1 se acordó que el enfoque visual y estructural era fundamental para atraer a nuevos usuarios. También se identificó la necesidad de establecer estándares de componentes reutilizables y convenciones claras de código desde el inicio del desarrollo.                                                                                                                                                                                                                                                                                                                                                                      |
-|  **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|          Sprint 2 Goal           | Nuestro enfoque en este sprint es construir la primera versión funcional del Landing Page de Eventify con Vue + Vite + PrimeVue, incorporando componentes reutilizables, diseño responsive y navegación fluida.Nos centraremos en desarrollar las secciones previamente definidas (Inicio, Beneficios, Funcionalidades, Planes, Quiénes Somos y About the Product) utilizando código limpio y modular, aplicando PrimeVue para los componentes visuales y PrimeFlex para la estructura responsiva. Buscamos entregar una versión navegable que los usuarios puedan ver y usar desde diferentes dispositivos. Esto nos permitirá realizar pruebas tempranas de usabilidad y validar si la interfaz cumple con los objetivos de claridad, atractivo visual y navegación intuitiva. Este trabajo será validado mediante una demo funcional desplegada localmente y/o en hosting temporal (como Netlify o Vercel), que permita recibir feedback interno antes de pasar a etapas más avanzadas de integración o backend. |
-|        Sprint 2 Velocity         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Velocidad de 26 - Primer Sprint                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|       Sum of Story Points        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Sprint 2 - 32 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-
-
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
 
-|            Team Member            | GitHub Username | TaskManagement | ProfileManagement | QuoteManagement | Event Management | Calendar | 
-|:---------------------------------:|:---------------:|:--------------:|:-----------------:|:---------------:|:----------------:|:--------:| 
-|     Aldave Aldave, Jean Pierr     |   Jean Pierr    |       L        |         C         |        C        |        C         |    C     |  
-| Berrocal Ramirez, Omar Christian  |      OmBRz      |       C        |         C         |        C        |        C         |    L     |   
-|  Crisanto Calle, Deybbi Anderson  |     Dacc03      |       C        |         L         |        C        |        C         |    C     |   
-| Cutiri Agüero, Fabrizio Alexander |    Fabrizio     |       C        |         C         |        L        |        C         |    C     |    
-|   Paico Calderon, July Zelmira    |      JulyP      |       C        |         C         |        C        |        L         |    C     |  
+|            Team Member            | GitHub Username |    Header    | Footer | Inicio | Beneficios | Funcionalidades | Planes | About Us | About the product |
+|:---------------------------------:|:---------------:|:------------:|:------:|:------:|:----------:|:---------------:|:------:|:--------:|:-----------------:|
+|     Aldave Aldave, Jean Pierr     |   Jean Pierr    |      L       |   C    |   C    |     C      |        C        |   L    |    C     |         C         |
+| Berrocal Ramirez, Omar Christian  |      OmBRz      |      C       |   C    |   C    |     C      |        L        |   C    |    C     |         C         |
+|  Crisanto Calle, Deybbi Anderson  |     Dacc03      |      C       |   L    |   C    |     C      |        C        |   C    |    C     |         C         |
+| Cutiri Agüero, Fabrizio Alexander |    Fabrizio     |      C       |   C    |   L    |     C      |        C        |   C    |    L     |         C         |
+|   Paico Calderon, July Zelmira    |      JulyP      |      C       |   C    |   C    |     L      |        C        |   C    |    C     |         L         |  
 
 #### 5.2.1.3. Sprint Backlog 1
 
@@ -344,13 +328,13 @@ Enlance: https://trello.com/b/iDs1MVOZ/eventify-sprint-backlog-1
   </tr>
   <tr>
     <td align="center"> <strong>ID</strong> </td>
-    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Title</strong></td>
     <td align="center"> <strong>ID</strong> </td>
-    <td align="center"> <strong>Title<strong></td>
-    <td align="center"> <strong>Description<strong></td>
-    <td align="center"> <strong>Estimation (Hours)<strong></td>
-    <td align="center"> <strong>Assigned To<strong></td>
-    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>Description</strong></td>
+    <td align="center"> <strong>Estimation (Hours)</strong></td>
+    <td align="center"> <strong>Assigned To</strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  </strong></td>
   </tr>
   <!---------------------------------------------------------------------- -->
   <tr>
@@ -645,8 +629,185 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
 En el presente Sprint nos enfocamos en desarrollar la primera versión del frontend de nuestra aplicación web Eventify. Para ello definimos en el sprint backlog, tareas relacionadas a las principales funcionalidades que presenta nuestro proyecto como la creación de cotizaciones para los eventos, la creación de tareas que se realizarán durante la planeación del evento, entre otros.
 
 #### 5.2.2.1.Sprint Planning 2.
+
+|            Sprint #            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|:------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|              Date              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      16/05/25                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|              Time              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     23:40 horas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|            Location            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Reunión virtual - Zoom/Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|          Prepared By           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Fabrizio Alexander Cutiri Agüero                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|           Attendees            |                                                                                                                                                                                                                                                                                                                                                                                                                - Aldave Aldave Jean Pierr <br> - Omar Christian Berrocal Ramirez  <br> - Deybbi Anderson Crisanto Calle  <br> - Fabrizio Alexander Cutiri Agüero  <br> - July Zelmira Paico Calderon                                                                                                                                                                                                                                                                                                                                                                                                                |
+|    Sprint 1 Review Summary     |                                                                                                                                                                                                                                                                                                                                                                                               Se logró documentar y diseñar la estructura inicial del Landing Page, definiendo secciones clave e identificando los componentes necesarios. Se establecieron las tecnologías base del proyecto: Vue, Vite y PrimeVue.                                                                                                                                                                                                                                                                                                                                                                                                |
+| Sprint 1 Retrospective Summary |                                                                                                                                                                                                                                                                                                                                                                      Durante el Sprint 1 se acordó que el enfoque visual y estructural era fundamental para atraer a nuevos usuarios. También se identificó la necesidad de establecer estándares de componentes reutilizables y convenciones claras de código desde el inicio del desarrollo.                                                                                                                                                                                                                                                                                                                                                                      |
+| **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|         Sprint 2 Goal          | Nuestro enfoque en este sprint es construir la primera versión funcional del Landing Page de Eventify con Vue + Vite + PrimeVue, incorporando componentes reutilizables, diseño responsive y navegación fluida.Nos centraremos en desarrollar las secciones previamente definidas (Inicio, Beneficios, Funcionalidades, Planes, Quiénes Somos y About the Product) utilizando código limpio y modular, aplicando PrimeVue para los componentes visuales y PrimeFlex para la estructura responsiva. Buscamos entregar una versión navegable que los usuarios puedan ver y usar desde diferentes dispositivos. Esto nos permitirá realizar pruebas tempranas de usabilidad y validar si la interfaz cumple con los objetivos de claridad, atractivo visual y navegación intuitiva. Este trabajo será validado mediante una demo funcional desplegada localmente y/o en hosting temporal (como Netlify o Vercel), que permita recibir feedback interno antes de pasar a etapas más avanzadas de integración o backend. |
+|       Sprint 2 Velocity        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Velocidad de 26 - Primer Sprint                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|      Sum of Story Points       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Sprint 2 - 32 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+
+
 #### 5.2.2.2. Aspect Leaders and Collaborators.
+
+|            Team Member            | GitHub Username | TaskManagement | ProfileManagement | QuoteManagement | Event Management | Calendar | 
+|:---------------------------------:|:---------------:|:--------------:|:-----------------:|:---------------:|:----------------:|:--------:| 
+|     Aldave Aldave, Jean Pierr     |   Jean Pierr    |       L        |         C         |        C        |        C         |    C     |  
+| Berrocal Ramirez, Omar Christian  |      OmBRz      |       C        |         C         |        C        |        C         |    L     |   
+|  Crisanto Calle, Deybbi Anderson  |     Dacc03      |       C        |         L         |        C        |        C         |    C     |   
+| Cutiri Agüero, Fabrizio Alexander |    Fabrizio     |       C        |         C         |        L        |        C         |    C     |    
+|   Paico Calderon, July Zelmira    |      JulyP      |       C        |         C         |        C        |        L         |    C     |  
+
 #### 5.2.2.3.Sprint Backlog 2.
+
+Para el sprint 2 usamos la herramienta trello para organizar las tareas del equipo.
+
+Enlance: https://trello.com/b/rzR3S25M/eventify-sprint-backlog-2
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>Description</strong></td>
+    <td align="center"> <strong>Estimation (Hours)</strong></td>
+    <td align="center"> <strong>Assigned To</strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US24 Solicitar cotización a un organizador</td>
+    <td align="center"> TA01 </td>
+     <td align="center"> Create a qoute management</td>
+    <td align="center">Crear un formulario para generar una cotización </td>
+    <td align="center"> 3</td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA02 </td>
+     <td align="center"> Add component to create and edit services into a quote</td>
+    <td align="center"> Crea componentes para crear y editar cotizaciones en una tabla</td>
+    <td align="center"> 3</td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA03 </td>
+     <td align="center">Add external service for CRUD operations of quotes</td>
+    <td align="center"> Crea un servicio para acceder al fake api y hacer operaciones de CRUD</td>
+    <td align="center"> 2</td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander</td>
+    <td align="center">Done</td>
+  </tr>
+
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US21 Vista de cronograma del evento</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Create a calendar to view events registered</td>
+    <td align="center"> Se crea un calendario donde figurarán los eventos en los días correspondientes.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Berrocal Ramirez, Omar Christian</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US19 Gestión de presupuesto del evento</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Add external service for CRUD operations of services into a quote</td>
+    <td align="center"> Se crea un servicio para acceder al apifake y hacer operaciones de crud.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Cutiri Agüero, Fabrizio Alexander</td>
+    <td align="center">Done</td>
+  </tr>
+
+
+<!-------------------------------------------------->
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US18 Lista de tareas del evento</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Create a task management board</td>
+    <td align="center"> crea un board de gestión de tareas.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Aldave Aldave, Jean Pierr </td>
+    <td align="center"> Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA02 </td>
+     <td align="center">Add a component to create and edit tasks</td>
+    <td align="center"> Crea componentes para crear y editar tareas en el task board</td>
+    <td align="center"> 3</td>
+    <td align="center"> Aldave Aldave, Jean Pierr</td>
+    <td align="center">Done</td>
+  </tr>
+   <tr>
+    <td align="center"> TA03 </td>
+     <td align="center">Add external service for CRUD operations of tasks</td>
+    <td align="center"> Crea un servicio para acceder al fake api y obtener, editar o elimnar datos de las tareas.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Aldave Aldave, Jean Pierr</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US22 Visualización de resumen del evento</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Create event summary</td>
+    <td align="center"> Se debe desarrollar un card que muestre el resumen del evento</td>
+    <td align="center"> 2</td>
+    <td align="center"> Paico Calderon, July Zelmira </td>
+    <td align="center">Done</td>
+  </tr>
+  <!------------------------------------------------>
+   <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US23 Visualizar perfiles de organizadores	</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Organizer profile</td>
+    <td align="center"> Se desarrolla secion de perfil del organizador.</td>
+    <td align="center"> 3</td>
+    <td align="center"> Crisanto Calle, Deybbi Anderson </td>
+    <td align="center"> Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA02 </td>
+     <td align="center">Add Reviews and rating</td>
+    <td align="center"> Crea una vista con las reseñas y calificaciones que tiene el organizador.</td>
+    <td align="center"> 2</td>
+    <td align="center">Crisanto Calle, Deybbi Anderson</td>
+    <td align="center">Done</td>
+  </tr>
+  <!------------------------------------------------>
+   <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US17 Registro de nuevo evento.</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Create a new event</td>
+    <td align="center"> Crea un componente que genere un evento cuando se apruebe la cotización.</td>
+    <td align="center"> 2 </td>
+    <td align="center"> Paico Calderon, July Zelmira </td>
+    <td align="center"> Done</td>
+  </tr>
+
+
+</table>
+
 #### 5.2.2.4.Development Evidence for Sprint Review.
 
 <table>
@@ -915,4 +1076,554 @@ En esta imagen se refleja el nivel de modificaciones realizadas por los commits 
 
 ![gitflow-2](../assets/chapter-V/gitflow-feature-branch-2.png)
 
-Finalmente en estas imagenes se pueden apreciar las ramas con las que se ha trabajado durante el desarrollo del FrontEnd
+Finalmente en estas imagenes se pueden apreciar las ramas con las que se ha trabajado durante el desarrollo del FrontEnd 
+
+
+### 5.2.3. Sprint 3
+
+Durante el Sprint actual nos enfocamos en desarrollar la versión inicial del backend de nuestra aplicación web Eventify. Además, se realizaron mejoras y correcciones tanto en la landing page como en el frontend. Para lograrlo, definimos en el sprint backlog diversas tareas relacionadas con las funcionalidades principales del negocio, como las cotizaciones para eventos y la creación de tareas que se llevarán a cabo durante su planificación.
+
+#### 5.2.3.1.Spring Planning 3.
+
+
+|            Sprint #            |   Sprint 3     |
+|:------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background** |      |
+|              Date              |   07/06/25  |
+|              Time              |  15:40 horas  |
+|            Location            |  Reunión presencial - Aula UPC VH107  |
+|          Prepared By           |   Omar Christian Berrocal Ramirez |
+|           Attendees            |   - Aldave Aldave Jean Pierr   <br> - Deybbi Anderson Crisanto Calle  <br> - Fabrizio Alexander Cutiri Agüero  <br> - July Zelmira Paico Calderon    |
+|    Sprint 2 Review Summary     |    Se logró documentar y diseñar la una estructura del Landing Page y el FrontEnd de la apliación web, definiendo secciones clave e identificando los componentes necesarios para una muestra del funcionamiento de la aplicación. Se establecieron las tecnologías base del proyecto: Vue, Vite y PrimeVue.  |
+| Sprint 2 Retrospective Summary |  Durante el Sprint 2 se acordó que el enfoque visual y estructural era fundamental para atraer a nuevos usuarios. También se identificó la necesidad de establecer estándares de componentes reutilizables y convenciones claras de código desde el inicio del desarrollo. |
+| **Sprint Goal & User Stories** | |
+|         Sprint 3 Goal          | Nuestro enfoque está en brindar información detallada respecto a nuestra aplicación y el equipo de desarrollo, así como cerrar la conversión de los visitantes a través del sitio web del negocio, además de implementar nuevas características, como la búsqueda de organizadores de eventos, planes de suscripción, comunicación directa entre organizadores y anfitriones, notificaciones, autenticación de usuarios y la gestión de eventos, tareas y cotizaciones a través de una API. Creemos que esto nos ayudará a captar la atención de diferentes tipos de visitantes (recurrentes, racionales y emocionales) y brindará una experiencia de usuario más completa y escalable tanto para los organizadores como para los anfitriones. Esto se confirmará cuando los usuarios puedan buscar organizadores de eventos, comprar un plan de suscripción mensual, comunicarse a través del chat, recibir notificaciones relevantes y los organizadores puedan crear, actualizar o cancelar eventos, tareas y cotizaciones utilizando los puntos finales API implementados. |
+|       Sprint 3 Velocity        |  Velocidad de 26 - Primer Sprint                                                                                 |
+|      Sum of Story Points       |                                                   Sprint 3 - 32 Story Points                                                                            |
+
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+#### 5.2.3.3.Sprint Backlog 3.
+#### 5.2.3.4.Development Evidence for Sprint Review.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-Web/eventify-front-end </td>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> ae707330fc2346f296bc33630e23974911831a66</td>
+    <td align="center"> feat(environment): update environment variables</td>
+    <td align="center"> ---</td>
+    <td align="center"> 22/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/quote-management</td>
+    <td align="center" > 21a43b63c070c7a920f89aebaf2182761adbb50c</td>
+    <td align="center"> feat(quote): update quote and service item entities</td>
+    <td align="center"> ---</td>
+    <td align="center"> 22/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center">c6eb067561b47eaf0aff1a15f754f8f7dc43e3bc</td>
+    <td align="center"> feat(quote): update services for quote and service item</td>
+    <td align="center"> ---</td>
+    <td align="center"> 22/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> f239cf22df9c8c5c36de1b6e6684153568bf03e3</td>
+    <td align="center"> feat(quote): update crud operations for quote and service items</td>
+    <td align="center"> ---</td>
+    <td align="center">22/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> 7bde6c5e9165f51d388c5b5e4a6f92e46571b447</td>
+    <td align="center"> fix(quote): fix event date input for updated quote</td>
+    <td align="center"> ---</td>
+    <td align="center">22/06/2025</td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-Web/eventify-landing-page </td>
+    <td align="center"> develop</td>
+    <td align="center"> 025c3731ed993d8ac1a726a7953e5c90364ced03</td>
+    <td align="center"> feat(quote): add quote id value object</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/quotes-management</td>
+    <td align="center" > c27533ddc73709c3b6725b5f827c2dd25a540867</td>
+    <td align="center"> feat(quote): add quote status value object</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center">3a96e2898d86deec131bc570e6e2b9f467b7c538</td>
+    <td align="center"> feat(quote): add social event type value object</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center"> 38e1994d9cfc7da4cfe2d1512b74727123fe6638</td>
+    <td align="center"> feat(quote): add host id value object</td>
+    <td align="center"> ---</td>
+    <td align="center">20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center"> b49a8805c6d67bafa46fca58befdf725cb947ecc</td>
+    <td align="center"> feat(quote): add organizer id value object</td>
+    <td align="center"> ---</td>
+    <td align="center">20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center"> bf92ee03111788121e519d6ce650ca0e2b991d5e</td>
+    <td align="center">feat(quote): add quote aggregate</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center"> 2b960ff663ddc590092764daf68da26d575f9f94</td>
+    <td align="center"> feat(quote): add commands for quote</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center"> 2ec959c5b74cf0fb576211f490404ad9b0e92309</td>
+    <td align="center"> feat(quote): add queries for quote</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center">0689d8af059c7fb47457072553fd1790a0140c48</td>
+    <td align="center"> feat(quote): add command and query service contracts</td>
+    <td align="center"> ---</td>
+    <td align="center">20/06/2025</td>
+  </tr>
+
+  <tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">61eef3ef8891aaefdd47b7be147ff7611445803b</td>
+      <td align="center"> feat(quote): add outbound service contract</td>
+      <td align="center"> ---</td>
+      <td align="center">20/06/2025</td>
+  </tr>
+
+  <tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">ac887d2e04710e96e884b534af6de8dd22844b1d</td>
+      <td align="center"> feat(quote): add command and query service implementations</td>
+      <td align="center"> ---</td>
+      <td align="center">20/06/2025</td>
+  </tr>
+<tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">2b9e54c2b7d03c8a91eb6d93b1ae97c91edfe431</td>
+      <td align="center">feat(quote): add outbound service implementation</td>
+      <td align="center"> ---</td>
+      <td align="center">20/06/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">e22d480d2bade7b9a9932d4de3135265c1c2c6c8</td>
+      <td align="center"> feat(quote): add orm mapping rules extension</td>
+      <td align="center"> ---</td>
+      <td align="center">20/06/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">2fd3b9241a8883ba3e978e720a6b052ace783f9c</td>
+      <td align="center"> feat(quote): add resources and assemblers for quote</td>
+      <td align="center"> ---</td>
+      <td align="center">20/06/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">8c98455bbd9f87bd716e4990a8eb903c8e9050b1</td>
+      <td align="center"> feat(quote): add inbound services</td>
+      <td align="center"> ---</td>
+      <td align="center">20/06/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">d1bdea087b1688738326da66d0b2e5ae0a3c3f0c</td>
+      <td align="center"> feat(quote): add dependency injection mapping rules</td>
+      <td align="center"> ---</td>
+      <td align="center">20/06/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">d209e8071425663ab5383b2438be6040078f4c46</td>
+      <td align="center"> chore: add dockerfile</td>
+      <td align="center"> ---</td>
+      <td align="center">21/06/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">31ae568a9771da8839a2c678d2f54c9383421b7c</td>
+      <td align="center"> chore: add production environment app settings</td>
+      <td align="center"> ---</td>
+      <td align="center">21/06/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">98dc0fc452623132e5c5ad212477d479efceadb4</td>
+      <td align="center"> feat(quote): update dependency injection rules for quote</td>
+      <td align="center"> ---</td>
+      <td align="center">21/06/2025</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-Web/eventify-landing-page </td>
+    <td align="center"> feature/develop</td>
+    <td align="center"> 0963aedef8bb20d59df2d13aa055eb85a93a427b</td>
+    <td align="center"> feat(quote): https://github.com/AngelDevs-Web/eventify-landing-page</td>
+    <td align="center"> ---</td>
+    <td align="center"> 14/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/header</td>
+    <td align="center" > ccbd9bd848ce8ed3b55375c366a333cb54d499d2</td>
+    <td align="center"> feat(header): add call to action button for recurrent visitor</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/header</td>
+    <td align="center">256f0b9f00475606d77ea8ed89ba35699aebafe1</td>
+    <td align="center"> feat(header): update spanish content</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/about-the-product</td>
+    <td align="center"> 2aaac34b379b09cf34072e2e85a2b1914054c504</td>
+    <td align="center"> feat(about-the-product): update spanish and english content</td>
+    <td align="center"> ---</td>
+    <td align="center">21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center"> b49a8805c6d67bafa46fca58befdf725cb947ecc</td>
+    <td align="center"> feat(quote): add organizer id value object</td>
+    <td align="center"> ---</td>
+    <td align="center">20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/functionalities</td>
+    <td align="center"> acf90db98ac3f2506059571064dbd17716c99d17</td>
+    <td align="center">chore: update position of functionalities section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/plans</td>
+    <td align="center"> 9771385ffabfcb08508348278b1afeae547b4a5c</td>
+    <td align="center"> style: update style of plans section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/about-us</td>
+    <td align="center"> 669bee4d5894851a4912cea3225f7913513fc4cc</td>
+    <td align="center"> style(about-us): update styles for about us section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/about-the-team</td>
+    <td align="center">b6afb677df8658ab31530dc37b2863ba4c2cbf7b</td>
+    <td align="center"> feat(about-the-team): add about the team section in both languages</td>
+    <td align="center"> ---</td>
+    <td align="center">21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/header</td>
+    <td align="center">34b801d0904799f58217f671debdcb87fa77d293</td>
+    <td align="center"> chore: change order of language switcher buttons</td>
+    <td align="center"> ---</td>
+    <td align="center">21/06/2025</td>
+  </tr>
+</table>
+
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+
+**Landing Page** 
+
+**URL:** https://angeldevs-web.github.io/eventify-landing-page/
+
+![landing-page-1](/assets/chapter-V/landing-page-sprint3-1.png)
+
+![landing-page-2](/assets/chapter-V/landing-page-sprint3-2.png)
+
+![landing-page-1](/assets/chapter-V/landing-page-sprint3-3.png)
+
+![landing-page-1](/assets/chapter-V/landing-page-sprint3-4.png)
+
+![landing-page-1](/assets/chapter-V/landing-page-sprint3-5.png)
+
+![landing-page-1](/assets/chapter-V/landing-page-sprint3-6.png)
+
+![landing-page-1](/assets/chapter-V/landing-page-sprint3-7.png)
+
+
+**FrontEnd**
+
+**URL**: https://eventify-webapp-frontend.web.app/quotes
+
+![frontend-quotes](/assets/chapter-V/frontend-quotes-sprint-3.png)
+
+**Backend**
+
+**URL**: https://eventify-plaftorm.onrender.com/swagger/index.html
+
+![backend-sprint-3-1](/assets/chapter-V/backend-sprint-3.png)
+
+![backend-sprint-3-2](/assets/chapter-V/backend-sprint-3-2.png)
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+<table> 
+  <tr>
+    <td> <strong>Action </strong></td>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> GET</td>
+    <td> /api/v1/organizers/{organizerId}/quotes</td>
+    <td> Obtiene todas las cotizaciones de un organizador</td>
+  </tr>
+  <tr>
+    <td> GET</td>
+    <td> /api/v1/quotes/{quoteId}</td>
+    <td> Obtiene una cotización por ID</td>
+  </tr>
+  <tr>
+    <td> PUT</td>
+    <td> /api/v1/quotes/{quoteId}</td>
+    <td> Actualiza una cotización por ID</td>
+  </tr>
+  <tr>
+    <td> DELETE</td>
+    <td> /api/v1/quotes/{quoteId}</td>
+    <td> Elimina una cotización por ID</td>
+  </tr>
+  <tr>
+    <td> POST</td>
+    <td> /api/v1/quotes</td>
+    <td> Crea una nueva cotización</td>
+  </tr>
+  <tr>
+    <td> POST</td>
+    <td> /api/v1/quotes/{quoteId}/confirmations</td>
+    <td> Actualiza el estado de una cotización a "Accepted"</td>
+  </tr>
+  <tr>
+    <td> POST</td>
+    <td> /api/v1/quotes/{quoteId}/rejections</td>
+    <td> Actualiza el estado de una cotización a "Rejected"</td>
+  </tr>
+  <tr>
+    <td> GET</td>
+    <td> /api/v1/quotes/{quoteId}/service-items/{serviceItemId}</td>
+    <td> Obtiene un servicio de una cotización por ID</td>
+  </tr>
+  <tr>
+    <td> PUT</td>
+    <td> /api/v1/quotes/{quoteId}/service-items/{serviceItemId}</td>
+    <td> Actualiza un servicio de una cotización</td>
+  </tr>
+  <tr>
+    <td> DELETE</td>
+    <td> /api/v1/quotes/{quoteId}/service-items/{serviceItemId}</td>
+    <td> Elimina un servicio de una cotización</td>
+  </tr>
+  <tr>
+    <td> POST</td>
+    <td> /api/v1/quotes/{quoteId}/service-items</td>
+    <td> Crea un nuevo servicio para una cotización</td>
+  </tr>
+  <tr>
+    <td> GET</td>
+    <td> /api/v1/quotes/{quoteId}/service-items</td>
+    <td> Obtiene todos los servicios de una cotización</td>
+  </tr>
+</table>
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+**Landing Page**
+
+**URL:** https://angeldevs-web.github.io/eventify-landing-page/
+
+Para el despliegue del landing page hemos usado GitHub Pages
+
+![deployment-landing-page](/assets/chapter-V/deployment-landing-page.png)
+
+
+**FrontEnd**
+
+**URL**: https://eventify-webapp-frontend.web.app
+
+Para el despliegue del frontend utilizamos firebase y firebase CLI
+
+![deployment-frontend-firebase](/assets/chapter-V/deployment-frontend-firebase.png)
+
+![deployment-frontend-firebase-cli](/assets/chapter-V/deployment-frontend-firebase-cli.png)
+
+
+**BackEnd**
+
+**URL**: https://eventify-plaftorm.onrender.com/swagger/index.html
+
+Para el despliegue del backend utilizamos el servicio de Render
+
+![deployment-backend-render](/assets/chapter-V/deployment-backend-render.png)
+
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+### Landing Page
+
+**Pulse**
+
+![pulse-insights-landing](/assets/chapter-V/pulse-insights-landing-page.png)
+
+
+**Contributors**
+
+![contributors-insights-landing](/assets/chapter-V/contributors-insights-landing-page.png)
+
+**Network**
+
+![gitflow-insights-landing](/assets/chapter-V/gitflow-insights-landing-page.png)
+
+### FrontEnd
+
+**Pulse**
+
+![pulse-insights-landing](/assets/chapter-V/pulse-insights-frontend.png)
+
+
+**Contributors**
+
+![contributors-insights-landing](/assets/chapter-V/contributors-insights-frontend.png)
+
+**Network**
+
+![gitflow-insights-landing](/assets/chapter-V/gitflow-insights-frontend.png)
+
+### Backend
+
+**Pulse**
+
+![pulse-insights-landing](/assets/chapter-V/pulse-insights-backend.png)
+
+
+**Contributors**
+
+![contributors-insights-landing](/assets/chapter-V/contributors-insights-backend.png)
+
+**Network**
+
+![gitflow-insights-landing](/assets/chapter-V/gitflow-insights-backend.png)
+![gitflow-insights-landing](/assets/chapter-V/gitflow-insights-backend-1.png)
+![gitflow-insights-landing](/assets/chapter-V/gitflow-insights-backend-2.png)
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+
+A continuación se presentan las preguntas de validación utilizadas para las entrevistas con usuarios. El objetivo es evaluar tanto la landing page como la aplicación web de Eventify para asegurar que la experiencia de navegación sea clara, coherente y útil para quienes organizan y gestionan eventos.
+
+
+#### Preguntas sobre la Landing Page
+
+- ¿Al ingresar a la landing page, entiendes rápidamente qué es Eventify y a quién está dirigido?
+- ¿La información sobre las funcionalidades de la plataforma te resulta clara y atractiva?
+- ¿El diseño visual (colores, imágenes, tipografías) te transmite confianza y profesionalismo?
+- ¿Consideras que la estructura de la landing page está bien organizada y fácil de navegar?
+- ¿Te motivaría registrarte o saber más sobre Eventify luego de explorar la landing page?
+- ¿Hay algo que te gustaría ver en la landing que actualmente no está presente?
+
+#### Preguntas sobre la Aplicación Web
+
+- ¿Nota coherencia visual y funcional entre las distintas secciones (perfil, eventos, cotizaciones, etc.)?
+- ¿El proceso de creación o edición de sus albums incluidos en su perfil es claro y sencillo?
+- ¿Le resulta fácil acceder y gestionar las cotizaciones dentro de la plataforma?
+- ¿Cómo evalúa la sección de eventos? ¿Le permite organizar y visualizar la información de manera efectiva?
+- ¿La vista de calendario cubre sus expectativas para programar y revisar actividades importantes?
+- ¿El tablero estilo Kanban para tareas le ayuda a organizar su flujo de trabajo? ¿Es intuitivo?
+- ¿Le resulta fácil identificar el estado de cada tarea (pendiente, en progreso, finalizada)?
+- ¿Hay algo que le haya confundido o que no funcionó como esperabas?
+- ¿Qué mejoraría de la experiencia general al usar la aplicación web?
+
+
+
+### 5.3.2. Registro de Entrevistas.
+### 5.3.3. Evaluaciones según heurísticas.
+## 5.4. Video About-the-Product
