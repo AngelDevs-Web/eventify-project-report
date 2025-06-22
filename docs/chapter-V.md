@@ -1411,6 +1411,39 @@ Durante el Sprint actual nos enfocamos en desarrollar la versión inicial del ba
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 
+**Landing Page** 
+
+**URL:** https://angeldevs-web.github.io/eventify-landing-page/
+
+![landing-page-1](/assets/chapter-V/landing-page-sprint3-1.png)
+
+![landing-page-2](/assets/chapter-V/landing-page-sprint3-2.png)
+
+![landing-page-1](/assets/chapter-V/landing-page-sprint3-3.png)
+
+![landing-page-1](/assets/chapter-V/landing-page-sprint3-4.png)
+
+![landing-page-1](/assets/chapter-V/landing-page-sprint3-5.png)
+
+![landing-page-1](/assets/chapter-V/landing-page-sprint3-6.png)
+
+![landing-page-1](/assets/chapter-V/landing-page-sprint3-7.png)
+
+
+**FrontEnd**
+
+**URL**: https://eventify-webapp-frontend.web.app/quotes
+
+![frontend-quotes](/assets/chapter-V/frontend-quotes-sprint-3.png)
+
+**Backend**
+
+**URL**: https://eventify-plaftorm.onrender.com/swagger/index.html
+
+![backend-sprint-3-1](/assets/chapter-V/backend-sprint-3.png)
+
+![backend-sprint-3-2](/assets/chapter-V/backend-sprint-3-2.png)
+
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
