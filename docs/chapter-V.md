@@ -1105,6 +1105,311 @@ Durante el Sprint actual nos enfocamos en desarrollar la versión inicial del ba
 #### 5.2.3.3.Sprint Backlog 3.
 #### 5.2.3.4.Development Evidence for Sprint Review.
 #### 5.2.3.5.Execution Evidence for Sprint Review.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-Web/eventify-front-end </td>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> ae707330fc2346f296bc33630e23974911831a66</td>
+    <td align="center"> feat(environment): update environment variables</td>
+    <td align="center"> ---</td>
+    <td align="center"> 22/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/quote-management</td>
+    <td align="center" > 21a43b63c070c7a920f89aebaf2182761adbb50c</td>
+    <td align="center"> feat(quote): update quote and service item entities</td>
+    <td align="center"> ---</td>
+    <td align="center"> 22/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center">c6eb067561b47eaf0aff1a15f754f8f7dc43e3bc</td>
+    <td align="center"> feat(quote): update services for quote and service item</td>
+    <td align="center"> ---</td>
+    <td align="center"> 22/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> f239cf22df9c8c5c36de1b6e6684153568bf03e3</td>
+    <td align="center"> feat(quote): update crud operations for quote and service items</td>
+    <td align="center"> ---</td>
+    <td align="center">22/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> 7bde6c5e9165f51d388c5b5e4a6f92e46571b447</td>
+    <td align="center"> fix(quote): fix event date input for updated quote</td>
+    <td align="center"> ---</td>
+    <td align="center">22/06/2025</td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-Web/eventify-landing-page </td>
+    <td align="center"> develop</td>
+    <td align="center"> 025c3731ed993d8ac1a726a7953e5c90364ced03</td>
+    <td align="center"> feat(quote): add quote id value object</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/quotes-management</td>
+    <td align="center" > c27533ddc73709c3b6725b5f827c2dd25a540867</td>
+    <td align="center"> feat(quote): add quote status value object</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center">3a96e2898d86deec131bc570e6e2b9f467b7c538</td>
+    <td align="center"> feat(quote): add social event type value object</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center"> 38e1994d9cfc7da4cfe2d1512b74727123fe6638</td>
+    <td align="center"> feat(quote): add host id value object</td>
+    <td align="center"> ---</td>
+    <td align="center">20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center"> b49a8805c6d67bafa46fca58befdf725cb947ecc</td>
+    <td align="center"> feat(quote): add organizer id value object</td>
+    <td align="center"> ---</td>
+    <td align="center">20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center"> bf92ee03111788121e519d6ce650ca0e2b991d5e</td>
+    <td align="center">feat(quote): add quote aggregate</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center"> 2b960ff663ddc590092764daf68da26d575f9f94</td>
+    <td align="center"> feat(quote): add commands for quote</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center"> 2ec959c5b74cf0fb576211f490404ad9b0e92309</td>
+    <td align="center"> feat(quote): add queries for quote</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center">0689d8af059c7fb47457072553fd1790a0140c48</td>
+    <td align="center"> feat(quote): add command and query service contracts</td>
+    <td align="center"> ---</td>
+    <td align="center">20/06/2025</td>
+  </tr>
+
+  <tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">61eef3ef8891aaefdd47b7be147ff7611445803b</td>
+      <td align="center"> feat(quote): add outbound service contract</td>
+      <td align="center"> ---</td>
+      <td align="center">20/06/2025</td>
+  </tr>
+
+  <tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">ac887d2e04710e96e884b534af6de8dd22844b1d</td>
+      <td align="center"> feat(quote): add command and query service implementations</td>
+      <td align="center"> ---</td>
+      <td align="center">20/06/2025</td>
+  </tr>
+<tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">2b9e54c2b7d03c8a91eb6d93b1ae97c91edfe431</td>
+      <td align="center">feat(quote): add outbound service implementation</td>
+      <td align="center"> ---</td>
+      <td align="center">20/06/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">e22d480d2bade7b9a9932d4de3135265c1c2c6c8</td>
+      <td align="center"> feat(quote): add orm mapping rules extension</td>
+      <td align="center"> ---</td>
+      <td align="center">20/06/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">2fd3b9241a8883ba3e978e720a6b052ace783f9c</td>
+      <td align="center"> feat(quote): add resources and assemblers for quote</td>
+      <td align="center"> ---</td>
+      <td align="center">20/06/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">8c98455bbd9f87bd716e4990a8eb903c8e9050b1</td>
+      <td align="center"> feat(quote): add inbound services</td>
+      <td align="center"> ---</td>
+      <td align="center">20/06/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">d1bdea087b1688738326da66d0b2e5ae0a3c3f0c</td>
+      <td align="center"> feat(quote): add dependency injection mapping rules</td>
+      <td align="center"> ---</td>
+      <td align="center">20/06/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">d209e8071425663ab5383b2438be6040078f4c46</td>
+      <td align="center"> chore: add dockerfile</td>
+      <td align="center"> ---</td>
+      <td align="center">21/06/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">31ae568a9771da8839a2c678d2f54c9383421b7c</td>
+      <td align="center"> chore: add production environment app settings</td>
+      <td align="center"> ---</td>
+      <td align="center">21/06/2025</td>
+  </tr>
+  <tr>
+      <td align="center"> feature/quotes-management</td>
+      <td align="center">98dc0fc452623132e5c5ad212477d479efceadb4</td>
+      <td align="center"> feat(quote): update dependency injection rules for quote</td>
+      <td align="center"> ---</td>
+      <td align="center">21/06/2025</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-Web/eventify-landing-page </td>
+    <td align="center"> feature/develop</td>
+    <td align="center"> 0963aedef8bb20d59df2d13aa055eb85a93a427b</td>
+    <td align="center"> feat(quote): https://github.com/AngelDevs-Web/eventify-landing-page</td>
+    <td align="center"> ---</td>
+    <td align="center"> 14/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/header</td>
+    <td align="center" > ccbd9bd848ce8ed3b55375c366a333cb54d499d2</td>
+    <td align="center"> feat(header): add call to action button for recurrent visitor</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/header</td>
+    <td align="center">256f0b9f00475606d77ea8ed89ba35699aebafe1</td>
+    <td align="center"> feat(header): update spanish content</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/about-the-product</td>
+    <td align="center"> 2aaac34b379b09cf34072e2e85a2b1914054c504</td>
+    <td align="center"> feat(about-the-product): update spanish and english content</td>
+    <td align="center"> ---</td>
+    <td align="center">21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center"> b49a8805c6d67bafa46fca58befdf725cb947ecc</td>
+    <td align="center"> feat(quote): add organizer id value object</td>
+    <td align="center"> ---</td>
+    <td align="center">20/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/functionalities</td>
+    <td align="center"> acf90db98ac3f2506059571064dbd17716c99d17</td>
+    <td align="center">chore: update position of functionalities section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/plans</td>
+    <td align="center"> 9771385ffabfcb08508348278b1afeae547b4a5c</td>
+    <td align="center"> style: update style of plans section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/about-us</td>
+    <td align="center"> 669bee4d5894851a4912cea3225f7913513fc4cc</td>
+    <td align="center"> style(about-us): update styles for about us section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/about-the-team</td>
+    <td align="center">b6afb677df8658ab31530dc37b2863ba4c2cbf7b</td>
+    <td align="center"> feat(about-the-team): add about the team section in both languages</td>
+    <td align="center"> ---</td>
+    <td align="center">21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/header</td>
+    <td align="center">34b801d0904799f58217f671debdcb87fa77d293</td>
+    <td align="center"> chore: change order of language switcher buttons</td>
+    <td align="center"> ---</td>
+    <td align="center">21/06/2025</td>
+  </tr>
+</table>
+
+
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
