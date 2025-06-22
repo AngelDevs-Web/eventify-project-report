@@ -1545,14 +1545,55 @@ Para el despliegue del backend utilizamos el servicio de Render
 
 ![deployment-backend-render](/assets/chapter-V/deployment-backend-render.png)
 
+
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
 
-**Landing Page**
+### Landing Page
+
+**Pulse**
+
+![pulse-insights-landing](/assets/chapter-V/pulse-insights-landing-page.png)
 
 
-**FrontEnd**
+**Contributors**
 
-**Backend**
+![contributors-insights-landing](/assets/chapter-V/contributors-insights-landing-page.png)
+
+**Network**
+
+![gitflow-insights-landing](/assets/chapter-V/gitflow-insights-landing-page.png)
+
+### FrontEnd
+
+**Pulse**
+
+![pulse-insights-landing](/assets/chapter-V/pulse-insights-frontend.png)
+
+
+**Contributors**
+
+![contributors-insights-landing](/assets/chapter-V/contributors-insights-frontend.png)
+
+**Network**
+
+![gitflow-insights-landing](/assets/chapter-V/gitflow-insights-frontend.png)
+
+### Backend
+
+**Pulse**
+
+![pulse-insights-landing](/assets/chapter-V/pulse-insights-backend.png)
+
+
+**Contributors**
+
+![contributors-insights-landing](/assets/chapter-V/contributors-insights-backend.png)
+
+**Network**
+
+![gitflow-insights-landing](/assets/chapter-V/gitflow-insights-backend.png)
+![gitflow-insights-landing](/assets/chapter-V/gitflow-insights-backend-1.png)
+![gitflow-insights-landing](/assets/chapter-V/gitflow-insights-backend-2.png)
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
