@@ -1076,10 +1076,11 @@ En esta imagen se refleja el nivel de modificaciones realizadas por los commits 
 
 ![gitflow-2](../assets/chapter-V/gitflow-feature-branch-2.png)
 
-Finalmente en estas imagenes se pueden apreciar las ramas con las que se ha trabajado durante el desarrollo del FrontEnd
+Finalmente en estas imagenes se pueden apreciar las ramas con las que se ha trabajado durante el desarrollo del FrontEnd 
+
 
 ### 5.2.3. Sprint 3
-#### 5.2.3.1.Spring Planning 3.
+#### 5.2.3.1.Sprint Planning 3.
 #### 5.2.3.2. Aspect Leaders and Collaborators.
 #### 5.2.3.3.Sprint Backlog 3.
 #### 5.2.3.4.Development Evidence for Sprint Review.
@@ -1089,6 +1090,33 @@ Finalmente en estas imagenes se pueden apreciar las ramas con las que se ha trab
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
+
+A continuación se presentan las preguntas de validación utilizadas para las entrevistas con usuarios. El objetivo es evaluar tanto la landing page como la aplicación web de Eventify para asegurar que la experiencia de navegación sea clara, coherente y útil para quienes organizan y gestionan eventos.
+
+
+#### Preguntas sobre la Landing Page
+
+- ¿Al ingresar a la landing page, entiendes rápidamente qué es Eventify y a quién está dirigido?
+- ¿La información sobre las funcionalidades de la plataforma te resulta clara y atractiva?
+- ¿El diseño visual (colores, imágenes, tipografías) te transmite confianza y profesionalismo?
+- ¿Consideras que la estructura de la landing page está bien organizada y fácil de navegar?
+- ¿Te motivaría registrarte o saber más sobre Eventify luego de explorar la landing page?
+- ¿Hay algo que te gustaría ver en la landing que actualmente no está presente?
+
+#### Preguntas sobre la Aplicación Web
+
+- ¿Nota coherencia visual y funcional entre las distintas secciones (perfil, eventos, cotizaciones, etc.)?
+- ¿El proceso de creación o edición de sus albums incluidos en su perfil es claro y sencillo?
+- ¿Le resulta fácil acceder y gestionar las cotizaciones dentro de la plataforma?
+- ¿Cómo evalúa la sección de eventos? ¿Le permite organizar y visualizar la información de manera efectiva?
+- ¿La vista de calendario cubre sus expectativas para programar y revisar actividades importantes?
+- ¿El tablero estilo Kanban para tareas le ayuda a organizar su flujo de trabajo? ¿Es intuitivo?
+- ¿Le resulta fácil identificar el estado de cada tarea (pendiente, en progreso, finalizada)?
+- ¿Hay algo que le haya confundido o que no funcionó como esperabas?
+- ¿Qué mejoraría de la experiencia general al usar la aplicación web?
+
+
+
 ### 5.3.2. Registro de Entrevistas.
 ### 5.3.3. Evaluaciones según heurísticas.
 ## 5.4. Video About-the-Product
