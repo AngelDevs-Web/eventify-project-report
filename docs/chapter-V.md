@@ -1516,7 +1516,44 @@ Durante el Sprint actual nos enfocamos en desarrollar la versión inicial del ba
 </table>
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+**Landing Page**
+
+**URL:** https://angeldevs-web.github.io/eventify-landing-page/
+
+Para el despliegue del landing page hemos usado GitHub Pages
+
+![deployment-landing-page](/assets/chapter-V/deployment-landing-page.png)
+
+
+**FrontEnd**
+
+**URL**: https://eventify-webapp-frontend.web.app
+
+Para el despliegue del frontend utilizamos firebase y firebase CLI
+
+![deployment-frontend-firebase](/assets/chapter-V/deployment-frontend-firebase.png)
+
+![deployment-frontend-firebase-cli](/assets/chapter-V/deployment-frontend-firebase-cli.png)
+
+
+**BackEnd**
+
+**URL**: https://eventify-plaftorm.onrender.com/swagger/index.html
+
+Para el despliegue del backend utilizamos el servicio de Render
+
+![deployment-backend-render](/assets/chapter-V/deployment-backend-render.png)
+
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+**Landing Page**
+
+
+**FrontEnd**
+
+**Backend**
+
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 
