@@ -145,7 +145,7 @@ Esta directriz permite mantener consistencia en todos los lenguajes empleados pa
     <title>Eventify</title>
   </head>
   <body>
-    <h1>Encuentra a tu organizador de eventos!</h1>
+    <h1>¡Encuentra a tu organizador de eventos!</h1>
     <p>No esperes más...</p>
   </body>
 </html>
