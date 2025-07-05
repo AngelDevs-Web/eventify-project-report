@@ -357,7 +357,7 @@ El sistema está compuesto por:
 Este sistema de navegación facilita que tanto anfitriones como organizadores accedan rápida y ordenadamente a todas las funcionalidades necesarias para planificar y gestionar sus eventos en Eventify.
 
 ## 4.3. Landing Page UI Design
-
+Esta sección expone el diseño de la Landing Page de Vehix, con el objetivo de atraer a los usuarios objetivo desde el primer momento. El enfoque del diseño es transmitir de forma clara el valor del producto, generar confianza e impulsar a la acción a través de una interfaz moderna, intuitiva y basada en principios de usabilidad.
 ### 4.3.1. Landing Page Wireframe
 
 En esta sección se presentan las representaciones de bajo nivel **(wireframes)** del landing page, diseñadas para dispositivos móviles y de escritorio. [Wireframe - Eventify](https://www.figma.com/design/uPtLATLNkVL8P5xY7wBOc2/Eventify---Landing-page?node-id=0-1&t=yRuZCtcaOfFtQUmB-1)
@@ -504,11 +504,11 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 ![footer-section-mockup-mobile](/assets/chapter-IV/footer-section-mockup-mobile.png)
 
 ## 4.4. Web Applications UX/UI Design
+Esta sección contiene apartados específicos donde se expone y explica la propuesta visual y de interacción de las aplicaciones, que conforman la experiencia del usuario al interactuar con los productos digitales.
 
 ### 4.4.1. Web Applications Wireframes
 
-En esta sección se presentan las representaciones **(wireframes)** de la aplicación web, diseñadas para dispositivos móviles y de escritorio.
-
+Esta sección presenta el diseño de los wireframes de nuestras aplicaciones, los cuales permiten planificar la estructura de la interfaz y la navegación antes de iniciar el desarrollo. Para este proyecto, se utilizó la herramienta Figma, facilitando una elaboración colaborativa y eficiente de los wireframes.
 ![wireframe-1.png](../assets/chapter-IV/wireframe-1.png) 
 
 ![wireframe-2.png](../assets/chapter-IV/wireframe-2.png) 
