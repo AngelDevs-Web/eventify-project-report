@@ -1,6 +1,7 @@
 # Chapter III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+En esta sección, exploraremos To-Be Scenario para cada User Persona, organizando la información por las filas Phases, Doing, Thinking y Feeling.
 
 **Segmento Organizadores**
 
