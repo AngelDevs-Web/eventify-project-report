@@ -198,7 +198,7 @@ La Aplicación Web de **Eventify** está diseñada para ofrecer una experiencia 
 
 # Sistemas de Etiquetado en Eventify ( Web Application PrimeVue)
 
-En este apartado se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **Eventify**, desarrollada con **PrimeVue**.  
+En esta sección se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **Eventify**, desarrollada con **PrimeVue**.  
 El etiquetado está diseñado para facilitar la navegación mediante componentes UI preconstruidos, mejorando la experiencia del usuario.
 
 
