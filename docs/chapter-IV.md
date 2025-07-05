@@ -63,7 +63,7 @@ Para organizar el contenido se utilizó el patrón en Z, un esquema visual que g
 
 # Sistemas de Etiquetado en Eventify
 
-En este apartado se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **Eventify**.  
+En esta sección se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **Eventify**.  
 El etiquetado está diseñado para facilitar la navegación y mejorar la experiencia del usuario, asegurando que cada sección y funcionalidad sea fácilmente reconocible y accesible.
 
 
