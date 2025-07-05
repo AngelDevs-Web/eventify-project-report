@@ -564,7 +564,14 @@ Segmento Anfitriones de Eventos
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
+Se presenta el link del desarrollo de los user flow de nuestra aplicación.
+Link de los user flow en LucidChart: https://shorturl.at/m8lB6 
 
+User goal: Registrarse como Anfitrión o como Organizador de eventos.
+![UserFlowRegister.jpeg](../assets/chapter-IV/UserFlowRegister.jpeg)
+
+User goal: Iniciar sesión como Anfitrión o como Organizador de eventos.
+![UserFlowLogin.jpeg](../assets/chapter-IV/UserFlowLogin.jpeg)
 
 ## 4.5. Web Applications Prototyping
 
