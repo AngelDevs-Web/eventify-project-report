@@ -632,17 +632,20 @@ Finalmente, en esta sección se detallan los componentes internos de la Single P
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
+En esta sección se presentan los diagramas de clases que representan la estructura del sistema, incluyendo las entidades principales, sus atributos y métodos, así como las relaciones entre ellas. Estos diagramas son fundamentales para comprender cómo se modelan los datos y las interacciones dentro de la aplicación.
+
 ![class-diagram.png](../assets/chapter-IV/class-diagram.png)
 
 ### 4.7.2. Class Dictionary
-## Authentication
+En esta sección se presenta un diccionario de clases que describe las entidades principales del sistema, sus atributos y métodos. Este diccionario proporciona una referencia clara para entender la estructura y funcionalidad de la aplicación.
+#### Authentication
 
 | Clase/Enum | Descripción | Atributos | Métodos |
 |------------|-------------|-----------|---------|
 | **User** | Representa a un usuario del sistema Eventify | - `id`: UUID - Identificador único<br>- `email`: String - Correo electrónico<br>- `password`: String - Contraseña<br>- `name`: String - Nombre completo<br>- `role`: UserRole - Rol en el sistema<br>- `isActive`: boolean - Estado de activación<br>- `createdAt`: Date - Fecha de creación | - `register()`: Registra un nuevo usuario<br>- `login()`: Autentica al usuario<br>- `resetPassword()`: Restablece contraseña<br>- `validateEmail()`: Valida el correo |
 | **UserRole** | Define los posibles roles de usuario | - `ORGANIZER`: Organizador de eventos<br>- `HOST`: Anfitrión de eventos | |
 
-## Profile Management
+#### Profile Management
 
 | Clase/Enum | Descripción | Atributos | Métodos |
 |------------|-------------|-----------|---------|
@@ -652,7 +655,7 @@ Finalmente, en esta sección se detallan los componentes internos de la Single P
 | **Album** | Colección de fotos de eventos | - `id`: UUID - Identificador único<br>- `organizerId`: UUID - ID del organizador<br>- `title`: String - Título<br>- `description`: String - Descripción<br>- `createdAt`: Date - Fecha de creación | - `createAlbum()`: Crea un nuevo álbum<br>- `addPicture()`: Añade una foto |
 | **Picture** | Imagen almacenada en un álbum | - `id`: UUID - Identificador único<br>- `albumId`: UUID - ID del álbum<br>- `imageUrl`: String - URL de la imagen<br>- `description`: String - Descripción<br>- `uploadedAt`: Date - Fecha de carga | - `uploadPicture()`: Sube una imagen |
 
-## Event Management
+#### Event Management
 
 | Clase/Enum | Descripción | Atributos | Métodos |
 |------------|-------------|-----------|---------|
@@ -663,7 +666,7 @@ Finalmente, en esta sección se detallan los componentes internos de la Single P
 | **TaskPriority** | Prioridades de una tarea | - `LOW`: Baja<br>- `MEDIUM`: Media<br>- `HIGH`: Alta | |
 | **Calendar** | Calendario de eventos | - `id`: UUID - Identificador único<br>- `userId`: UUID - ID del usuario<br>- `syncedWithGoogle`: boolean - Sincronizado<br>- `lastSyncDate`: Date - Última sincronización | - `syncWithGoogleCalendar()`: Sincroniza<br>- `addEvent()`: Añade evento<br>- `removeEvent()`: Elimina evento |
 
-## Payment and Subscription
+#### Payment and Subscription
 
 | Clase/Enum | Descripción | Atributos | Métodos |
 |------------|-------------|-----------|---------|
@@ -673,7 +676,7 @@ Finalmente, en esta sección se detallan los componentes internos de la Single P
 | **Subscription** | Suscripción de usuario a un plan | - `id`: UUID - Identificador único<br>- `userId`: UUID - ID del usuario<br>- `planId`: UUID - ID del plan<br>- `paymentMethodId`: UUID - ID del método de pago<br>- `startDate`: Date - Inicio<br>- `endDate`: Date - Fin<br>- `status`: SubscriptionStatus - Estado<br>- `autoRenew`: boolean - Renovación automática | - `subscribeToPlan()`: Suscribe al plan<br>- `cancelSubscription()`: Cancela suscripción<br>- `changePlan()`: Cambia de plan<br>- `renewSubscription()`: Renueva suscripción |
 | **SubscriptionStatus** | Estados de una suscripción | - `ACTIVE`: Activa<br>- `CANCELLED`: Cancelada<br>- `EXPIRED`: Expirada | |
 
-## Quote Management
+#### Quote Management
 
 | Clase/Enum | Descripción | Atributos | Métodos |
 |------------|-------------|-----------|---------|
@@ -681,7 +684,7 @@ Finalmente, en esta sección se detallan los componentes internos de la Single P
 | **QuoteStatus** | Estados de una cotización | - `DRAFT`: Borrador<br>- `SENT`: Enviada<br>- `ACCEPTED`: Aceptada<br>- `REJECTED`: Rechazada<br>- `EXPIRED`: Expirada | |
 | **ServiceItem** | Elemento de servicio en cotización | - `id`: UUID - Identificador único<br>- `quoteId`: UUID - ID de la cotización<br>- `name`: String - Nombre<br>- `description`: String - Descripción<br>- `unitPrice`: float - Precio unitario<br>- `quantity`: int - Cantidad<br>- `totalPrice`: float - Precio total | - `createServiceItem()`: Crea elemento<br>- `updateServiceItem()`: Actualiza elemento<br>- `removeServiceItem()`: Elimina elemento |
 
-## Communication
+#### Communication
 
 | Clase/Enum | Descripción | Atributos | Métodos |
 |------------|-------------|-----------|---------|
@@ -691,7 +694,7 @@ Finalmente, en esta sección se detallan los componentes internos de la Single P
 | **Notification** | Notificación del sistema | - `id`: UUID - Identificador único<br>- `userId`: UUID - ID del destinatario<br>- `type`: NotificationType - Tipo<br>- `content`: String - Contenido<br>- `isRead`: boolean - Estado de lectura<br>- `createdAt`: Date - Fecha de creación | - `createNotification()`: Crea notificación<br>- `markAsRead()`: Marca como leída |
 | **NotificationType** | Tipos de notificaciones | - `MESSAGE`: Mensaje nuevo<br>- `QUOTE_REQUEST`: Solicitud de cotización<br>- `PAYMENT`: Relacionada con pagos<br>- `REMINDER`: Recordatorio<br>- `SYSTEM`: Del sistema | |
 
-## Reviews and Ratings
+#### Reviews and Ratings
 
 | Clase/Enum | Descripción | Atributos | Métodos |
 |------------|-------------|-----------|---------|
