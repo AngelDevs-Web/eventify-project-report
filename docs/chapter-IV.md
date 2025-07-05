@@ -61,13 +61,13 @@ Para organizar el contenido se utilizó el patrón en Z, un esquema visual que g
 
 ## 4.2. Information Architecture
 
-# Sistemas de Etiquetado en Eventify
+#### Sistemas de Etiquetado en Eventify
 
 En esta sección se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **Eventify**.  
 El etiquetado está diseñado para facilitar la navegación y mejorar la experiencia del usuario, asegurando que cada sección y funcionalidad sea fácilmente reconocible y accesible.
 
 
-## Etiquetas de Encabezados (Headings)
+#### Etiquetas de Encabezados (Headings)
 
 Las etiquetas de encabezado en **Eventify** se utilizan para definir claramente las secciones principales de la página y la aplicación.  
 Esto permite a los usuarios identificar rápidamente el contenido de cada sección:
@@ -89,7 +89,7 @@ Esto permite a los usuarios identificar rápidamente el contenido de cada secci�
   Ofrece información sobre la misión de Eventify, su visión de conectar experiencias, y el equipo detrás de la plataforma.
 
 
-## Etiquetas Textuales (Text Labels)
+#### Etiquetas Textuales (Text Labels)
 
 Las etiquetas textuales son utilizadas para identificar categorías específicas o acciones dentro de la plataforma.  
 Estas etiquetas ayudan a los usuarios a navegar de manera efectiva y realizar acciones específicas:
@@ -110,7 +110,7 @@ Estas etiquetas ayudan a los usuarios a navegar de manera efectiva y realizar ac
   Permite acceder a las preferencias de cuenta, métodos de pago, notificaciones y ajustes generales.
 
 
-## Etiquetas Icónicas (Iconic Labels)
+#### Etiquetas Icónicas (Iconic Labels)
 
 Las etiquetas icónicas se basan en imágenes o iconos que transmiten significado visualmente.  
 Estas etiquetas son intuitivas y ayudan a los usuarios a comprender rápidamente las funcionalidades sin necesidad de texto:
@@ -134,15 +134,15 @@ Estas etiquetas son intuitivas y ayudan a los usuarios a comprender rápidamente
   
 ### 4.2.1. Organization Systems
 
-# Arquitectura de la Información de Eventify
+#### Arquitectura de la Información de Eventify
 
 Para estructurar la arquitectura de la información de **Eventify**, se ha adoptado un sistema de organización jerárquico tanto en la Landing Page como en la Aplicación Web. Este sistema facilita la navegación intuitiva y garantiza que los usuarios puedan encontrar fácilmente la información y las funciones que necesitan.
 
-## Landing Page
+#### Landing Page
 
 La Landing Page de **Eventify** se organiza de manera jerárquica para que los usuarios puedan acceder rápidamente a la información más relevante y a las acciones necesarias para interactuar con la plataforma:
 
-### Barra de Navegación Principal
+#### Barra de Navegación Principal
 
 Situada en la parte superior de la página, proporciona accesos rápidos a las secciones clave:
 
@@ -152,21 +152,21 @@ Situada en la parte superior de la página, proporciona accesos rápidos a las s
 - **Contáctanos (Contact Us):** Proporciona información de contacto, un formulario de consulta y enlaces a redes sociales, facilitando la comunicación entre los usuarios y el equipo de soporte de Eventify.
 - **Nosotros (About Us):** Describe la misión, visión y el equipo detrás de Eventify, generando confianza y transparencia con los usuarios.
 
-### Estructura de Contenido Jerárquica
+#### Estructura de Contenido Jerárquica
 
 - **Encabezados y Subencabezados:** Organizan el contenido dentro de cada sección, permitiendo a los usuarios explorar más a fondo según sus intereses.
 - **Botones de Llamada a la Acción (CTAs):** Colocados estratégicamente para guiar a los usuarios hacia acciones deseadas como crear un evento, contratar un organizador o contactar al equipo de Eventify.
 
-### Footer
+#### Footer
 
 Incluye enlaces a secciones importantes como políticas de privacidad, términos de servicio, contacto y enlaces a redes sociales. El footer proporciona una navegación adicional para usuarios que desean explorar más sobre Eventify.
 
 
-## Aplicación Web
+#### Aplicación Web
 
 La Aplicación Web de **Eventify** está diseñada para ofrecer una experiencia personalizada para dos segmentos principales de usuarios: **Anfitriones de Eventos** y **Organizadores Profesionales**. La organización del contenido permite que cada tipo de usuario navegue eficientemente por la aplicación.
 
-### Para Anfitriones de Eventos
+#### Para Anfitriones de Eventos
 
 - **Buscar Organizador (Search Organizer):** Permite a los anfitriones buscar organizadores de eventos según diferentes criterios, como tipo de evento, ubicación y presupuesto.
 - **Mis Eventos (My Events):** Muestra una lista de eventos programados por el anfitrión, permitiendo ver detalles, asistentes y organizadores asignados.
@@ -176,7 +176,7 @@ La Aplicación Web de **Eventify** está diseñada para ofrecer una experiencia 
 - **Perfil (Profile):** Permite a los anfitriones gestionar su información personal, preferencias de notificación y configuración de cuenta.
 - **Configuración:** Permite a los anfitriones ajustar sus preferencias de notificación, privacidad y otros aspectos de su cuenta.
 
-### Para Organizadores Profesionales
+#### Para Organizadores Profesionales
 
 - **Mensajes (Messages):** Facilita la comunicación directa entre anfitriones y organizadores, permitiendo el intercambio de información y actualizaciones sobre eventos.
 - **Cotizaciones (Quotes):** Permite a los anfitriones recibir y gestionar cotizaciones de organizadores, facilitando la comparación de precios y servicios ofrecidos.
@@ -188,7 +188,7 @@ La Aplicación Web de **Eventify** está diseñada para ofrecer una experiencia 
 - **Dashboard:** Ofrece un resumen de los eventos activos, tareas pendientes, cotizaciones y mensajes recientes.
 
 
-### Interacción y Flujo de Trabajo
+#### Interacción y Flujo de Trabajo
 
 - Las interfaces están diseñadas para ser intuitivas y fáciles de usar, permitiendo a los usuarios completar tareas rápidamente con un mínimo de pasos.
 - Cada sección dentro de la aplicación está claramente etiquetada y utiliza una combinación de texto, íconos y ayudas visuales para mejorar la usabilidad y la comprensión.
@@ -196,13 +196,13 @@ La Aplicación Web de **Eventify** está diseñada para ofrecer una experiencia 
 
 ### 4.2.2. Labeling Systems
 
-# Sistemas de Etiquetado en Eventify ( Web Application PrimeVue)
+#### Sistemas de Etiquetado en Eventify ( Web Application PrimeVue)
 
 En esta sección se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **Eventify**, desarrollada con **PrimeVue**.  
 El etiquetado está diseñado para facilitar la navegación mediante componentes UI preconstruidos, mejorando la experiencia del usuario.
 
 
-## Etiquetas de Encabezados (Headings)
+#### Etiquetas de Encabezados (Headings)
 
 Las etiquetas de encabezado se implementan utilizando componentes de PrimeVue como `<Card>`, `<Panel>` y `<Toolbar>`, facilitando la organización del contenido:
 
@@ -222,7 +222,7 @@ Las etiquetas de encabezado se implementan utilizando componentes de PrimeVue co
   Sección descriptiva presentada con `<Panel>` o `<Accordion>` para expandir información de misión y visión.
 
 
-## Etiquetas Textuales (Text Labels)
+#### Etiquetas Textuales (Text Labels)
 
 Las etiquetas textuales aparecen como propiedades `label` en botones y campos de entrada:
 
@@ -242,7 +242,7 @@ Las etiquetas textuales aparecen como propiedades `label` en botones y campos de
   Acceso mediante `<Menu>` lateral o `<Sidebar>` a las preferencias del usuario.
 
 
-## Etiquetas Icónicas (Iconic Labels)
+#### Etiquetas Icónicas (Iconic Labels)
 
 Se utilizan componentes `<Button>` con íconos embebidos (`icon="pi pi-search"`, `icon="pi pi-calendar"`, etc.):
 
@@ -293,7 +293,7 @@ En este apartado, exploraremos los diferentes tipos de meta tags y SEO tags impl
 <link rel="icon" href="/assets/chapter-IV/eventify_logo.png" type="image/png">
 ```
 
-### ⚙️ Web Application (Aplicación Web Interactiva)
+### Web Application (Aplicación Web Interactiva)
 - **Title Tag: <br>**
   El title tag define el título que aparecerá en el navegador y en los resultados de búsqueda cuando los usuarios interactúen directamente con la aplicación. Decidimos usar un título dinámico que refleje la acción principal del usuario en la aplicación Eventify.
 ```html
