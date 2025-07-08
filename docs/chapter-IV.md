@@ -61,13 +61,13 @@ Para organizar el contenido se utilizó el patrón en Z, un esquema visual que g
 
 ## 4.2. Information Architecture
 
-# Sistemas de Etiquetado en Eventify
+#### Sistemas de Etiquetado en Eventify
 
-En este apartado se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **Eventify**.  
+En esta sección se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **Eventify**.  
 El etiquetado está diseñado para facilitar la navegación y mejorar la experiencia del usuario, asegurando que cada sección y funcionalidad sea fácilmente reconocible y accesible.
 
 
-## Etiquetas de Encabezados (Headings)
+#### Etiquetas de Encabezados (Headings)
 
 Las etiquetas de encabezado en **Eventify** se utilizan para definir claramente las secciones principales de la página y la aplicación.  
 Esto permite a los usuarios identificar rápidamente el contenido de cada sección:
@@ -89,7 +89,7 @@ Esto permite a los usuarios identificar rápidamente el contenido de cada secci�
   Ofrece información sobre la misión de Eventify, su visión de conectar experiencias, y el equipo detrás de la plataforma.
 
 
-## Etiquetas Textuales (Text Labels)
+#### Etiquetas Textuales (Text Labels)
 
 Las etiquetas textuales son utilizadas para identificar categorías específicas o acciones dentro de la plataforma.  
 Estas etiquetas ayudan a los usuarios a navegar de manera efectiva y realizar acciones específicas:
@@ -110,7 +110,7 @@ Estas etiquetas ayudan a los usuarios a navegar de manera efectiva y realizar ac
   Permite acceder a las preferencias de cuenta, métodos de pago, notificaciones y ajustes generales.
 
 
-## Etiquetas Icónicas (Iconic Labels)
+#### Etiquetas Icónicas (Iconic Labels)
 
 Las etiquetas icónicas se basan en imágenes o iconos que transmiten significado visualmente.  
 Estas etiquetas son intuitivas y ayudan a los usuarios a comprender rápidamente las funcionalidades sin necesidad de texto:
@@ -134,15 +134,15 @@ Estas etiquetas son intuitivas y ayudan a los usuarios a comprender rápidamente
   
 ### 4.2.1. Organization Systems
 
-# Arquitectura de la Información de Eventify
+#### Arquitectura de la Información de Eventify
 
 Para estructurar la arquitectura de la información de **Eventify**, se ha adoptado un sistema de organización jerárquico tanto en la Landing Page como en la Aplicación Web. Este sistema facilita la navegación intuitiva y garantiza que los usuarios puedan encontrar fácilmente la información y las funciones que necesitan.
 
-## Landing Page
+#### Landing Page
 
 La Landing Page de **Eventify** se organiza de manera jerárquica para que los usuarios puedan acceder rápidamente a la información más relevante y a las acciones necesarias para interactuar con la plataforma:
 
-### Barra de Navegación Principal
+#### Barra de Navegación Principal
 
 Situada en la parte superior de la página, proporciona accesos rápidos a las secciones clave:
 
@@ -152,21 +152,21 @@ Situada en la parte superior de la página, proporciona accesos rápidos a las s
 - **Contáctanos (Contact Us):** Proporciona información de contacto, un formulario de consulta y enlaces a redes sociales, facilitando la comunicación entre los usuarios y el equipo de soporte de Eventify.
 - **Nosotros (About Us):** Describe la misión, visión y el equipo detrás de Eventify, generando confianza y transparencia con los usuarios.
 
-### Estructura de Contenido Jerárquica
+#### Estructura de Contenido Jerárquica
 
 - **Encabezados y Subencabezados:** Organizan el contenido dentro de cada sección, permitiendo a los usuarios explorar más a fondo según sus intereses.
 - **Botones de Llamada a la Acción (CTAs):** Colocados estratégicamente para guiar a los usuarios hacia acciones deseadas como crear un evento, contratar un organizador o contactar al equipo de Eventify.
 
-### Footer
+#### Footer
 
 Incluye enlaces a secciones importantes como políticas de privacidad, términos de servicio, contacto y enlaces a redes sociales. El footer proporciona una navegación adicional para usuarios que desean explorar más sobre Eventify.
 
 
-## Aplicación Web
+#### Aplicación Web
 
 La Aplicación Web de **Eventify** está diseñada para ofrecer una experiencia personalizada para dos segmentos principales de usuarios: **Anfitriones de Eventos** y **Organizadores Profesionales**. La organización del contenido permite que cada tipo de usuario navegue eficientemente por la aplicación.
 
-### Para Anfitriones de Eventos
+#### Para Anfitriones de Eventos
 
 - **Buscar Organizador (Search Organizer):** Permite a los anfitriones buscar organizadores de eventos según diferentes criterios, como tipo de evento, ubicación y presupuesto.
 - **Mis Eventos (My Events):** Muestra una lista de eventos programados por el anfitrión, permitiendo ver detalles, asistentes y organizadores asignados.
@@ -176,7 +176,7 @@ La Aplicación Web de **Eventify** está diseñada para ofrecer una experiencia 
 - **Perfil (Profile):** Permite a los anfitriones gestionar su información personal, preferencias de notificación y configuración de cuenta.
 - **Configuración:** Permite a los anfitriones ajustar sus preferencias de notificación, privacidad y otros aspectos de su cuenta.
 
-### Para Organizadores Profesionales
+#### Para Organizadores Profesionales
 
 - **Mensajes (Messages):** Facilita la comunicación directa entre anfitriones y organizadores, permitiendo el intercambio de información y actualizaciones sobre eventos.
 - **Cotizaciones (Quotes):** Permite a los anfitriones recibir y gestionar cotizaciones de organizadores, facilitando la comparación de precios y servicios ofrecidos.
@@ -188,7 +188,7 @@ La Aplicación Web de **Eventify** está diseñada para ofrecer una experiencia 
 - **Dashboard:** Ofrece un resumen de los eventos activos, tareas pendientes, cotizaciones y mensajes recientes.
 
 
-### Interacción y Flujo de Trabajo
+#### Interacción y Flujo de Trabajo
 
 - Las interfaces están diseñadas para ser intuitivas y fáciles de usar, permitiendo a los usuarios completar tareas rápidamente con un mínimo de pasos.
 - Cada sección dentro de la aplicación está claramente etiquetada y utiliza una combinación de texto, íconos y ayudas visuales para mejorar la usabilidad y la comprensión.
@@ -196,13 +196,13 @@ La Aplicación Web de **Eventify** está diseñada para ofrecer una experiencia 
 
 ### 4.2.2. Labeling Systems
 
-# Sistemas de Etiquetado en Eventify ( Web Application PrimeVue)
+#### Sistemas de Etiquetado en Eventify ( Web Application PrimeVue)
 
-En este apartado se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **Eventify**, desarrollada con **PrimeVue**.  
+En esta sección se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **Eventify**, desarrollada con **PrimeVue**.  
 El etiquetado está diseñado para facilitar la navegación mediante componentes UI preconstruidos, mejorando la experiencia del usuario.
 
 
-## Etiquetas de Encabezados (Headings)
+#### Etiquetas de Encabezados (Headings)
 
 Las etiquetas de encabezado se implementan utilizando componentes de PrimeVue como `<Card>`, `<Panel>` y `<Toolbar>`, facilitando la organización del contenido:
 
@@ -222,7 +222,7 @@ Las etiquetas de encabezado se implementan utilizando componentes de PrimeVue co
   Sección descriptiva presentada con `<Panel>` o `<Accordion>` para expandir información de misión y visión.
 
 
-## Etiquetas Textuales (Text Labels)
+#### Etiquetas Textuales (Text Labels)
 
 Las etiquetas textuales aparecen como propiedades `label` en botones y campos de entrada:
 
@@ -242,7 +242,7 @@ Las etiquetas textuales aparecen como propiedades `label` en botones y campos de
   Acceso mediante `<Menu>` lateral o `<Sidebar>` a las preferencias del usuario.
 
 
-## Etiquetas Icónicas (Iconic Labels)
+#### Etiquetas Icónicas (Iconic Labels)
 
 Se utilizan componentes `<Button>` con íconos embebidos (`icon="pi pi-search"`, `icon="pi pi-calendar"`, etc.):
 
@@ -293,7 +293,7 @@ En este apartado, exploraremos los diferentes tipos de meta tags y SEO tags impl
 <link rel="icon" href="/assets/chapter-IV/eventify_logo.png" type="image/png">
 ```
 
-### ⚙️ Web Application (Aplicación Web Interactiva)
+### Web Application (Aplicación Web Interactiva)
 - **Title Tag: <br>**
   El title tag define el título que aparecerá en el navegador y en los resultados de búsqueda cuando los usuarios interactúen directamente con la aplicación. Decidimos usar un título dinámico que refleje la acción principal del usuario en la aplicación Eventify.
 ```html
@@ -357,7 +357,7 @@ El sistema está compuesto por:
 Este sistema de navegación facilita que tanto anfitriones como organizadores accedan rápida y ordenadamente a todas las funcionalidades necesarias para planificar y gestionar sus eventos en Eventify.
 
 ## 4.3. Landing Page UI Design
-
+Esta sección expone el diseño de la Landing Page de Vehix, con el objetivo de atraer a los usuarios objetivo desde el primer momento. El enfoque del diseño es transmitir de forma clara el valor del producto, generar confianza e impulsar a la acción a través de una interfaz moderna, intuitiva y basada en principios de usabilidad.
 ### 4.3.1. Landing Page Wireframe
 
 En esta sección se presentan las representaciones de bajo nivel **(wireframes)** del landing page, diseñadas para dispositivos móviles y de escritorio. [Wireframe - Eventify](https://www.figma.com/design/uPtLATLNkVL8P5xY7wBOc2/Eventify---Landing-page?node-id=0-1&t=yRuZCtcaOfFtQUmB-1)
@@ -504,11 +504,11 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 ![footer-section-mockup-mobile](/assets/chapter-IV/footer-section-mockup-mobile.png)
 
 ## 4.4. Web Applications UX/UI Design
+Esta sección contiene apartados específicos donde se expone y explica la propuesta visual y de interacción de las aplicaciones, que conforman la experiencia del usuario al interactuar con los productos digitales.
 
 ### 4.4.1. Web Applications Wireframes
 
-En esta sección se presentan las representaciones **(wireframes)** de la aplicación web, diseñadas para dispositivos móviles y de escritorio.
-
+Esta sección presenta el diseño de los wireframes de nuestras aplicaciones, los cuales permiten planificar la estructura de la interfaz y la navegación antes de iniciar el desarrollo. Para este proyecto, se utilizó la herramienta Figma, facilitando una elaboración colaborativa y eficiente de los wireframes.
 ![wireframe-1.png](../assets/chapter-IV/wireframe-1.png) 
 
 ![wireframe-2.png](../assets/chapter-IV/wireframe-2.png) 
@@ -522,8 +522,50 @@ En esta sección se presentan las representaciones **(wireframes)** de la aplica
 
 En esta sección se presentan los diagramas de flujo de la aplicación web, que ilustran las interacciones y el flujo de navegación entre las diferentes pantallas y funcionalidades. Estos diagramas ayudan a comprender cómo los usuarios interactuarán con la plataforma y cómo se moverán a través de las distintas secciones.
 
+Se presenta el enlace donde se realizaron los wireflows: https://tinyurl.com/3atdnfrt
 
+Se presentaran los wireflows que competen con nuestros user goals
 
+user goal: Registrarse e iniciar sesión como Anfitrión o como Organizador de eventos.
+<br>
+![wireflow-1.png](../assets/chapter-IV/wireflow-1.png)
+<br>
+---
+user goal: Recuperar contraseña.
+<br>
+![wireflow-2.png](../assets/chapter-IV/wireflow-2.png)
+<br>
+---
+user goal: Chat de mensajes entre Anfitrión y Organizador.
+<br>
+![wireflow-3.png](../assets/chapter-IV/wireflow-3.png)
+<br>
+---
+user goal: Visualizar perfil de los Organizadores.
+<br>
+![wireflow-4.png](../assets/chapter-IV/wireflow-4.png)
+<br>
+---
+user goal: Calificar un Organizador.
+<br>
+![wireflow-5.png](../assets/chapter-IV/wireflow-5.png)
+<br>
+---
+user goal: Nofticaciones de eventos.
+<br>
+![wireflow-6.png](../assets/chapter-IV/wireflow-6.png)
+<br>
+---
+user goal: Visualizar eventos.
+<br>
+![wireflow-7.png](../assets/chapter-IV/wireflow-7.png)
+<br>
+---
+user goal: Visualizar cotizaciones.
+<br>
+![wireflow-8.png](../assets/chapter-IV/wireflow-8.png)
+<br>
+---
 ### 4.4.3. Web Applications Mock-ups
 En esta sección se muestran los mock-ups del Web Applications, que sirven como una representación visual de alta fidelidad para anticipar cómo se verá y funcionará la interfaz final. [Mock Ups - Eventify](https://www.figma.com/design/uPtLATLNkVL8P5xY7wBOc2/Eventify---Landing-page?node-id=160-2)
 <br>
@@ -564,7 +606,14 @@ Segmento Anfitriones de Eventos
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
+Se presenta el link del desarrollo de los user flow de nuestra aplicación.
+Link de los user flow en LucidChart: https://shorturl.at/m8lB6 
 
+User goal: Registrarse como Anfitrión o como Organizador de eventos.
+![UserFlowRegister.jpeg](../assets/chapter-IV/UserFlowRegister.jpeg)
+
+User goal: Iniciar sesión como Anfitrión o como Organizador de eventos.
+![UserFlowLogin.jpeg](../assets/chapter-IV/UserFlowLogin.jpeg)
 
 ## 4.5. Web Applications Prototyping
 
@@ -625,17 +674,20 @@ Finalmente, en esta sección se detallan los componentes internos de la Single P
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
+En esta sección se presentan los diagramas de clases que representan la estructura del sistema, incluyendo las entidades principales, sus atributos y métodos, así como las relaciones entre ellas. Estos diagramas son fundamentales para comprender cómo se modelan los datos y las interacciones dentro de la aplicación.
+
 ![class-diagram.png](../assets/chapter-IV/class-diagram.png)
 
 ### 4.7.2. Class Dictionary
-## Authentication
+En esta sección se presenta un diccionario de clases que describe las entidades principales del sistema, sus atributos y métodos. Este diccionario proporciona una referencia clara para entender la estructura y funcionalidad de la aplicación.
+#### Authentication
 
 | Clase/Enum | Descripción | Atributos | Métodos |
 |------------|-------------|-----------|---------|
 | **User** | Representa a un usuario del sistema Eventify | - `id`: UUID - Identificador único<br>- `email`: String - Correo electrónico<br>- `password`: String - Contraseña<br>- `name`: String - Nombre completo<br>- `role`: UserRole - Rol en el sistema<br>- `isActive`: boolean - Estado de activación<br>- `createdAt`: Date - Fecha de creación | - `register()`: Registra un nuevo usuario<br>- `login()`: Autentica al usuario<br>- `resetPassword()`: Restablece contraseña<br>- `validateEmail()`: Valida el correo |
 | **UserRole** | Define los posibles roles de usuario | - `ORGANIZER`: Organizador de eventos<br>- `HOST`: Anfitrión de eventos | |
 
-## Profile Management
+#### Profile Management
 
 | Clase/Enum | Descripción | Atributos | Métodos |
 |------------|-------------|-----------|---------|
@@ -645,7 +697,7 @@ Finalmente, en esta sección se detallan los componentes internos de la Single P
 | **Album** | Colección de fotos de eventos | - `id`: UUID - Identificador único<br>- `organizerId`: UUID - ID del organizador<br>- `title`: String - Título<br>- `description`: String - Descripción<br>- `createdAt`: Date - Fecha de creación | - `createAlbum()`: Crea un nuevo álbum<br>- `addPicture()`: Añade una foto |
 | **Picture** | Imagen almacenada en un álbum | - `id`: UUID - Identificador único<br>- `albumId`: UUID - ID del álbum<br>- `imageUrl`: String - URL de la imagen<br>- `description`: String - Descripción<br>- `uploadedAt`: Date - Fecha de carga | - `uploadPicture()`: Sube una imagen |
 
-## Event Management
+#### Event Management
 
 | Clase/Enum | Descripción | Atributos | Métodos |
 |------------|-------------|-----------|---------|
@@ -656,7 +708,7 @@ Finalmente, en esta sección se detallan los componentes internos de la Single P
 | **TaskPriority** | Prioridades de una tarea | - `LOW`: Baja<br>- `MEDIUM`: Media<br>- `HIGH`: Alta | |
 | **Calendar** | Calendario de eventos | - `id`: UUID - Identificador único<br>- `userId`: UUID - ID del usuario<br>- `syncedWithGoogle`: boolean - Sincronizado<br>- `lastSyncDate`: Date - Última sincronización | - `syncWithGoogleCalendar()`: Sincroniza<br>- `addEvent()`: Añade evento<br>- `removeEvent()`: Elimina evento |
 
-## Payment and Subscription
+#### Payment and Subscription
 
 | Clase/Enum | Descripción | Atributos | Métodos |
 |------------|-------------|-----------|---------|
@@ -666,7 +718,7 @@ Finalmente, en esta sección se detallan los componentes internos de la Single P
 | **Subscription** | Suscripción de usuario a un plan | - `id`: UUID - Identificador único<br>- `userId`: UUID - ID del usuario<br>- `planId`: UUID - ID del plan<br>- `paymentMethodId`: UUID - ID del método de pago<br>- `startDate`: Date - Inicio<br>- `endDate`: Date - Fin<br>- `status`: SubscriptionStatus - Estado<br>- `autoRenew`: boolean - Renovación automática | - `subscribeToPlan()`: Suscribe al plan<br>- `cancelSubscription()`: Cancela suscripción<br>- `changePlan()`: Cambia de plan<br>- `renewSubscription()`: Renueva suscripción |
 | **SubscriptionStatus** | Estados de una suscripción | - `ACTIVE`: Activa<br>- `CANCELLED`: Cancelada<br>- `EXPIRED`: Expirada | |
 
-## Quote Management
+#### Quote Management
 
 | Clase/Enum | Descripción | Atributos | Métodos |
 |------------|-------------|-----------|---------|
@@ -674,7 +726,7 @@ Finalmente, en esta sección se detallan los componentes internos de la Single P
 | **QuoteStatus** | Estados de una cotización | - `DRAFT`: Borrador<br>- `SENT`: Enviada<br>- `ACCEPTED`: Aceptada<br>- `REJECTED`: Rechazada<br>- `EXPIRED`: Expirada | |
 | **ServiceItem** | Elemento de servicio en cotización | - `id`: UUID - Identificador único<br>- `quoteId`: UUID - ID de la cotización<br>- `name`: String - Nombre<br>- `description`: String - Descripción<br>- `unitPrice`: float - Precio unitario<br>- `quantity`: int - Cantidad<br>- `totalPrice`: float - Precio total | - `createServiceItem()`: Crea elemento<br>- `updateServiceItem()`: Actualiza elemento<br>- `removeServiceItem()`: Elimina elemento |
 
-## Communication
+#### Communication
 
 | Clase/Enum | Descripción | Atributos | Métodos |
 |------------|-------------|-----------|---------|
@@ -684,7 +736,7 @@ Finalmente, en esta sección se detallan los componentes internos de la Single P
 | **Notification** | Notificación del sistema | - `id`: UUID - Identificador único<br>- `userId`: UUID - ID del destinatario<br>- `type`: NotificationType - Tipo<br>- `content`: String - Contenido<br>- `isRead`: boolean - Estado de lectura<br>- `createdAt`: Date - Fecha de creación | - `createNotification()`: Crea notificación<br>- `markAsRead()`: Marca como leída |
 | **NotificationType** | Tipos de notificaciones | - `MESSAGE`: Mensaje nuevo<br>- `QUOTE_REQUEST`: Solicitud de cotización<br>- `PAYMENT`: Relacionada con pagos<br>- `REMINDER`: Recordatorio<br>- `SYSTEM`: Del sistema | |
 
-## Reviews and Ratings
+#### Reviews and Ratings
 
 | Clase/Enum | Descripción | Atributos | Métodos |
 |------------|-------------|-----------|---------|
