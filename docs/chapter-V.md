@@ -1975,9 +1975,192 @@ Enlance: https://trello.com/b/raylAcjO/eventify-sprint-backlog-4
 
 
 #### 5.2.4.4.Development Evidence for Sprint Review.
+
+A continuación, se mostrarán los commits últimos registrados en el repositorio correspondiente al backend para el desarrollo del sprint 4.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-web/eventify-platfom </td>
+    <td align="center"> feature/quote-management</td>
+    <td align="center"> e851915f3f54ed55c7cdb521fd3eaf268ce1f0d7</td>
+    <td align="center"> feat(planning): add acl planning external profile service</td>
+    <td align="center"> ---</td>
+    <td align="center"> 05/07/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/profile-management</td>
+    <td align="center" > c699202593a4593bb96af9d787690243d76da12f</td>
+    <td align="center"> fix(pom): correct spelling of 'platform' in artifactId and name.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 01/07/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/reviews-management</td>
+    <td align="center">e0ee6a9f679a46df2f638830f10a0de953170703</td>
+    <td align="center"> fix: bean creation failure.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/event-management</td>
+    <td align="center"> d3212ba217da342b3b4d99e6ad1c9e3291e80ad8</td>
+    <td align="center"> feat(planning): add documentation for planning bounded context and social event management.</td>
+    <td align="center"> ---</td>
+    <td align="center">07/07/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/develop</td>
+    <td align="center"> 4166cc97eec4857b4008e1773bb55dd5cbcb7ae5</td>
+    <td align="center"> feat(iam): check properties.</td>
+    <td align="center"> ---</td>
+    <td align="center">07/07/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/iam</td>
+    <td align="center"> d78e4e4d873057d88c8000bc2b7a0c2ffdc12385</td>
+    <td align="center"> feat(iam): update application-prod.properties</td>
+    <td align="center"> ---</td>
+    <td align="center">07/07/2025</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Message body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-Web/eventify-front-end </td>
+    <td align="center"> feature/develop</td>
+    <td align="center"> 051b1907d086f53f1e745007186623da9bc1ab61</td>
+    <td align="center"> Merge branch 'feature/event-management' into develop</td>
+    <td align="center"> ---</td>
+    <td align="center"> 08/07/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/event-management</td>
+    <td align="center" > 35a6eac8dad523388984eadc38fd2bb03eb7a521</td>
+    <td align="center"> refactor(calendar): refactor calendar view path and integrate FullCalendar.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 08/07/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/iam</td>
+    <td align="center">3d8198364a60a020a3f2f35af491242b26a0c4a5</td>
+    <td align="center"> feat(iam): add authentication section in navigation bar component</td>
+    <td align="center"> ---</td>
+    <td align="center"> 08/07/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/profile-management</td>
+    <td align="center"> 916bc3e3171e128c64c16edd415086d6629c5555</td>
+    <td align="center"> feat(base-service): add unit tests for BaseService with TestService implementation.</td>
+    <td align="center"> ---</td>
+    <td align="center">21/06/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/quotes-management</td>
+    <td align="center"> 62258159bd17a3ab0aca2b30e651cad5cd511247</td>
+    <td align="center"> feat(service-item): add update service item functionality</td>
+    <td align="center"> ---</td>
+    <td align="center">08/07/2025</td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Message body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/AngelDevs-Web/eventify-landing-page </td>
+    <td align="center"> develop</td>
+    <td align="center"> d655cbc4b5c8a03a035c167cc050d7c915c6634a</td>
+    <td align="center"> refactor(paths): refactor assets paths in html.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 05/07/2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"> main</td>
+    <td align="center"> a27215605323f59a313455f164e3aa2bb2af7f8c</td>
+    <td align="center"> refactor(assets): refactor developers profiles.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 05/07/2025</td>
+  </tr>
+
+</table>
+
 #### 5.2.4.5.Execution Evidence for Sprint Review.
 
+**Landing Page** 
 
+**URL:** https://angeldevs-web.github.io/eventify-landing-page/
+
+La landing page de Eventify está diseñada para captar la atención de nuevos usuarios y ofrecer una visión clara del propósito de la plataforma. Incluye secciones informativas, un diseño moderno y responsivo, y llamados a la acción bien definidos. Las siguientes imágenes muestran diferentes partes de la interfaz.
+
+![landing-page-1](/assets/chapter-V/landing-page-sprint3-1.png)
+
+![landing-page-2](/assets/chapter-V/landing-page-sprint3-2.png)
+
+![landing-page-1](/assets/chapter-V/landing-page-sprint3-3.png)
+
+![landing-page-1](/assets/chapter-V/landing-page-sprint3-4.png)
+
+![landing-page-1](/assets/chapter-V/landing-page-sprint3-5.png)
+
+![landing-page-1](/assets/chapter-V/landing-page-sprint3-6.png)
+
+![landing-page-1](/assets/chapter-V/landing-page-sprint3-7.png)
+
+
+**FrontEnd**
+
+**URL**: https://eventify-webapp-frontend.web.app/quotes
+
+El frontend de Eventify proporciona una interfaz intuitiva para que los usuarios puedan interactuar con la plataforma. En esta sección específica se muestra el flujo de cotizaciones, donde los clientes pueden visualizar y gestionar solicitudes de eventos.
+
+![frontend-quotes](/assets/chapter-V/frontend-quotes-sprint-3.png)
+
+**Backend**
+
+**URL**: https://eventify-plaftorm.onrender.com/swagger/index.html
+
+El backend expone una API RESTful documentada mediante Swagger, facilitando la integración y prueba de endpoints. A continuación, se muestran capturas del estado actual de la documentación de la API.
+
+![backend-sprint-4-1](/assets/chapter-V/backend-sprint-3.png)
+
+![backend-sprint-4-2](/assets/chapter-V/backend-sprint-3-2.png)
 
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review.
