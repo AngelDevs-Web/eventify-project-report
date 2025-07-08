@@ -272,6 +272,7 @@ A continuación, se presentará un resumen de cada entrevista realizada a los se
 **Entrevista 1: John Rafael Cutiri Chinchay**
 
 ![Anfitrion 1](../assets/chapter-II/entrevista-anfitrion-1.png)
+*_Evidencia en fotografía de Entrevista 1 hacia John Rafael Cutiri Chinchay - Segmento Anfitriones_*
 
 **Datos del entrevistado**
 * **Nombre:** John Rafael Cutiri Chinchay
@@ -300,6 +301,7 @@ A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resu
 **Entrevista 2: Cenith Luque García**
 
 ![Anfitrion_2](../assets/chapter-II/entrevista-anfitrión-2.png)
+*_Evidencia en fotografía de Entrevista 2 hacia Cenith Luque García - Segmento Anfitriones_*
 
 **Datos del entrevistado**
 * **Nombre:** Cenith Luque García
@@ -327,6 +329,8 @@ Finalmente, la entrevistada afirmó que recomendaría al organizador del evento,
 **Entrevista 3: Anacristina Reymundo Mamani**
 
 ![Anfitrion_3](../assets/chapter-II/entrevista-anfitrión-3.png)
+
+*_Evidencia en fotografía de Entrevista 3 hacia Anacristina Reymundo Mamani - Segmento Anfitriones_*
 
 **Datos del entrevistado**
 * **Nombre:** Anacristina Reymundo Mamani
@@ -364,6 +368,7 @@ Los aspectos más frustrantes fueron la falta de comunicación oportuna y alguno
 **Entrevista 1: Teodoro Paico Sernaqué**
 
 ![Organizador-1](../assets/chapter-II/entrevista-organizador-1.png)
+*_Evidencia en fotografía de Entrevista 1 hacia Teodoro Paico Sernaqué - Segmento Organizadores_*
 
 **Datos del entrevistado:**
 * **Nombre:** Teodoro Paico Sernaqué
@@ -391,7 +396,9 @@ Un aspecto que considera importante mejorar es la automatización del control y 
 
 **Entrevista 2: Jaicob Diaz**
 
-![Organizador-2](/assets/chapter-II/entrevista-organizador-2.png)
+![Organizador-2](/assets/chapter-II/entrevista-organizador-2.png) 
+
+*_Evidencia en fotografía de Entrevista 2 hacia Jaicob Diaz - Segmento Organizadores_*
 
 **Datos del entrevistado:**
 * **Nombre:** Jaicob Emmir Diaz Zubiate
@@ -421,6 +428,7 @@ Considera que un aspecto para automatizar es la organización de los contactos o
 **Entrevista 3: Sara Goveya**
 
 ![Organizador-3](/assets/chapter-II/entrevista-organizador-3.jpeg)
+*_Evidencia en fotografía de Entrevista 3 hacia Sara Goveya - Segmento Organizadores_*
 
 **Datos del entrevistado:**
 * **Nombre:** Sara Goveya
@@ -457,24 +465,33 @@ A través de gráficos estadísticos, se muestran los resultados más relevantes
 
 <p align="center">
   <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_1.png" alt="Grafico_Anfitriones_1" width="60%">
+  <br> Los resultados muestran que el 60% de anfitriones utilizan celular para comunicarse con su organizador, mientras que el 40% restante se equilibra en Pc y laptop <br>
+
 </p>
 <p align="center">
   <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_2.png" alt="Grafico_Anfitriones_2" width="60%">
+    <br> Gráfico acerca del tipo de evento que contrataron <br>
 </p>
 <p align="center">
   <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_3.png" alt="Grafico_Anfitriones_3" width="60%">
+  <br> Gráfico acerca de cómo encontraron a su organizador de eventos <br>
 </p>
 <p align="center">
   <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_4.png" alt="Grafico_Anfitriones_4" width="60%">
+<br> Gráfico acerca de servicios que les costó entender o comparar <br>
 </p>
 <p align="center">
   <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_5.png" alt="Grafico_Anfitriones_5" width="60%">
+<br> Gráfico acerca la valoración de la comunicación con su organizador durante el proceso. <br>
 </p>
 <p align="center">
   <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_6.png" alt="Grafico_Anfitriones_6" width="60%">
+<br> Gráfico acerca de los medios de comunicación con la que interactuaron con su organizador <br>
 </p>
 <p align="center">
   <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_7.png" alt="Grafico_Anfitriones_7" width="60%">
+
+<br>
 </p>
 <p align="center">
   <img src="/assets/chapter-II/Grafico_Excel_Anfitriones_8.png" alt="Grafico_Anfitriones_8" width="60%">
@@ -653,6 +670,8 @@ Para realizar el *As-is scenario mapping* de este segmento se han identificado l
 En el As-is scenario mapping de este segmento se han identificado los principales pasos que siguen los anfitriones de eventos al momento de gestionar un evento. Este mapa ilustra el proceso actual de nuestro user persona, Laura Gómez, destacando las interacciones con los organizadores y los desafíos que enfrentan en cada etapa.
 
 ![As-is Scenario Map 2](../assets/chapter-II/as-is-scenario-anfitrion.png)
+*_ As-is Scenario Mapping - Segmento Organizadores y Anfitriones_*
+
 
 # 2.4. Ubiquitous Language
 
