@@ -1026,7 +1026,9 @@ En este componente se contendra el listado de tareas unitarias, existiran 4 colu
 
 Este componente contendra el listado de columnas, cada columna tendra un nombre y un contador que evidenciara la cantidad de tareas con las que cuenta cada columna. Este componente es el padre de los task column component.
 
-![task-management-page](../assets/chapter-V/task-board-management.PNG)
+![task-management-page](../assets/chapter-V/task-board-management.PNG) 
+
+
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
@@ -1604,7 +1606,10 @@ Enlance: https://trello.com/b/2zjBMbhf/eventify-sprint-backlog-3
 
 ![backend-sprint-3-1](/assets/chapter-V/backend-sprint-3.png)
 
-![backend-sprint-3-2](/assets/chapter-V/backend-sprint-3-2.png)
+![backend-sprint-3-2](/assets/chapter-V/backend-sprint-3-2.png) 
+
+![backend-planning-social-events](/assets/chapter-V/backend-planning-social-events.png)
+
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
@@ -1675,6 +1680,48 @@ Enlance: https://trello.com/b/2zjBMbhf/eventify-sprint-backlog-3
     <td> /api/v1/quotes/{quoteId}/service-items</td>
     <td> Obtiene todos los servicios de una cotización</td>
   </tr>
+
+</table>
+<br>
+
+<table> 
+  <tr>
+    <td> <strong>Action </strong></td>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> POST</td>
+    <td> /api/v1/social-events</td>
+    <td> Crea un evento social</td>
+  </tr>
+  <tr>
+    <td> GET</td>
+    <td> /api/v1/social-events</td>
+    <td> Obtiene todos los eventos sociales</td>
+  </tr>
+  <tr>
+    <td> GET</td>
+    <td> /api/v1/social-events/{socialEventId}</td>
+    <td> Obtiene un evento social por ID</td>
+  </tr>
+  <tr>
+    <td> PUT</td>
+    <td> /api/v1/social-events/{socialEventId}</td>
+    <td> Actualiza un evento social</td>
+  </tr>
+  <tr>
+    <td> DELETE</td>
+    <td> /api/v1/social-events/{socialEventId}</td>
+    <td> Elimina un evento social</td>
+  </tr>
+  <tr>
+    <td> GET</td>
+    <td> /api/v1/social-events/customer/{customerName}</td>
+    <td> Obtiene eventos sociales por nombre de cliente</td>
+  </tr>
+
 </table>
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
@@ -1714,7 +1761,8 @@ Para el despliegue del backend utilizamos el servicio de Render
 
 **Pulse**
 
-![pulse-insights-landing](/assets/chapter-V/pulse-insights-landing-page.png)
+![pulse-insights-landing](/assets/chapter-V/pulse-insights-landing-page.png) 
+
 
 
 **Contributors**
@@ -1963,18 +2011,11 @@ Enlance: https://trello.com/b/raylAcjO/eventify-sprint-backlog-4
     <td align="center"> Cutiri Agüero, Fabrizio Alexander </td>
     <td align="center"> Done</td>
   </tr>
-   <tr>
-    <td align="center"> TA15 </td>
-    <td align="center"> Implement security</td>
-    <td align="center"> Quiero agregar autenticación para la plataforma web.</td>
-    <td align="center"> 3 </td>
-    <td align="center"> Rios Piñan, Dayro Richard </td>
-    <td align="center">In Progress</td>
-  </tr>
+   
 </table>
 
 
-#### 5.2.4.4.Development Evidence for Sprint Review.
+#### 5.2.4.4.Development Evidence for Sprint Review. 
 
 A continuación, se mostrarán los commits últimos registrados en el repositorio correspondiente al backend para el desarrollo del sprint 4.
 
@@ -2219,4 +2260,4 @@ A continuación se presentan las preguntas de validación utilizadas para las en
 
 ### 5.3.2. Registro de Entrevistas.
 ### 5.3.3. Evaluaciones según heurísticas.
-## 5.4. Video About-the-Product
+## 5.4. Video About-the-Product 
