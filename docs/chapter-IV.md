@@ -522,8 +522,50 @@ Esta sección presenta el diseño de los wireframes de nuestras aplicaciones, lo
 
 En esta sección se presentan los diagramas de flujo de la aplicación web, que ilustran las interacciones y el flujo de navegación entre las diferentes pantallas y funcionalidades. Estos diagramas ayudan a comprender cómo los usuarios interactuarán con la plataforma y cómo se moverán a través de las distintas secciones.
 
+Se presenta el enlace donde se realizaron los wireflows: https://tinyurl.com/3atdnfrt
 
+Se presentaran los wireflows que competen con nuestros user goals
 
+user goal: Registrarse e iniciar sesión como Anfitrión o como Organizador de eventos.
+<br>
+![wireflow-1.png](../assets/chapter-IV/wireflow-1.png)
+<br>
+---
+user goal: Recuperar contraseña.
+<br>
+![wireflow-2.png](../assets/chapter-IV/wireflow-2.png)
+<br>
+---
+user goal: Chat de mensajes entre Anfitrión y Organizador.
+<br>
+![wireflow-3.png](../assets/chapter-IV/wireflow-3.png)
+<br>
+---
+user goal: Visualizar perfil de los Organizadores.
+<br>
+![wireflow-4.png](../assets/chapter-IV/wireflow-4.png)
+<br>
+---
+user goal: Calificar un Organizador.
+<br>
+![wireflow-5.png](../assets/chapter-IV/wireflow-5.png)
+<br>
+---
+user goal: Nofticaciones de eventos.
+<br>
+![wireflow-6.png](../assets/chapter-IV/wireflow-6.png)
+<br>
+---
+user goal: Visualizar eventos.
+<br>
+![wireflow-7.png](../assets/chapter-IV/wireflow-7.png)
+<br>
+---
+user goal: Visualizar cotizaciones.
+<br>
+![wireflow-8.png](../assets/chapter-IV/wireflow-8.png)
+<br>
+---
 ### 4.4.3. Web Applications Mock-ups
 En esta sección se muestran los mock-ups del Web Applications, que sirven como una representación visual de alta fidelidad para anticipar cómo se verá y funcionará la interfaz final. [Mock Ups - Eventify](https://www.figma.com/design/uPtLATLNkVL8P5xY7wBOc2/Eventify---Landing-page?node-id=160-2)
 <br>
